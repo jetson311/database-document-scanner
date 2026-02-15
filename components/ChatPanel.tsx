@@ -1,7 +1,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
-import { askDocumentQuestion } from '../services/geminiService';
-import { MOCK_DOCUMENTS } from '../constants';
+import { askDocumentQuestion } from '../services/anthropicService';
+import { VillageDocument } from '../types';
 
 interface Message {
   role: 'user' | 'assistant';
@@ -10,29 +10,44 @@ interface Message {
 }
 
 interface ChatPanelProps {
+  documents: VillageDocument[];
   externalTriggerMessage?: string | null;
   onMessageProcessed?: () => void;
 }
 
-const SparkleIcon = ({ className = "w-4 h-4" }) => (
-  <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-7.714 2.143L11 21l-2.286-6.857L1 12l7.714-2.143L11 3z" />
+const SparkleIcon = ({ className = 'w-4 h-4', strokeWidth = 1.5 }: { className?: string; strokeWidth?: number }) => (
+  <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
+    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={strokeWidth} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-7.714 2.143L11 21l-2.286-6.857L1 12l7.714-2.143L11 3z" />
   </svg>
 );
 
-export const ChatPanel: React.FC<ChatPanelProps> = ({ externalTriggerMessage, onMessageProcessed }) => {
+export const ChatPanel: React.FC<ChatPanelProps> = ({ documents, externalTriggerMessage, onMessageProcessed }) => {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'assistant', content: "SYSTEM ONLINE. I am the intelligence engine for Ballston Spa's archive. How can I assist you with document research today?" }
+    { role: 'assistant', content: "I can answer questions about documents, meetings, and this page. What would you like to know?" }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
-    }
+    const el = scrollRef.current;
+    if (!el) return;
+    const scrollToBottom = () => {
+      el.scrollTop = el.scrollHeight;
+    };
+    scrollToBottom();
+    requestAnimationFrame(scrollToBottom);
   }, [messages]);
+
+  useEffect(() => {
+    if (!isLoading && scrollRef.current) {
+      requestAnimationFrame(() => {
+        const el = scrollRef.current;
+        if (!el) return;
+        el.scrollTop = el.scrollHeight - el.clientHeight;
+      });
+    }
+  }, [isLoading]);
 
   // Handle external triggers
   useEffect(() => {
@@ -49,7 +64,7 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ externalTriggerMessage, on
     setIsLoading(true);
 
     try {
-      const result = await askDocumentQuestion(msgContent, MOCK_DOCUMENTS);
+      const result = await askDocumentQuestion(msgContent, documents);
       setMessages(prev => [...prev, { 
         role: 'assistant', 
         content: result.text || "No specific records matching your query were identified.",
@@ -69,29 +84,27 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ externalTriggerMessage, on
   };
 
   return (
-    <div className="flex flex-col h-full bg-white font-sans border-l border-slate-200">
-      <div className="p-6 bg-slate-900 text-white flex items-center justify-between border-b border-white/10 shadow-lg">
-        <div className="flex items-center gap-4">
-          <SparkleIcon className="w-5 h-5 text-indigo-400" />
-          <h3 className="font-bold text-[14px] uppercase tracking-[0.4em]">SYSTEM INTEL</h3>
-        </div>
+    <div className="chat-panel">
+      <div className="chat-panel-header">
+        <SparkleIcon className="chat-panel-header-icon" strokeWidth={1.5} />
+        <span className="chat-panel-header-title">System</span>
       </div>
 
-      <div ref={scrollRef} className="flex-1 overflow-y-auto p-8 space-y-10 scrollbar-hide">
+      <div ref={scrollRef} className="chat-messages scrollbar-hide">
         {messages.map((m, i) => (
-          <div key={i} className={`flex flex-col ${m.role === 'user' ? 'items-end' : 'items-start'} animate-in fade-in slide-in-from-bottom-4 duration-500`}>
-            <span className="text-[12px] font-bold uppercase text-slate-300 mb-2 tracking-[0.3em]">
-              {m.role === 'user' ? 'Transmission' : 'Intelligence Output'}
+          <div key={i} className={m.role === 'user' ? 'chat-message chat-message--user' : 'chat-message chat-message--assistant'}>
+            <span className="chat-message-label">
+              {m.role === 'user' ? 'User' : 'System'}
             </span>
-            <div className={`max-w-[100%] p-6 rounded-lg text-[14px] leading-relaxed transition-all shadow-sm ${m.role === 'user' ? 'bg-indigo-600 text-white' : 'bg-slate-50 text-slate-800 border border-slate-200'}`}>
-              <div className="whitespace-pre-wrap font-bold tracking-tight">{m.content}</div>
+            <div className={m.role === 'user' ? 'chat-message-bubble chat-message-bubble--user' : 'chat-message-bubble chat-message-bubble--assistant'}>
+              <div className="chat-message-content">{m.content}</div>
               {m.sources && m.sources.length > 0 && (
-                <div className="mt-6 pt-6 border-t border-slate-200/50">
-                  <p className="text-[12px] uppercase font-bold text-slate-400 mb-3 tracking-[0.3em]">SOURCES</p>
-                  <div className="flex flex-col gap-2">
+                <div className="chat-sources">
+                  <p className="chat-sources-title">SOURCES</p>
+                  <div className="chat-sources-list">
                     {m.sources.map((s, si) => (
-                      <a key={si} href={s.url} target="_blank" className="text-[14px] text-indigo-600 hover:text-indigo-800 font-bold flex items-center gap-3 transition-colors group">
-                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                      <a key={si} href={s.url} target="_blank" rel="noopener noreferrer" className="chat-source-link">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
                         {s.title}
                       </a>
                     ))}
@@ -102,19 +115,19 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ externalTriggerMessage, on
           </div>
         ))}
         {isLoading && (
-          <div className="flex flex-col items-start animate-pulse">
-             <span className="text-[12px] font-bold uppercase text-slate-300 mb-2 tracking-[0.3em]">WORKING</span>
-             <div className="flex gap-2 items-center bg-slate-50 px-4 py-3 rounded-full">
-                <div className="w-1.5 h-1.5 bg-indigo-600 rounded-full animate-bounce"></div>
-                <div className="w-1.5 h-1.5 bg-indigo-600 rounded-full animate-bounce delay-100"></div>
-                <div className="w-1.5 h-1.5 bg-indigo-600 rounded-full animate-bounce delay-200"></div>
-             </div>
+          <div className="chat-loading">
+            <span className="chat-loading-label">WORKING</span>
+            <div className="chat-loading-dots">
+              <div className="chat-loading-dot" />
+              <div className="chat-loading-dot" />
+              <div className="chat-loading-dot" />
+            </div>
           </div>
         )}
       </div>
 
-      <div className="p-8 bg-slate-50 border-t border-slate-200">
-        <div className="relative group">
+      <div className="chat-footer">
+        <div className="chat-input-wrap">
           <textarea
             value={input}
             onChange={(e) => setInput(e.target.value)}
@@ -124,21 +137,24 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ externalTriggerMessage, on
                 handleSend();
               }
             }}
-            placeholder="Search records or ask questions..."
+            placeholder="Ask a question..."
             rows={2}
-            className="w-full bg-white border border-slate-200 rounded-lg p-5 pr-14 text-[15px] font-bold focus:outline-none focus:ring-4 focus:ring-indigo-100 focus:border-indigo-500 transition-all resize-none shadow-sm placeholder:text-slate-300 tracking-tight"
+            className="chat-textarea"
+            aria-label="Chat input"
           />
           <button
+            type="button"
             onClick={handleSend}
             disabled={isLoading || !input.trim()}
-            className="absolute right-4 bottom-7 p-2.5 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 disabled:opacity-20 transition-all shadow-lg active:scale-90"
+            className="chat-send-btn"
+            aria-label="Send message"
           >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 12h14M12 5l7 7-7 7" />
             </svg>
           </button>
         </div>
-        <p className="mt-4 text-[11px] text-slate-400 text-center font-bold uppercase tracking-[0.5em]">POWERED BY GEMINI 3 FLASH</p>
+        <p className="chat-powered-by">POWERED BY CLAUDE</p>
       </div>
     </div>
   );

@@ -1,0 +1,1400 @@
+{
+  "filename": "1.12.26_mtg_minutes.pdf",
+  "meeting_metadata": {
+    "date": "2026-01-12",
+    "meeting_type": "Organizational",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "8:03pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Dunkelbarger",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee DuBuque",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Attorney Buettner",
+          "title": "Village Attorney",
+          "present": true
+        },
+        {
+          "name": "Village Clerk Little",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Organizational meeting approving routine equipment purchases, personnel actions, and events while addressing public concerns about zoning code review timing and proposed residency requirements for board appointments. The board unanimously approved most items including fire department equipment, police hiring, and a water district contract, with discussion focusing on extending time for Planning Board review of zoning code changes.",
+  "topics_discussed": [
+    "meeting minutes approval",
+    "plow blades purchase",
+    "fire department software",
+    "zoning code review",
+    "residency requirements",
+    "public library equipment",
+    "fire department radios",
+    "water meter analyzer",
+    "saratoga county fair",
+    "truck tractor pull",
+    "fire company membership",
+    "police hiring",
+    "milton water district",
+    "legal retainer agreement",
+    "audit services",
+    "kelley park pavilion",
+    "dpw garage report",
+    "staffing needs",
+    "liaison reports",
+    "ethics board",
+    "short term rentals",
+    "translation services",
+    "voucher audit"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of 12/8/25 meeting",
+      "motion_type": "approval",
+      "mover": "Trustee DuBuque",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes approval"
+      ],
+      "notes": null
+    },
+    {
+      "section": "3b",
+      "motion_number": 2,
+      "motion_description": "Approve minutes of 12/15/25 Special Meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes approval"
+      ],
+      "notes": null
+    },
+    {
+      "section": "3c",
+      "motion_number": 3,
+      "motion_description": "Approve minutes of 1/1/26 Organizational & Special Meeting as revised to include Liaison assignments",
+      "motion_type": "approval",
+      "mover": "Trustee Dunkelbarger",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes approval"
+      ],
+      "notes": "Minutes revised to include Liaison assignments"
+    },
+    {
+      "section": "6a-i",
+      "motion_number": 4,
+      "motion_description": "Declare the Ballston Spa Public Library's legacy microfilm machine as surplus",
+      "motion_type": "declaration",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "public library equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-ii",
+      "motion_number": 5,
+      "motion_description": "Approve purchase by Ballston Spa Fire Department (EML) of two Motorola APX 4500 radios for $6,400.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        6400.0
+      ],
+      "related_topics": [
+        "fire department radios"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-iii",
+      "motion_number": 6,
+      "motion_description": "Approve purchase by Department of Public Works of OW Investors VEROflow1 Utility Service Analyzer for Residential Water Meters for $2,231.50",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        2231.5
+      ],
+      "related_topics": [
+        "water meter analyzer"
+      ],
+      "notes": "Consent agenda item - no comparable device was located, recommended by Laberge Engineering"
+    },
+    {
+      "section": "7a",
+      "motion_number": 7,
+      "motion_description": "Approve Saratoga County Fair event from July 21-26, 2026 (10am until 11pm daily) at Saratoga County Fairgrounds",
+      "motion_type": "event approval",
+      "mover": "Trustee Dunkelbarger",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "saratoga county fair"
+      ],
+      "notes": "Applied for by Saratoga County Agricultural Society, proof of insurance provided"
+    },
+    {
+      "section": "7b",
+      "motion_number": 8,
+      "motion_description": "Approve Truck & Tractor Pull / Vendor Fair on Saturday, October 10, 2026 (Rain Date: Sunday, October 11, 2026) from 9am until 8pm at Saratoga County Fairgrounds",
+      "motion_type": "event approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "Motion Passes",
+      "vote_breakdown": {
+        "Mayor Rossi": "NOT NEEDED",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "NO",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "truck tractor pull"
+      ],
+      "notes": "Applied for by Saratoga County Agricultural Society, proof of insurance provided. Mayor not needed for tie breaker"
+    },
+    {
+      "section": "7c",
+      "motion_number": 9,
+      "motion_description": "Approve resignation of Colin Weissman and Julius Miller from Union Fire Company No. 2 and remove their names from rolls",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "fire company membership"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7d",
+      "motion_number": 10,
+      "motion_description": "Approve membership of Christopher T. Freemantle and addition of his name to rolls of Eagle-Matt Lee Fire Company No. 1",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "fire company membership"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7e",
+      "motion_number": 11,
+      "motion_description": "Approve hiring of Part-Time Police Officer John Digman to Ballston Spa Police Department, pending police background check",
+      "motion_type": "hiring",
+      "mover": "Trustee DuBuque",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "police hiring"
+      ],
+      "notes": "Pending police background check"
+    },
+    {
+      "section": "7f",
+      "motion_number": 12,
+      "motion_description": "Approve hiring of Part-Time Police Officer Caitlin Whalen to Ballston Spa Police Department, pending police background check",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "police hiring"
+      ],
+      "notes": "Pending police background check"
+    },
+    {
+      "section": "7g",
+      "motion_number": 13,
+      "motion_description": "Conditionally accept bid of Trinity Construction for improvements to Milton Water District #3 Pump House for $339,763.00",
+      "motion_type": "bid acceptance",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "referenced in 1/1/26 meeting to get done before bid expires"
+        }
+      ],
+      "dollar_amounts": [
+        339763.0
+      ],
+      "related_topics": [
+        "milton water district"
+      ],
+      "notes": "Conditioned on approval and execution by Town of Milton of Intermunicipal Agreement with Village of Ballston Spa related to Milton Water District #3, authorizing Mayor to execute agreements after review by Village Attorney"
+    },
+    {
+      "section": "7h",
+      "motion_number": 14,
+      "motion_description": "Extend time set forth in Section 205-74 of Village Code to 65 days from December 15, 2025 to allow Planning Board to provide written advisory report on Draft Zoning Code",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Attorney Buettner",
+          "statement": "there is nothing illegal by doing this, you are waiving and extending the time frame"
+        },
+        {
+          "speaker": "Trustee VanDeinse-Perez",
+          "statement": "it is only due to timing"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "zoning code review"
+      ],
+      "notes": "Response to public comment on this motion"
+    },
+    {
+      "section": "7i",
+      "motion_number": 15,
+      "motion_description": "Approve legal retainer agreement for 2026 between Bartlett, Pontiff, Stewart & Rhodes, P.C., and Village of Ballston Spa, authorize Mayor to execute",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "legal retainer agreement"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7j",
+      "motion_number": 16,
+      "motion_description": "Approve audit agreement between Teal, Becker & Chiaramonte, CPAs, P.C. and Village of Ballston Spa for audit services including single audit for USDA Loan purposes, authorize Mayor to execute",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "this is adding a $5000 single audit cost to get the loan closed"
+        }
+      ],
+      "dollar_amounts": [
+        5000.0
+      ],
+      "related_topics": [
+        "audit services"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7k",
+      "motion_number": 17,
+      "motion_description": "Approve purchase from T&T sales of 2 sets of plow blades for DPW Snowplows totaling $1,078.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        1078.0
+      ],
+      "related_topics": [
+        "plow blades purchase"
+      ],
+      "notes": "Walk-on item mentioned in public comment section"
+    },
+    {
+      "section": "7l",
+      "motion_number": 18,
+      "motion_description": "Approve purchase of software for Fire Departments from Alpine Software totaling $7,489.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        7489.0
+      ],
+      "related_topics": [
+        "fire department software"
+      ],
+      "notes": "Software meets state mandates. Walk-on item mentioned in public comment section"
+    },
+    {
+      "section": "12a",
+      "motion_number": 19,
+      "motion_description": "Hold public hearing at 7:01pm January 2026 for proposed Local Law 1 Residency Requirement for Appointed Officials during normal Board meeting",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee DuBuque",
+          "statement": "it seemed straight forward"
+        },
+        {
+          "speaker": "Trustee VanDeinse-Perez",
+          "statement": "there has been a lot of discussion on this and concerns from folks about losing the experience of those on the Board that are there now. This is a compromise"
+        },
+        {
+          "speaker": "Trustee Dunkelbarger",
+          "statement": "Supports the update and would hate to lose the experienced members"
+        },
+        {
+          "speaker": "Trustee Price-Bush",
+          "statement": "thinks Karla did a great job including and it covers all the bases"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "residency requirements"
+      ],
+      "notes": "Attorney Buettner drafted law to limit and expand current law for Planning and Zoning Board"
+    },
+    {
+      "section": "16",
+      "motion_number": 20,
+      "motion_description": "Audit vouchers and adjourn meeting at 8:03pm",
+      "motion_type": "procedural",
+      "mover": "Trustee DuBuque",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Dunkelbarger": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee DuBuque": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        446035.33
+      ],
+      "related_topics": [
+        "voucher audit"
+      ],
+      "notes": "Total vouchers: General Fund $356,930.49, Sewer Relevy $206.69, Capital Projects $79,167.70, Library Fund $8,689.34, Trust & Agency $1,041.11"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High St",
+        "affiliation": null
+      },
+      "comment_text": "7h) proposed change to village law to extend time to the board for review Zoning code draft, can the trustees explain why they need extra time?",
+      "comment_type": "Question",
+      "topics": [
+        "zoning code review"
+      ],
+      "referenced_items": [
+        "7h"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questioned why trustees need extra time to review zoning code draft",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde",
+        "affiliation": null
+      },
+      "comment_text": "Ditto to what Marilyn said and 12a) proposed local law- doesn't think there is a need to change the law. On the abstract, pg 13 an item for $30,695.00 (Dival for Fire Equipt- Coats and Pants) no reports in past that show this was out to bid?",
+      "comment_type": "Mixed",
+      "topics": [
+        "zoning code review",
+        "residency requirements",
+        "fire equipment"
+      ],
+      "referenced_items": [
+        "7h",
+        "12a",
+        "abstract pg 13"
+      ],
+      "agrees_with": [
+        "Marilyn Stephenson"
+      ],
+      "opposes": [
+        "proposed local law changes"
+      ],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [
+        30695.0
+      ],
+      "summary": "Agreed with Marilyn about zoning time extension, opposed proposed local law changes, questioned bidding process for fire equipment purchase",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Ellie Dillon",
+        "address": "116 Malta Ave",
+        "affiliation": null
+      },
+      "comment_text": "Ditto what Liz said and urging about considering village residents, having vested interest in this.",
+      "comment_type": "Support",
+      "topics": [
+        "residency requirements"
+      ],
+      "referenced_items": [],
+      "agrees_with": [
+        "Liz Kormos"
+      ],
+      "opposes": null,
+      "supports": [
+        "village residents consideration"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Agreed with Liz and urged consideration of village residents' vested interest",
+      "board_response": null
+    },
+    {
+      "section": "12a",
+      "comment_number": 4,
+      "comment_period": "90 second public comment on proposed Local Law 1",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "glad you reduced it down to bordering towns but thinks there should be a stipulation that Village residents are considered first.",
+      "comment_type": "Mixed",
+      "topics": [
+        "residency requirements"
+      ],
+      "referenced_items": [
+        "12a"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "village residents priority"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Appreciated reduction to bordering towns but wanted village residents prioritized",
+      "board_response": null
+    },
+    {
+      "section": "12a",
+      "comment_number": 5,
+      "comment_period": "90 second public comment on proposed Local Law 1",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "disappointed this came up on agenda without the public seeing any proposal first. Doesn't see a reason for non-village residents appointed over village residents that have expertise.",
+      "comment_type": "Concern",
+      "topics": [
+        "residency requirements"
+      ],
+      "referenced_items": [
+        "12a"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "non-village resident appointments"
+      ],
+      "supports": [
+        "village residents with expertise"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Disappointed proposal appeared without prior public review, opposed non-village residents being appointed over qualified village residents",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "the proposed law will be posted for public viewing as early as tomorrow per Attorney Buettner, it can be posted on the website"
+      }
+    },
+    {
+      "section": "13",
+      "comment_number": 6,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Village code change clarification- will the Planning board discuss this at their Feb 11th meeting? Wonders about roles of Zoning Board of Appeals if their discussion of code will be made public since they will not have a meeting this month? Mentioned public meetings for other committees are not posted on the Website.",
+      "comment_type": "Question",
+      "topics": [
+        "zoning code review",
+        "meeting schedules"
+      ],
+      "referenced_items": [
+        "Feb 11 meeting"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Asked about Planning Board February meeting, Zoning Board role in code discussion, and complained committee meetings not posted on website",
+      "board_response": {
+        "responder": "Village Administrator",
+        "response": "she had not heard from 2 of them and Historic Commission did not give her a location so she was unable to post it by today's meeting"
+      }
+    },
+    {
+      "section": "13",
+      "comment_number": 7,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde",
+        "affiliation": null
+      },
+      "comment_text": "Ethics Board only has 1 member, when will the Board of Trustees fill the openings? Short term rentals- stated there is no reason the Village cannot move ahead and draft a short-term law now, read Amendment law quote.",
+      "comment_type": "Question",
+      "topics": [
+        "ethics board",
+        "short term rentals"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "short term rental law"
+      ],
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Asked when Ethics Board vacancies will be filled and urged Village to draft short-term rental law immediately",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "the county will be the taxing source on this and they will set up the registry, so we are waiting to see how that works first. In regard to the Ethics Board he and Karla discussed this on Friday, and she will review the code and term language and possibly revising so those who are appointed will know what term they are in and not everyone falls off at the same time"
+      }
+    },
+    {
+      "section": "13",
+      "comment_number": 8,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Gina Marrozzi",
+        "address": "10 Old Glory Lane",
+        "affiliation": null
+      },
+      "comment_text": "Sleigh riding, still determining the date, Mr. Peck has offered to move snow for them again this year. They are looking for it to take place end of February.",
+      "comment_type": "Information",
+      "topics": [
+        "sleigh riding"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Updated on sleigh riding event planning for end of February with Mr. Peck's snow moving assistance",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Kelley Park Pavilion Winter Closure",
+      "speaker": "Mayor Rossi",
+      "announcement": "Mayor Rossi spoke to Chief Bush and DPW Supervisor Scott Kerns to discuss ideas for closing the Kelley Park pavilion during the winter months to deter those trying to use it as a shelter. They would like to close it off, after winterizing but still allow visibility to keep folks out of the area due to safety. Chief Bush and his Police officers have been doing what they can to help and with Scott Kerns help to fence it and put proper signage in place.",
+      "related_topics": [
+        "kelley park pavilion",
+        "public safety"
+      ],
+      "action_items": [
+        "Close Kelley Park pavilion for winter",
+        "Install fencing and signage",
+        "Find outreach resources for homeless individual"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": [
+        {
+          "trustee": "Trustee VanDeinse-Perez",
+          "response": "our PD has been trying to help the individual who has been using it, she agrees due to concerns, safety and people's reluctance to seek alternate solutions. asked about Saratoga County having services or resources that could help? Can we find some sort of outreach that can be helpful."
+        },
+        {
+          "trustee": "Trustee DuBuque",
+          "response": "agrees, stay compassionate and this may possibly be a solution"
+        },
+        {
+          "trustee": "Mayor Rossi",
+          "response": "he agrees and wants to get them help. we can look into it and get suggestions"
+        }
+      ]
+    },
+    {
+      "topic": "DPW Garage Report",
+      "speaker": "Mayor Rossi",
+      "announcement": "Friday they received the report from engineers. Both Scott and the Mayor and Trustee Dunkelbarger were less than in awe with the report. The estimate was 9,750 sq ft for $4 million, 13,000 sq ft would be $8 million? Mayor feels going up 50% in size should not increase the price that much. The Mayor and Scott would like to think outside the box to find a better option to utilize the village tax dollars. He will wait to see what Don Rhodes can come up with and revisit.",
+      "related_topics": [
+        "dpw garage report",
+        "infrastructure"
+      ],
+      "action_items": [
+        "Review alternative options for DPW garage",
+        "Wait for Don Rhodes recommendations"
+      ],
+      "dollar_amounts": [
+        4000000.0,
+        8000000.0
+      ],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Staffing",
+      "speaker": "Mayor Rossi",
+      "announcement": "working on posting for open position for Deputy Treasurer/Deputy Clerk to get more assistance in the office.",
+      "related_topics": [
+        "staffing needs"
+      ],
+      "action_items": [
+        "Post Deputy Treasurer/Deputy Clerk position"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Attorney Training",
+      "speaker": "Mayor Rossi",
+      "announcement": "Thank you for coming in Friday to answer questions by village office staff and go over legal stuff with Rebecca as well as water, planning and zoning questions with Kathy. Maybe make this a more regular thing and include the trustees as well and make it more educational for all the new staff.",
+      "related_topics": [
+        "staff training"
+      ],
+      "action_items": [
+        "Schedule regular attorney training sessions for staff and trustees"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "Business Association",
+        "Revitalize Ballston Spa Committee"
+      ],
+      "report": "Business association had a ribbon cutting at Dead Wood on Front St. Chocolate festival will be held on Feb 6th from 5-9pm, Revitalize Ballston Spa committee will hold their next meeting in the Village office January 27th at 7pm.",
+      "events": [
+        {
+          "event": "Chocolate festival",
+          "location": null,
+          "date": "Feb 6th",
+          "time": "5-9pm",
+          "cost": null
+        },
+        {
+          "event": "Revitalize Ballston Spa committee meeting",
+          "location": "Village office",
+          "date": "January 27th",
+          "time": "7pm",
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Business ribbon cutting",
+          "detail": "ribbon cutting at Dead Wood on Front St"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "business association",
+        "chocolate festival"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "Library",
+        "Ballston Area Seniors"
+      ],
+      "report": "Story time is back at the Library Thursdays 10-11am, opening sign-ups AARP tax help soon, Fiber Arts Meet up Saturday January 17th 1-2pm and January 24 1130am-1230pm will be Paws to Read. Ballston Area Seniors have a new President- Earl Eaton, Jr, 2026 trips coming up are Lake George Lunch Cruise, Lobster Pot Dinner and Howes Cavern- Never to late to join!",
+      "events": [
+        {
+          "event": "Story time",
+          "location": "Library",
+          "date": "Thursdays",
+          "time": "10-11am",
+          "cost": null
+        },
+        {
+          "event": "Fiber Arts Meet up",
+          "location": null,
+          "date": "Saturday January 17th",
+          "time": "1-2pm",
+          "cost": null
+        },
+        {
+          "event": "Paws to Read",
+          "location": null,
+          "date": "January 24",
+          "time": "1130am-1230pm",
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "AARP tax help",
+          "detail": "opening sign-ups soon"
+        },
+        {
+          "topic": "Ballston Area Seniors new President",
+          "detail": "Earl Eaton, Jr"
+        },
+        {
+          "topic": "2026 Senior trips",
+          "detail": "Lake George Lunch Cruise, Lobster Pot Dinner and Howes Cavern"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "library programs",
+        "senior activities"
+      ]
+    },
+    {
+      "trustee": "Trustee DuBuque",
+      "committees": [
+        "Historic District Commission",
+        "COA",
+        "Park and Tree"
+      ],
+      "report": "Historic District Commission meeting is tomorrow night (1/13) at 7 pm at 90 East High St, COA has an event at Brookside, Winter Concert series on 1/17 at 3pm, free event. Park and Tree -Trustee DuBuque read a park and tree statement.",
+      "events": [
+        {
+          "event": "Historic District Commission meeting",
+          "location": "90 East High St",
+          "date": "1/13",
+          "time": "7 pm",
+          "cost": null
+        },
+        {
+          "event": "Winter Concert series",
+          "location": "Brookside",
+          "date": "1/17",
+          "time": "3pm",
+          "cost": "free"
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Park and Tree statement",
+          "detail": "read a park and tree statement"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "historic district",
+        "concerts",
+        "parks"
+      ]
+    },
+    {
+      "trustee": "Trustee Dunkelbarger",
+      "committees": [
+        "Planning Board",
+        "Zoning Board",
+        "DPW"
+      ],
+      "report": "Did not get a chance to meet with the Planning or Zoning Boards yet but will be at their next meetings. DPW- he took an extensive tour of the Water district and DPW facilities. Their recent activities included responding to multiple storms including plowing and salting, pipe break, finished taking down Christmas decorations and the tree, completing commercial meter readings, activating the new water tower communications between towers and continue to do their other tasks like water testing, meter reads, doing work inside their garage and fixing broken salter. He also spoke to them about staffing and possible needs in the near future.",
+      "events": [],
+      "announcements": [],
+      "dpw_activities": [
+        "responding to multiple storms including plowing and salting",
+        "pipe break repair",
+        "finished taking down Christmas decorations and tree",
+        "completing commercial meter readings",
+        "activating new water tower communications between towers",
+        "water testing",
+        "meter reads",
+        "garage maintenance work",
+        "fixing broken salter"
+      ],
+      "mayor_additions": "Mayor Rossi mentions that is why they were reviewing salary structure to make it more attractive. In addition to this the Village is looking at updating our internet and phone system with Slic network and in Water district 3 plans costs savings with updating to our water pump system to save on electricity.",
+      "action_items": [
+        "Attend next Planning and Zoning Board meetings",
+        "Review DPW staffing needs"
+      ],
+      "related_topics": [
+        "planning board",
+        "zoning board",
+        "dpw activities",
+        "water district",
+        "staffing"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Translation Services Update",
+      "speaker": "Trustee VanDeinse-Perez",
+      "update": "updates about translation services- still need to get 3 BIDs we only have 2 so far.",
+      "action_items": [
+        "Obtain third bid for translation services"
+      ],
+      "related_topics": [
+        "translation services"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Close Kelley Park pavilion for winter with fencing and signage",
+    "Find outreach resources for homeless individual",
+    "Review alternative options for DPW garage construction",
+    "Wait for Don Rhodes recommendations on DPW garage",
+    "Post Deputy Treasurer/Deputy Clerk position",
+    "Schedule regular attorney training sessions for staff and trustees",
+    "Attend next Planning and Zoning Board meetings",
+    "Review DPW staffing needs and salary structure",
+    "Obtain third bid for translation services",
+    "Fill Ethics Board vacancies with staggered terms",
+    "Post proposed Local Law 1 on website for public review",
+    "Execute agreements for Milton Water District #3 after Town approval",
+    "Schedule public hearing for January 2026 on residency requirements"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 446035.33,
+    "equipment_purchases": 16798.5,
+    "personnel_costs": 0,
+    "construction_contracts": 339763.0,
+    "professional_services": 5000.0,
+    "proposed_infrastructure": 4000000.0,
+    "items": [
+      {
+        "amount": 6400.0,
+        "description": "Two Motorola APX 4500 radios for Fire Department"
+      },
+      {
+        "amount": 2231.5,
+        "description": "OW Investors VEROflow1 Utility Service Analyzer for water meters"
+      },
+      {
+        "amount": 339763.0,
+        "description": "Trinity Construction bid for Milton Water District #3 Pump House improvements"
+      },
+      {
+        "amount": 5000.0,
+        "description": "Additional single audit cost for USDA loan closure"
+      },
+      {
+        "amount": 1078.0,
+        "description": "Two sets of plow blades from T&T sales"
+      },
+      {
+        "amount": 7489.0,
+        "description": "Alpine Software for Fire Department state mandates"
+      },
+      {
+        "amount": 30695.0,
+        "description": "Dival fire equipment (coats and pants) questioned in public comment"
+      },
+      {
+        "amount": 4000000.0,
+        "description": "Engineer estimate for 9,750 sq ft DPW garage"
+      },
+      {
+        "amount": 8000000.0,
+        "description": "Engineer estimate for 13,000 sq ft DPW garage"
+      },
+      {
+        "amount": 356930.49,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 206.69,
+        "description": "Sewer Relevy vouchers"
+      },
+      {
+        "amount": 79167.7,
+        "description": "Capital Projects vouchers"
+      },
+      {
+        "amount": 8689.34,
+        "description": "Library Fund vouchers"
+      },
+      {
+        "amount": 1041.11,
+        "description": "Trust & Agency vouchers"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Christopher T. Freemantle",
+        "position": "Eagle-Matt Lee Fire Company No. 1 member",
+        "status": "Approved"
+      },
+      {
+        "name": "John Digman",
+        "position": "Part-Time Police Officer",
+        "status": "Approved pending police background check"
+      },
+      {
+        "name": "Caitlin Whalen",
+        "position": "Part-Time Police Officer",
+        "status": "Approved pending police background check"
+      }
+    ],
+    "resignations": [
+      {
+        "name": "Colin Weissman",
+        "position": "Union Fire Company No. 2 member",
+        "status": "Resignation approved"
+      },
+      {
+        "name": "Julius Miller",
+        "position": "Union Fire Company No. 2 member",
+        "status": "Resignation approved"
+      }
+    ],
+    "staff_mentioned": [
+      {
+        "name": "Peter Martin",
+        "position": "Led Pledge to Flag"
+      },
+      {
+        "name": "Chief Bush",
+        "position": "Police Chief"
+      },
+      {
+        "name": "Scott Kerns",
+        "position": "DPW Supervisor"
+      },
+      {
+        "name": "Earl Eaton, Jr",
+        "position": "Ballston Area Seniors President"
+      },
+      {
+        "name": "Rebecca",
+        "position": "Village staff"
+      },
+      {
+        "name": "Kathy",
+        "position": "Village staff"
+      },
+      {
+        "name": "Jenn",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Don Rhodes",
+        "position": "Consultant"
+      },
+      {
+        "name": "Mr. Peck",
+        "position": "Snow removal volunteer"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "T&T sales",
+        "service": "Plow blades supplier"
+      },
+      {
+        "name": "Alpine Software",
+        "service": "Fire department software provider"
+      },
+      {
+        "name": "Trinity Construction",
+        "service": "Milton Water District #3 Pump House improvements"
+      },
+      {
+        "name": "Bartlett, Pontiff, Stewart & Rhodes, P.C.",
+        "service": "Legal services"
+      },
+      {
+        "name": "Teal, Becker & Chiaramonte, CPAs, P.C.",
+        "service": "Audit services"
+      },
+      {
+        "name": "Laberge Engineering",
+        "service": "Water meter analyzer recommendation"
+      },
+      {
+        "name": "OW Investors",
+        "service": "Water utility equipment manufacturer"
+      },
+      {
+        "name": "Motorola",
+        "service": "Radio equipment manufacturer"
+      },
+      {
+        "name": "Saratoga County Agricultural Society",
+        "service": "Event organizer"
+      },
+      {
+        "name": "Slic network",
+        "service": "Internet and phone system provider"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High St"
+      },
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde"
+      },
+      {
+        "name": "Ellie Dillon",
+        "address": "116 Malta Ave"
+      },
+      {
+        "name": "Gina Marrozzi",
+        "address": "10 Old Glory Lane"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Kelley Park pavilion",
+      "type": "park",
+      "street": null,
+      "context": "Discussed closing during winter months for safety concerns"
+    },
+    {
+      "name": "Saratoga County Fairgrounds",
+      "type": "venue",
+      "street": null,
+      "context": "Location for approved county fair and truck/tractor pull events"
+    },
+    {
+      "name": "Dead Wood",
+      "type": "business",
+      "street": "Front St",
+      "context": "Business association ribbon cutting location"
+    },
+    {
+      "name": "Village office",
+      "type": "government building",
+      "street": null,
+      "context": "Meeting location for Revitalize Ballston Spa committee"
+    },
+    {
+      "name": "Ballston Spa Public Library",
+      "type": "government building",
+      "street": null,
+      "context": "Library programs and equipment disposal"
+    },
+    {
+      "name": "90 East High St",
+      "type": "meeting location",
+      "street": "East High St",
+      "context": "Historic District Commission meeting location"
+    },
+    {
+      "name": "Brookside",
+      "type": "venue",
+      "street": null,
+      "context": "COA Winter Concert series location"
+    },
+    {
+      "name": "Milton Water District #3 Pump House",
+      "type": "infrastructure",
+      "street": null,
+      "context": "Construction improvements by Trinity Construction"
+    },
+    {
+      "name": "Water district and DPW facilities",
+      "type": "infrastructure",
+      "street": null,
+      "context": "Tour location for Trustee Dunkelbarger"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2026-07-21",
+      "event": "Saratoga County Fair begins",
+      "time": "10am-11pm daily",
+      "note": "Runs through July 26, 2026",
+      "rain_date": null
+    },
+    {
+      "date": "2026-07-26",
+      "event": "Saratoga County Fair ends",
+      "time": "10am-11pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2026-10-10",
+      "event": "Truck & Tractor Pull / Vendor Fair",
+      "time": "9am-8pm",
+      "note": "Saturday event",
+      "rain_date": "2026-10-11"
+    },
+    {
+      "date": "2026-02-06",
+      "event": "Chocolate festival",
+      "time": "5-9pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2026-01-27",
+      "event": "Revitalize Ballston Spa committee meeting",
+      "time": "7pm",
+      "note": "Village office",
+      "rain_date": null
+    },
+    {
+      "date": "2026-01-13",
+      "event": "Historic District Commission meeting",
+      "time": "7pm",
+      "note": "90 East High St",
+      "rain_date": null
+    },
+    {
+      "date": "2026-01-17",
+      "event": "Fiber Arts Meet up and Winter Concert series",
+      "time": "1-2pm and 3pm",
+      "note": "Two separate events same day",
+      "rain_date": null
+    },
+    {
+      "date": "2026-01-24",
+      "event": "Paws to Read",
+      "time": "11:30am-12:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2026-02-11",
+      "event": "Planning Board meeting",
+      "time": null,
+      "note": "Expected discussion of village code changes",
+      "rain_date": null
+    },
+    {
+      "date": "January 2026",
+      "event": "Public hearing for proposed Local Law 1",
+      "time": "7:01pm",
+      "note": "Residency Requirement for Appointed Officials",
+      "rain_date": null
+    },
+    {
+      "date": "end of February",
+      "event": "Sleigh riding event",
+      "time": null,
+      "note": "Date still being determined",
+      "rain_date": null
+    }
+  ]
+}

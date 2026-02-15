@@ -1,0 +1,188 @@
+{
+  "filename": "special_mtg._10.27.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-10-27",
+    "meeting_type": "Special",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "9:57pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": true
+        },
+        {
+          "name": "Chris Kuschel",
+          "title": "Fischer Associates",
+          "present": true
+        },
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": false
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Special meeting focused on reviewing zoning code changes with Attorney Buettner providing timeline and discussing Board concerns. The Board discussed various zoning issues including multifamily homes, lot sizes, special permits, PDDs, institutional uses, parking spaces, and height requirements.",
+  "topics_discussed": [
+    "zoning code changes",
+    "multifamily homes",
+    "lot sizes",
+    "special permits",
+    "planned development districts",
+    "institutional uses",
+    "parking spaces",
+    "height requirements"
+  ],
+  "votes": [
+    {
+      "section": "procedural",
+      "motion_number": 1,
+      "motion_description": "Take a 10-minute adjournment at 8:12pm",
+      "motion_type": "procedural",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "procedural"
+      ],
+      "notes": "Meeting resumed at 8:22pm"
+    },
+    {
+      "section": "procedural",
+      "motion_number": 2,
+      "motion_description": "Adjourn the meeting at 9:57pm",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "procedural"
+      ],
+      "notes": null
+    }
+  ],
+  "public_comments": [],
+  "mayor_announcements": [],
+  "liaison_reports": [],
+  "other_business": [
+    {
+      "topic": "Zoning Code Review Process",
+      "speaker": "Attorney Buettner",
+      "update": "Attorney Buettner gave a timeline of the process for completing the zoning code changes and read the list of concerns the Board has with the draft.",
+      "action_items": [
+        "Complete zoning code changes according to timeline"
+      ],
+      "related_topics": [
+        "zoning code changes"
+      ]
+    },
+    {
+      "topic": "Board Zoning Concerns Discussion",
+      "speaker": "Board of Trustees",
+      "update": "The Board discussed issues of concern which include multifamily homes, lot sizes, special permits and PDD's. Discussion continued on concerns including institutional uses, parking spaces, and height requirements.",
+      "action_items": [],
+      "related_topics": [
+        "multifamily homes",
+        "lot sizes",
+        "special permits",
+        "planned development districts",
+        "institutional uses",
+        "parking spaces",
+        "height requirements"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Complete zoning code changes according to timeline"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 0,
+    "equipment_purchases": 0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 0,
+    "proposed_infrastructure": 0,
+    "items": []
+  },
+  "named_individuals": {
+    "appointees": [],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "Fischer Associates",
+        "service": "Professional consulting services"
+      }
+    ],
+    "public_commenters": []
+  },
+  "locations_referenced": [],
+  "dates_and_deadlines": []
+}

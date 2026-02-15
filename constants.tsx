@@ -2,9 +2,16 @@
 import { VillageDocument, DocCategory, DocType, VoteRecord } from './types';
 
 export const BOARD_MEMBERS: Record<DocCategory, string[]> = {
-  [DocCategory.BOARD_OF_TRUSTEES]: ['Mayor Rossi', 'Baskin', 'Fitzpatrick', 'Kormos', 'VanHall'],
+  [DocCategory.BOARD_OF_TRUSTEES]: ['Mayor Rossi', 'Trustee Price-Bush', 'Trustee Dunkelbarger', 'Trustee VanDeinse-Perez', 'Trustee DuBuque'],
   [DocCategory.PLANNING_BOARD]: ['Chair Orzell', 'Sgambati', 'Hren', 'Robinson', 'Duffy'],
   [DocCategory.ZONING_BOARD]: ['Chairperson', 'Member A', 'Member B', 'Member C', 'Member D'],
+  [DocCategory.HISTORIC_DISTRICT_COMMISSION]: [],
+  [DocCategory.BOA_STEERING_COMMITTEE]: [],
+  [DocCategory.COMMITTEE_ON_THE_ARTS]: [],
+  [DocCategory.PARK_AND_TREE]: [],
+  [DocCategory.ETHICS_BOARD]: [],
+  [DocCategory.LIBRARY_BOARD]: [],
+  [DocCategory.REZONING_PUBLIC_FORUM]: [],
   [DocCategory.NEWS_NOTICES]: [],
   [DocCategory.SPECIAL_PROJECTS]: []
 };
@@ -102,15 +109,15 @@ export const MOCK_VOTES: VoteRecord[] = [
     category: DocCategory.BOARD_OF_TRUSTEES,
     date: '2025-01-06',
     url: 'https://www.ballstonspa.gov/sites/g/files/vyhlif6186/f/minutes/bot_minutes_1.6.25_approved.pdf',
-    proposer: 'Kormos',
-    seconder: 'VanHall',
+    proposer: 'Trustee DuBuque',
+    seconder: 'Trustee Price-Bush',
     result: 'Passed',
     votes: [
       { memberName: 'Mayor Rossi', status: 'Aye' },
-      { memberName: 'Baskin', status: 'Aye' },
-      { memberName: 'Fitzpatrick', status: 'Aye' },
-      { memberName: 'Kormos', status: 'Aye' },
-      { memberName: 'VanHall', status: 'Aye' },
+      { memberName: 'Trustee Price-Bush', status: 'Aye' },
+      { memberName: 'Trustee Dunkelbarger', status: 'Aye' },
+      { memberName: 'Trustee VanDeinse-Perez', status: 'Aye' },
+      { memberName: 'Trustee DuBuque', status: 'Aye' },
     ]
   },
   {
@@ -137,6 +144,13 @@ export const CATEGORY_COLORS: Record<DocCategory, string> = {
   [DocCategory.PLANNING_BOARD]: 'bg-blue-100 text-blue-700 border-blue-200',
   [DocCategory.ZONING_BOARD]: 'bg-purple-100 text-purple-700 border-purple-200',
   [DocCategory.BOARD_OF_TRUSTEES]: 'bg-emerald-100 text-emerald-700 border-emerald-200',
+  [DocCategory.HISTORIC_DISTRICT_COMMISSION]: 'bg-teal-100 text-teal-700 border-teal-200',
+  [DocCategory.BOA_STEERING_COMMITTEE]: 'bg-sky-100 text-sky-700 border-sky-200',
+  [DocCategory.COMMITTEE_ON_THE_ARTS]: 'bg-fuchsia-100 text-fuchsia-700 border-fuchsia-200',
+  [DocCategory.PARK_AND_TREE]: 'bg-lime-100 text-lime-700 border-lime-200',
+  [DocCategory.ETHICS_BOARD]: 'bg-slate-100 text-slate-700 border-slate-200',
+  [DocCategory.LIBRARY_BOARD]: 'bg-amber-100 text-amber-700 border-amber-200',
+  [DocCategory.REZONING_PUBLIC_FORUM]: 'bg-orange-100 text-orange-700 border-orange-200',
   [DocCategory.NEWS_NOTICES]: 'bg-amber-100 text-amber-700 border-amber-200',
   [DocCategory.SPECIAL_PROJECTS]: 'bg-rose-100 text-rose-700 border-rose-200',
 };

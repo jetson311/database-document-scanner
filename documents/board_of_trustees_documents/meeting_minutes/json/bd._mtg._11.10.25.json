@@ -1,0 +1,1420 @@
+{
+  "filename": "bd._mtg._11.10.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-02-24",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa",
+    "start_time": null,
+    "end_time": "9:34pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Regular board meeting with extensive discussion on zoning code revisions and a failed Good Cause Eviction Law motion. The board approved multiple infrastructure and operational expenditures totaling over $1.3 million, including water tower payments and fire department equipment. Public comments focused heavily on zoning matters and housing issues.",
+  "topics_discussed": [
+    "zoning code review",
+    "good cause eviction law",
+    "water tower payment",
+    "fire department equipment",
+    "library asbestos abatement",
+    "solicitor permits",
+    "holiday parade",
+    "arts program funding",
+    "sidewalk law",
+    "dpw hiring",
+    "settlement agreement",
+    "snap benefits assistance"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of the 10/27/25 meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes"
+      ],
+      "notes": null
+    },
+    {
+      "section": "3b",
+      "motion_number": 2,
+      "motion_description": "Approve minutes of the 10/27/25 Special Meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes"
+      ],
+      "notes": null
+    },
+    {
+      "section": "6a-i",
+      "motion_number": 3,
+      "motion_description": "Village renew the NYS Firefighter Cancer Benefit Program Insurance",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        8536.89
+      ],
+      "related_topics": [
+        "fire department",
+        "insurance"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-ii",
+      "motion_number": 4,
+      "motion_description": "Eagle-Matt Lee Fire Co. #1 be authorized to expend the amount for window film",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        625.0
+      ],
+      "related_topics": [
+        "fire department",
+        "equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-iii",
+      "motion_number": 5,
+      "motion_description": "Union Fire Co. #2 be authorized to expend the amount for emergency electric repairs",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        10144.44
+      ],
+      "related_topics": [
+        "fire department",
+        "emergency repairs"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "7a",
+      "motion_number": 6,
+      "motion_description": "Approve the design and installation of a fencing wrap for screening at 2013 Doubleday Avenue and 2017-2019 Doubleday Avenue while the site is being remediated",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "site remediation",
+        "boa grant"
+      ],
+      "notes": "To be paid for with funds from the BOA grant and managed by LaBella"
+    },
+    {
+      "section": "7b",
+      "motion_number": 7,
+      "motion_description": "Slic Fiber be granted permission for 4 additional solicitor permits to solicit door to door from 11/12/25 through 11/20/25 from 10:00am to 8:00pm",
+      "motion_type": "approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Mayor Rossi",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "NO",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee VanDeinse-Perez",
+          "statement": "feels the end time of 8:00pm is too late"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "solicitor permits"
+      ],
+      "notes": "In addition to 2 previously authorized solicitor permits"
+    },
+    {
+      "section": "7c",
+      "motion_number": 8,
+      "motion_description": "Approving the MOU between the Ballston Spa Public Library, SALS and Comfort Foods",
+      "motion_type": "contract approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "library",
+        "mou"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7d",
+      "motion_number": 9,
+      "motion_description": "Library be authorized to expend the amount for a walkthrough contamination assessment with Ambient Environmental",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        1655.5
+      ],
+      "related_topics": [
+        "library",
+        "contamination assessment"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7e",
+      "motion_number": 10,
+      "motion_description": "Approve the attached art projects for the Village of Ballston Spa Fiscal Sponsorship for the 2026 Saratoga Arts re-grant program",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "arts program",
+        "grants"
+      ],
+      "notes": "As recommended by the Ballston Spa Committee on the Arts and authorize the Mayor and Village Attorney to execute any final paperwork required"
+    },
+    {
+      "section": "7f",
+      "motion_number": 11,
+      "motion_description": "BSBPA be granted permission to conduct the Annual Holiday Parade and Tree Lighting in Wiswall Park on 12/5/25 from 6:30pm until 8:45pm",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "holiday parade",
+        "wiswall park"
+      ],
+      "notes": "Proof of Liability Insurance has been provided"
+    },
+    {
+      "section": "7g",
+      "motion_number": 12,
+      "motion_description": "Bid of Neoplanta Restoration, Inc. be accepted for the asbestos abatement at the Ballston Spa Public Library",
+      "motion_type": "bid acceptance",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        49000.0
+      ],
+      "related_topics": [
+        "library",
+        "asbestos abatement"
+      ],
+      "notes": "Authorizing the Mayor to execute paperwork/an agreement consistent with this bid acceptance after review of the Village Attorney"
+    },
+    {
+      "section": "7h",
+      "motion_number": 13,
+      "motion_description": "Have counsel for the village finalize the attached draft Good Cause Eviction Law in preparation for a public hearing on Dec. 8, 2025",
+      "motion_type": "procedural",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "Motion Failed",
+      "vote_breakdown": {
+        "Mayor Rossi": "ABSTAIN",
+        "Trustee Price-Bush": "NO",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "NO",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "good cause eviction law",
+        "public hearing"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7i",
+      "motion_number": 14,
+      "motion_description": "Authorize the expenditure of up to $65 per member to attend upcoming NYCOM Planning and Zoning webinars",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        65
+      ],
+      "related_topics": [
+        "training",
+        "zoning",
+        "planning"
+      ],
+      "notes": "Per member cost"
+    },
+    {
+      "section": "7j",
+      "motion_number": 15,
+      "motion_description": "Authorize the payment to USG Water Solutions of the 2025 payment for the work related to the John St. Water Tower",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        361935.0
+      ],
+      "related_topics": [
+        "water tower",
+        "infrastructure"
+      ],
+      "notes": "Authorizing the Mayor to execute the documentation related to the payment"
+    },
+    {
+      "section": "7k",
+      "motion_number": 16,
+      "motion_description": "Approve the attached language interpretation services Request for Quote for submission to the Office of Government Services for processing",
+      "motion_type": "approval",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "interpretation services"
+      ],
+      "notes": "Authorize the Mayor to sign any documents relating to the submission"
+    },
+    {
+      "section": "7l",
+      "motion_number": 17,
+      "motion_description": "Approve Brian Thiem to fill an open position on the Committee for the Arts",
+      "motion_type": "personnel action",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "committee appointments",
+        "arts committee"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7m",
+      "motion_number": 18,
+      "motion_description": "Approve an additional amount not to exceed $7,500.00 for the purpose of Fisher Associates to finish their work related to the Village's amended Zoning Code",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        7500.0
+      ],
+      "related_topics": [
+        "zoning code",
+        "professional services"
+      ],
+      "notes": "Authorizing the Mayor to execute any change in their retention agreement consistent with this additional amount"
+    },
+    {
+      "section": "7n",
+      "motion_number": 19,
+      "motion_description": "Approve the Administrative Services Proposal from WEX related to HRA services",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "hra services",
+        "administrative services"
+      ],
+      "notes": "Including the estimated annual fees, and authorizing the Mayor to execute the agreement related to the Proposal after review by the Village Attorney"
+    },
+    {
+      "section": "7o",
+      "motion_number": 20,
+      "motion_description": "Union Fire Co. #2 be authorized to utilize their facilities for the Annual Thanksgiving Dinner throughout the week of 11/24/25",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "thanksgiving dinner",
+        "fire department"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7p",
+      "motion_number": 21,
+      "motion_description": "Authorizing the payment to Sutphen Corporation upon the preparation and delivery for the custom Sutphen Pumper that was ordered in 2022",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        936854.0
+      ],
+      "related_topics": [
+        "fire equipment",
+        "pumper truck"
+      ],
+      "notes": "Authorizing the Mayor to sign any paperwork consistent with necessary delivery and payment"
+    },
+    {
+      "section": "10",
+      "motion_number": 22,
+      "motion_description": "Approve the hiring of Cameron Checca pursuant to a background check for a full time DPW laborer position",
+      "motion_type": "hiring",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "dpw hiring",
+        "personnel"
+      ],
+      "notes": "There was no public comment on the motion"
+    },
+    {
+      "section": "11b",
+      "motion_number": 23,
+      "motion_description": "The edits be finished up by Chris Kuschel and Attorney Buettner consistent with the last meeting and that the draft be pushed for review by the Planning Board, the County Planning Board, the Zoning Board and available for public review",
+      "motion_type": "procedural",
+      "mover": "Mayor Rossi",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "NO",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Ms. Stephenson",
+          "statement": "asked what the timeframe is for the draft going to the Planning and Zoning Boards"
+        },
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "answered it is 30 days"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "zoning code review"
+      ],
+      "notes": "After a lengthy discussion regarding Trustee Baskin's issues with the zoning draft as well as no further special meeting on the matter"
+    },
+    {
+      "section": "11b",
+      "motion_number": 24,
+      "motion_description": "Suspend debate, and vote",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "NO",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "procedural"
+      ],
+      "notes": null
+    },
+    {
+      "section": "15",
+      "motion_number": 25,
+      "motion_description": "Enter into Executive Session to discuss a settlement agreement and potential litigation",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "executive session"
+      ],
+      "notes": "Entered at 9:04pm"
+    },
+    {
+      "section": "15",
+      "motion_number": 26,
+      "motion_description": "Approving the settlement agreement between Kiewit and the Village of Ballston Spa and authorizing the Mayor to execute said agreement after Attorney review",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "settlement agreement"
+      ],
+      "notes": "The Board returned from Executive Session at 9:32pm"
+    },
+    {
+      "section": "16",
+      "motion_number": 27,
+      "motion_description": "Vouchers be audited, and the meeting adjourned",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        272616.39
+      ],
+      "related_topics": [
+        "voucher audit",
+        "adjournment"
+      ],
+      "notes": "Meeting adjourned at 9:34pm"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd",
+        "affiliation": null
+      },
+      "comment_text": "gave her opinions on the zoning code and also stated she supports motion \"h\".",
+      "comment_type": "Mixed",
+      "topics": [
+        "zoning code",
+        "good cause eviction law"
+      ],
+      "referenced_items": [
+        "7h"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "motion h"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Expressed opinions on zoning code and voiced support for the Good Cause Eviction Law motion.",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Genevieve Rand",
+        "address": null,
+        "affiliation": "Housing Justice for All"
+      },
+      "comment_text": "spoke in favor of motion \"h.\"",
+      "comment_type": "Support",
+      "topics": [
+        "good cause eviction law"
+      ],
+      "referenced_items": [
+        "7h"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "motion h"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Voiced support for the Good Cause Eviction Law motion.",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Mike Iacolucci",
+        "address": "3 Encore Drive",
+        "affiliation": null
+      },
+      "comment_text": "asked when the bill for the water tower will be payable and asked for an update on the work.",
+      "comment_type": "Question",
+      "topics": [
+        "water tower"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Inquired about water tower payment timeline and work progress.",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 4,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "John Cromie",
+        "address": "132 Bath Street",
+        "affiliation": null
+      },
+      "comment_text": "suggested that the historic district overlay should include the property at 20 Church Avenue.",
+      "comment_type": "Suggestion",
+      "topics": [
+        "historic district"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Suggested expanding the historic district overlay to include 20 Church Avenue.",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 5,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Karen Avenarius",
+        "address": "10 East High Street",
+        "affiliation": null
+      },
+      "comment_text": "noted she is not in favor of Motion \"h\".",
+      "comment_type": "Concern",
+      "topics": [
+        "good cause eviction law"
+      ],
+      "referenced_items": [
+        "7h"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "motion h"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Expressed opposition to the Good Cause Eviction Law motion.",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 6,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street",
+        "affiliation": null
+      },
+      "comment_text": "asked how much the Village has paid the zoning consultant to date and also feels that 8:00pm is too late for door-to-door solicitation.",
+      "comment_type": "Mixed",
+      "topics": [
+        "zoning consultant",
+        "solicitation hours"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "8:00pm solicitation"
+      ],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questioned zoning consultant costs and criticized late solicitation hours.",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 7,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ms. Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "continued her comments on the zoning law.",
+      "comment_type": "Information",
+      "topics": [
+        "zoning law"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Continued previous comments about the zoning law.",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 8,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ms. Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "asked what the Village is doing to assist people who relied on SNAP benefits.",
+      "comment_type": "Question",
+      "topics": [
+        "snap benefits",
+        "food assistance"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Inquired about Village assistance for people affected by SNAP benefit changes.",
+      "board_response": {
+        "responder": "Multiple",
+        "response": "It was explained that the Churches and LifeWorks have food pantries and programs to help. Ms. Avenarius said the schools help out also."
+      }
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Election Results",
+      "speaker": "Mayor Rossi",
+      "announcement": "Congratulations to our newly elected candidates, Trustee Elect Charlene DuBuque, Trustee Elect Paul Dunklebarger and Justice Elect Julie Gazetos. Thank you to Trustees Baskin and Raymond for their service.",
+      "related_topics": [
+        "elections",
+        "new trustees"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "DPW Building Plans",
+      "speaker": "Mayor Rossi",
+      "announcement": "The DPW building plans should be ready soon.",
+      "related_topics": [
+        "dpw building"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Library Closure",
+      "speaker": "Mayor Rossi",
+      "announcement": "Due to asbestos abatement, the Library will temporarily close, and meetings will temporarily be held in the Village Office. The closure date will be forthcoming.",
+      "related_topics": [
+        "library closure",
+        "asbestos abatement"
+      ],
+      "action_items": [
+        "Announce library closure date"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "DPW Recognition",
+      "speaker": "Mayor Rossi",
+      "announcement": "Thank you to the DPW for the paving job they did.",
+      "related_topics": [
+        "dpw",
+        "paving"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "CHPE Paving",
+      "speaker": "Mayor Rossi",
+      "announcement": "explained that the paving on East High Street to repair the damage done by CHPE will possibly start tomorrow.",
+      "related_topics": [
+        "chpe",
+        "street paving"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [],
+      "report": "encouraged everyone to shop Small Business Saturday on 1/29 and the Holiday Parade on 12/5.",
+      "events": [
+        {
+          "event": "Small Business Saturday",
+          "location": null,
+          "date": "1/29",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Holiday Parade",
+          "location": null,
+          "date": "12/5",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "small business",
+        "holiday parade"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [],
+      "report": "announced that Breakfast with Santa will be held 12/6 at St. Mary's and there is a tentative Menorah Lighting date of 12/15.",
+      "events": [
+        {
+          "event": "Breakfast with Santa",
+          "location": "St. Mary's",
+          "date": "12/6",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Menorah Lighting",
+          "location": null,
+          "date": "12/15",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "community events"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Committee on the Arts"
+      ],
+      "report": "said the Sounds of Winter Concert will be held at Brookside on 11/15 at 3:00pm and stated that the 1st Friday of every month is open mic night at the Real McCoy. The Park and Tree Board is happy to help if anyone has questions about winterizing trees.",
+      "events": [
+        {
+          "event": "Sounds of Winter Concert",
+          "location": "Brookside",
+          "date": "11/15",
+          "time": "3:00pm",
+          "cost": null
+        },
+        {
+          "event": "Open Mic Night",
+          "location": "Real McCoy",
+          "date": "1st Friday of every month",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Tree Care",
+          "detail": "Park and Tree Board available for winterizing tree questions"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "arts events",
+        "tree care"
+      ]
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "stated that the 1st round of brush pick-up has been completed, leaf pick-up continues and hydrants, the pool and Kelley Park are being winterized.",
+      "events": [],
+      "announcements": [],
+      "dpw_activities": [
+        "1st round of brush pick-up completed",
+        "leaf pick-up continuing",
+        "hydrant winterization",
+        "pool winterization",
+        "Kelley Park winterization"
+      ],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "dpw activities",
+        "winterization"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "SNAP Benefits Assistance",
+      "speaker": "Trustee VanDeinse-Perez",
+      "update": "shared that the Ballston Area Clergy Association has a Church on call each month to help people in need of emergency help, including food and paying heating bills.",
+      "action_items": [],
+      "related_topics": [
+        "food assistance",
+        "emergency help"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Announce library closure date",
+    "Execute paperwork for water tower payment",
+    "Execute agreement for WEX HRA services after attorney review",
+    "Execute paperwork for Sutphen Pumper delivery and payment",
+    "Finalize zoning code edits with Chris Kuschel and Attorney Buettner",
+    "Submit zoning draft to Planning Board, County Planning Board, and Zoning Board",
+    "Make zoning draft available for public review",
+    "Execute settlement agreement with Kiewit after attorney review"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 272616.39,
+    "equipment_purchases": 19305.33,
+    "personnel_costs": 0,
+    "construction_contracts": 361935.0,
+    "professional_services": 58655.5,
+    "proposed_infrastructure": 0,
+    "items": [
+      {
+        "amount": 8536.89,
+        "description": "NYS Firefighter Cancer Benefit Program Insurance"
+      },
+      {
+        "amount": 625.0,
+        "description": "Eagle-Matt Lee Fire Co. #1 window film"
+      },
+      {
+        "amount": 10144.44,
+        "description": "Union Fire Co. #2 emergency electric repairs"
+      },
+      {
+        "amount": 1655.5,
+        "description": "Library walkthrough contamination assessment"
+      },
+      {
+        "amount": 49000.0,
+        "description": "Neoplanta Restoration asbestos abatement at library"
+      },
+      {
+        "amount": 65,
+        "description": "NYCOM Planning and Zoning webinars per member"
+      },
+      {
+        "amount": 361935.0,
+        "description": "USG Water Solutions 2025 payment for John St. Water Tower"
+      },
+      {
+        "amount": 7500.0,
+        "description": "Additional amount for Fisher Associates zoning code work"
+      },
+      {
+        "amount": 936854.0,
+        "description": "Sutphen Corporation custom Sutphen Pumper ordered in 2022"
+      },
+      {
+        "amount": 272616.39,
+        "description": "Total vouchers audited - General Fund, Sewer Relevy, Capital Projects, Library Fund, Trust & Agency"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Brian Thiem",
+        "position": "Committee for the Arts member",
+        "status": "Approved"
+      },
+      {
+        "name": "Cameron Checca",
+        "position": "Full time DPW laborer",
+        "status": "Approved pending background check"
+      }
+    ],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "Chris Kuschel",
+        "position": "Zoning consultant"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "LaBella",
+        "service": "BOA grant management and fencing wrap installation"
+      },
+      {
+        "name": "Slic Fiber",
+        "service": "Door-to-door solicitation services"
+      },
+      {
+        "name": "Comfort Foods",
+        "service": "Library MOU partner"
+      },
+      {
+        "name": "Ambient Environmental",
+        "service": "Library contamination assessment"
+      },
+      {
+        "name": "Neoplanta Restoration, Inc.",
+        "service": "Library asbestos abatement"
+      },
+      {
+        "name": "USG Water Solutions",
+        "service": "Water tower work"
+      },
+      {
+        "name": "Fisher Associates",
+        "service": "Zoning code revision work"
+      },
+      {
+        "name": "WEX",
+        "service": "HRA administrative services"
+      },
+      {
+        "name": "Sutphen Corporation",
+        "service": "Custom fire pumper manufacturer"
+      },
+      {
+        "name": "Kiewit",
+        "service": "Settlement agreement counterparty"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd"
+      },
+      {
+        "name": "Genevieve Rand",
+        "address": null
+      },
+      {
+        "name": "Mike Iacolucci",
+        "address": "3 Encore Drive"
+      },
+      {
+        "name": "John Cromie",
+        "address": "132 Bath Street"
+      },
+      {
+        "name": "Karen Avenarius",
+        "address": "10 East High Street"
+      },
+      {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "2013 Doubleday Avenue",
+      "type": "infrastructure",
+      "street": "Doubleday Avenue",
+      "context": "Site requiring remediation and fencing wrap for screening"
+    },
+    {
+      "name": "2017-2019 Doubleday Avenue",
+      "type": "infrastructure",
+      "street": "Doubleday Avenue",
+      "context": "Site requiring remediation and fencing wrap for screening"
+    },
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Location for Annual Holiday Parade tree lighting"
+    },
+    {
+      "name": "Ballston Spa Public Library",
+      "type": "government building",
+      "street": null,
+      "context": "Undergoing asbestos abatement and contamination assessment"
+    },
+    {
+      "name": "John St. Water Tower",
+      "type": "infrastructure",
+      "street": "John Street",
+      "context": "Water tower project with USG Water Solutions payment"
+    },
+    {
+      "name": "20 Church Avenue",
+      "type": "infrastructure",
+      "street": "Church Avenue",
+      "context": "Property suggested for historic district overlay inclusion"
+    },
+    {
+      "name": "East High Street",
+      "type": "infrastructure",
+      "street": "East High Street",
+      "context": "Paving repairs for CHPE damage"
+    },
+    {
+      "name": "Brookside",
+      "type": "venue",
+      "street": null,
+      "context": "Location for Sounds of Winter Concert"
+    },
+    {
+      "name": "Real McCoy",
+      "type": "business",
+      "street": null,
+      "context": "Monthly open mic night venue"
+    },
+    {
+      "name": "St. Mary's",
+      "type": "venue",
+      "street": null,
+      "context": "Breakfast with Santa location"
+    },
+    {
+      "name": "Kelley Park",
+      "type": "park",
+      "street": null,
+      "context": "Being winterized by DPW"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-11-12",
+      "event": "Start date for Slic Fiber door-to-door solicitation",
+      "time": "10:00am",
+      "note": "Through 11/20/25 until 8:00pm",
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-15",
+      "event": "Sounds of Winter Concert at Brookside",
+      "time": "3:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-20",
+      "event": "End date for Slic Fiber door-to-door solicitation",
+      "time": "8:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "week of 11/24/25",
+      "event": "Union Fire Co. #2 Annual Thanksgiving Dinner",
+      "time": null,
+      "note": "Throughout the week",
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-05",
+      "event": "Annual Holiday Parade and Tree Lighting in Wiswall Park",
+      "time": "6:30pm until 8:45pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-06",
+      "event": "Breakfast with Santa at St. Mary's",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-08",
+      "event": "Proposed public hearing on Good Cause Eviction Law",
+      "time": null,
+      "note": "Motion failed, so hearing may not occur",
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-15",
+      "event": "Tentative Menorah Lighting",
+      "time": null,
+      "note": "Tentative date",
+      "rain_date": null
+    },
+    {
+      "date": "1/29",
+      "event": "Small Business Saturday",
+      "time": null,
+      "note": "Encourage shopping local",
+      "rain_date": null
+    },
+    {
+      "date": "1st Friday of every month",
+      "event": "Open mic night at the Real McCoy",
+      "time": null,
+      "note": "Ongoing monthly event",
+      "rain_date": null
+    }
+  ]
+}

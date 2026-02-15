@@ -1,0 +1,864 @@
+{
+  "filename": "bd._mtg._11.24.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-11-24",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "7:39pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "The Board approved hiring three part-time police officers and granted promotional banner permits while discussing zoning updates and disaster management planning. Mayor announced holiday preparations and significant CHPE sidewalk funding, with trustees reporting on various community events and municipal activities.",
+  "topics_discussed": [
+    "police officer appointments",
+    "promotional banners",
+    "fire department grant consultation",
+    "equipment auction sales",
+    "disaster management",
+    "zoning code draft",
+    "holiday preparations",
+    "street paving",
+    "sidewalk funding",
+    "community events",
+    "library closure",
+    "park improvements",
+    "tree maintenance",
+    "leaf collection",
+    "board vacancies",
+    "ethics board process",
+    "interpretation services"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of the 11/10/25 meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "minutes approval"
+      ],
+      "notes": null
+    },
+    {
+      "section": "6a-i",
+      "motion_number": 2,
+      "motion_description": "Approve expenditure of $6,000.00 by Ballston Spa Fire Department for 12 months of grant consultation with MJ Burben, Inc.",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        6000.0
+      ],
+      "related_topics": [
+        "fire department",
+        "grant consultation"
+      ],
+      "notes": "Consent agenda item. This was budgeted in the FY2026 Budget."
+    },
+    {
+      "section": "6a-ii",
+      "motion_number": 3,
+      "motion_description": "Approve bid prices for 2 items on Auctions International: $105.00 for a Digging Bucket and $610.00 for a Power Tilt Coupler sold at auction that ended 11/19/25",
+      "motion_type": "bid acceptance",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        105.0,
+        610.0
+      ],
+      "related_topics": [
+        "equipment auction",
+        "surplus equipment"
+      ],
+      "notes": "Consent agenda item. Auction ended 11/19/25."
+    },
+    {
+      "section": "7a",
+      "motion_number": 4,
+      "motion_description": "Appoint Stephen Porcello Jr. as a part-time Police Officer",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "police staffing",
+        "personnel"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7b",
+      "motion_number": 5,
+      "motion_description": "Appoint Keith Parker as a part-time Police Officer",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "police staffing",
+        "personnel"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7c",
+      "motion_number": 6,
+      "motion_description": "Appoint john Hogan as a part time Police Officer",
+      "motion_type": "hiring",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "police staffing",
+        "personnel"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7d",
+      "motion_number": 7,
+      "motion_description": "Grant Launching Pad Productions permission to hang 20 promotional banners on Village streetlamps along Front Street and Milton Avenue for their upcoming production of Something Rotten Jr.",
+      "motion_type": "event approval",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "promotional banners",
+        "community theater"
+      ],
+      "notes": "Ten banners will feature the Launching Pad Productions logo, and ten will highlight their upcoming production. Display period: early January 2026 through the first weekend of February 2026."
+    },
+    {
+      "section": "7e",
+      "motion_number": 8,
+      "motion_description": "Adopt the Saratoga County Hazard Mitigation Action Plan Update 2025",
+      "motion_type": "resolution",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "read the resolution aloud"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "disaster management",
+        "hazard mitigation"
+      ],
+      "notes": "The resolution was read aloud by Mayor Rossi."
+    },
+    {
+      "section": "16",
+      "motion_number": 9,
+      "motion_description": "Audit vouchers and adjourn meeting at 7:39pm",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        510350.02,
+        14536.74,
+        362178.2,
+        9184.11,
+        896249.07
+      ],
+      "related_topics": [
+        "voucher audit",
+        "adjournment"
+      ],
+      "notes": "Total vouchers approved: $896,249.07"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "asked when the zoning draft will be",
+      "comment_type": "Question",
+      "topics": [
+        "zoning code draft"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Asked about timeline for zoning draft availability",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ms. Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "commented on zoning frontage requirements",
+      "comment_type": "Mixed",
+      "topics": [
+        "zoning frontage requirements"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Provided comments on zoning frontage requirements",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street",
+        "affiliation": null
+      },
+      "comment_text": "noted that the House and Garden Club decorated the exterior of the Library for the holidays. On 12/5 there will be a Wreath Ceremony at the Veterans Memorial on Low Street at 12:00pm.",
+      "comment_type": "Information",
+      "topics": [
+        "holiday decorations",
+        "veterans memorial ceremony"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Announced House and Garden Club library decorating and Veterans Memorial wreath ceremony",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Holiday Preparations",
+      "speaker": "Mayor Rossi",
+      "announcement": "Holiday Preparations have begun.",
+      "related_topics": [
+        "holiday preparations"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Street Paving and Sidewalk Funding",
+      "speaker": "Mayor Rossi",
+      "announcement": "Street paving was completed on East High Street and CHPE will be providing us with $80,000.00 in sidewalk funding.",
+      "related_topics": [
+        "street paving",
+        "sidewalk funding"
+      ],
+      "action_items": [],
+      "dollar_amounts": [
+        80000.0
+      ],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Walk-on Motion - Disaster Management",
+      "speaker": "Mayor Rossi",
+      "announcement": "there will be a walk on motion regarding Disaster Management",
+      "related_topics": [
+        "disaster management"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "Revitalize Ballston Spa",
+        "BSBPA"
+      ],
+      "report": "said there was a decent turnout for the Revitalize Ballston Spa workshop. Volunteers are needed for the Holiday parade on 12/5. passed along a thank you from the BSBPA to the DPW for putting the Christmas Tree up in Wiswall Park.",
+      "events": [
+        {
+          "event": "Holiday parade",
+          "location": null,
+          "date": "12/5",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Revitalize Ballston Spa workshop",
+          "detail": "decent turnout"
+        },
+        {
+          "topic": "Christmas Tree in Wiswall Park",
+          "detail": "thank you from BSBPA to DPW for installation"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [
+        "recruit volunteers for Holiday parade"
+      ],
+      "related_topics": [
+        "community events",
+        "park improvements",
+        "dpw activities"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "Library Board"
+      ],
+      "report": "reminded everyone about the Thanksgiving Dinner held at the Union Firehouse. which is free to all. The Library will be closed 12/2 through 12/12 for abatement work in the attic. Books can be returned at any local Library, or when our s reopens. announced that Breakfast with Santa will be held at St. Mary's School on 12/6 from 9:00am until 11:00am.",
+      "events": [
+        {
+          "event": "Thanksgiving Dinner",
+          "location": "Union Firehouse",
+          "date": null,
+          "time": null,
+          "cost": "free"
+        },
+        {
+          "event": "Breakfast with Santa",
+          "location": "St. Mary's School",
+          "date": "12/6",
+          "time": "9:00am until 11:00am",
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Library closure",
+          "detail": "closed 12/2 through 12/12 for abatement work in the attic"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "community events",
+        "library services"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Park and Tree Board",
+        "Committee on the Arts"
+      ],
+      "report": "noted that the Park and Tree Board is thrilled about the additional lamp posts in Wiswall Park. Thanks also to LaBella for helping us find the lamp posts that are similar to those on the streets and to our DPW for their hard work. The tree maintenance grant we were awarded is moving forward. Regarding the Committee on the Arts, stated the next Sounds of Winter Concert will be on 1/17 at 3:00pm at Brookside, followed by one on 2/14. As always, early registration is recommended.",
+      "events": [
+        {
+          "event": "Sounds of Winter Concert",
+          "location": "Brookside",
+          "date": "1/17",
+          "time": "3:00pm",
+          "cost": null
+        },
+        {
+          "event": "Sounds of Winter Concert",
+          "location": null,
+          "date": "2/14",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Wiswall Park lamp posts",
+          "detail": "Park and Tree Board thrilled about additional lamp posts"
+        },
+        {
+          "topic": "Tree maintenance grant",
+          "detail": "moving forward"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [
+        "encourage early registration for concerts"
+      ],
+      "related_topics": [
+        "park improvements",
+        "tree maintenance",
+        "community events"
+      ],
+      "notes": "Thanks to LaBella for helping find similar lamp posts and to DPW for hard work"
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "said 2 rounds of leaf pick-up have been completed and one more will be done after Thanksgiving. The Christmas Tree is going up on Monday. Thank you to Jointa Lime, the Town of Greenfield and the Town of Milton for the use of their equipment.",
+      "events": [
+        {
+          "event": "Christmas Tree installation",
+          "location": null,
+          "date": "Monday",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Leaf collection",
+          "detail": "2 rounds completed, one more after Thanksgiving"
+        }
+      ],
+      "dpw_activities": [
+        "leaf pick-up",
+        "Christmas Tree installation"
+      ],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "leaf collection",
+        "holiday preparations",
+        "dpw activities"
+      ],
+      "notes": "Thank you to Jointa Lime, Town of Greenfield and Town of Milton for equipment use"
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Former Mayor Christine Fitzpatrick passing",
+      "speaker": "The Board",
+      "update": "The Board expressed their condolences regarding the passing of Former Mayor Christine Fitzpatrick.",
+      "action_items": [],
+      "related_topics": [
+        "condolences"
+      ]
+    },
+    {
+      "topic": "Thanksgiving food donations",
+      "speaker": "Trustee VanDeinse-Perez",
+      "update": "thanked LifeWorks and the area churches for all of their food donations for Thanksgiving.",
+      "action_items": [],
+      "related_topics": [
+        "community support",
+        "thanksgiving"
+      ]
+    },
+    {
+      "topic": "Board vacancies",
+      "speaker": "Trustee Baskin",
+      "update": "said there are now, or soon will be vacancies on the Planning, Zoning and Ethics Boards. The make-up and operation of the Ethics Board was discussed.",
+      "action_items": [
+        "fill Planning Board vacancies",
+        "fill Zoning Board vacancies",
+        "fill Ethics Board vacancies"
+      ],
+      "related_topics": [
+        "board vacancies",
+        "ethics board process"
+      ]
+    },
+    {
+      "topic": "Zoning draft review",
+      "speaker": "Attorney Buettner",
+      "update": "said the draft has been received and suggested that the Board review it and provide any comments to her or the Consultant and proposed a timeline for moving forward. Trustee Baskin shared his thoughts on a handful of issues.",
+      "action_items": [
+        "review zoning draft",
+        "provide comments to attorney and consultant"
+      ],
+      "related_topics": [
+        "zoning code draft"
+      ]
+    },
+    {
+      "topic": "Interpretation Services RFQ",
+      "speaker": "Administrator Moskowitz",
+      "update": "said today was the last day of the questioning and they will be compiled.",
+      "action_items": [
+        "compile interpretation services questions"
+      ],
+      "related_topics": [
+        "interpretation services"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Recruit volunteers for Holiday parade on 12/5",
+    "Fill Planning Board vacancies",
+    "Fill Zoning Board vacancies",
+    "Fill Ethics Board vacancies",
+    "Review zoning draft and provide comments to attorney and consultant",
+    "Compile interpretation services RFQ questions",
+    "Encourage early registration for Sounds of Winter concerts"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 896249.07,
+    "equipment_purchases": 715.0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 6000.0,
+    "proposed_infrastructure": 80000.0,
+    "items": [
+      {
+        "amount": 6000.0,
+        "description": "Fire Department grant consultation with MJ Burben, Inc."
+      },
+      {
+        "amount": 105.0,
+        "description": "Digging Bucket sold at auction"
+      },
+      {
+        "amount": 610.0,
+        "description": "Power Tilt Coupler sold at auction"
+      },
+      {
+        "amount": 80000.0,
+        "description": "CHPE sidewalk funding"
+      },
+      {
+        "amount": 510350.02,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 14536.74,
+        "description": "Sewer Relevy vouchers"
+      },
+      {
+        "amount": 362178.2,
+        "description": "Capital Projects vouchers"
+      },
+      {
+        "amount": 9184.11,
+        "description": "Library Fund vouchers"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Stephen Porcello Jr.",
+        "position": "part-time Police Officer",
+        "status": "Approved"
+      },
+      {
+        "name": "Keith Parker",
+        "position": "part-time Police Officer",
+        "status": "Approved"
+      },
+      {
+        "name": "john Hogan",
+        "position": "part time Police Officer",
+        "status": "Approved"
+      }
+    ],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "MJ Burben, Inc.",
+        "service": "Fire Department grant consultation"
+      },
+      {
+        "name": "Auctions International",
+        "service": "Equipment auction services"
+      },
+      {
+        "name": "Launching Pad Productions",
+        "service": "Community theater group requesting banner permits"
+      },
+      {
+        "name": "LaBella",
+        "service": "Engineering consulting for lamp post selection"
+      },
+      {
+        "name": "Jointa Lime",
+        "service": "Equipment lending for Christmas tree installation"
+      },
+      {
+        "name": "CHPE",
+        "service": "Sidewalk funding provider"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Liz Kormos",
+        "address": null
+      },
+      {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Front Street",
+      "type": "infrastructure",
+      "street": "Front Street",
+      "context": "Location for promotional banner display"
+    },
+    {
+      "name": "Milton Avenue",
+      "type": "infrastructure",
+      "street": "Milton Avenue",
+      "context": "Location for promotional banner display"
+    },
+    {
+      "name": "East High Street",
+      "type": "infrastructure",
+      "street": "East High Street",
+      "context": "Street paving completed"
+    },
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Christmas tree installation and lamp post additions"
+    },
+    {
+      "name": "Union Firehouse",
+      "type": "government building",
+      "street": null,
+      "context": "Location of free Thanksgiving dinner"
+    },
+    {
+      "name": "St. Mary's School",
+      "type": "venue",
+      "street": null,
+      "context": "Breakfast with Santa event location"
+    },
+    {
+      "name": "Brookside",
+      "type": "venue",
+      "street": null,
+      "context": "Sounds of Winter Concert venue"
+    },
+    {
+      "name": "Veterans Memorial",
+      "type": "park",
+      "street": "Low Street",
+      "context": "Wreath ceremony location"
+    },
+    {
+      "name": "Library",
+      "type": "government building",
+      "street": null,
+      "context": "Holiday decorating and closure for abatement work"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-12-05",
+      "event": "Holiday parade - volunteers needed",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-05",
+      "event": "Wreath Ceremony at Veterans Memorial",
+      "time": "12:00pm",
+      "note": "On Low Street",
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-06",
+      "event": "Breakfast with Santa",
+      "time": "9:00am until 11:00am",
+      "note": "At St. Mary's School",
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-02",
+      "event": "Library closure begins for abatement work",
+      "time": null,
+      "note": "Closed through 12/12",
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-12",
+      "event": "Library closure ends",
+      "time": null,
+      "note": "Books can be returned at any local library during closure",
+      "rain_date": null
+    },
+    {
+      "date": "2026-01-17",
+      "event": "Sounds of Winter Concert",
+      "time": "3:00pm",
+      "note": "At Brookside, early registration recommended",
+      "rain_date": null
+    },
+    {
+      "date": "2026-02-14",
+      "event": "Sounds of Winter Concert",
+      "time": null,
+      "note": "Early registration recommended",
+      "rain_date": null
+    },
+    {
+      "date": "early January 2026",
+      "event": "Promotional banners display period begins",
+      "time": null,
+      "note": "Through first weekend of February 2026",
+      "rain_date": null
+    },
+    {
+      "date": "first weekend of February 2026",
+      "event": "Promotional banners display period ends",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    }
+  ]
+}

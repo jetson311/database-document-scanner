@@ -1,0 +1,1442 @@
+{
+  "filename": "bd._mtg._06.09.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-06-09",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "8:52pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Finocchio",
+          "title": "Attorney",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": false
+        }
+      ]
+    }
+  },
+  "meeting_summary": "The Board approved minutes from the previous meeting despite Trustee Baskin's objections, handled multiple consent agenda items for community events, and made significant purchases including DPW vehicles totaling over $200,000. Major discussions centered around the Tannery Commons development, live streaming requests for planning board meetings, and various infrastructure projects including water tower refilling and DPW building construction plans.",
+  "topics_discussed": [
+    "meeting minutes approval",
+    "community events",
+    "personnel hiring",
+    "dpw vehicle purchases",
+    "fire department appointments",
+    "insurance renewal",
+    "library asbestos abatement",
+    "world refugee day resolution",
+    "well generator rfp",
+    "fire department equipment",
+    "tannery commons development",
+    "zoning code update",
+    "live streaming meetings",
+    "water tower refilling",
+    "dpw building construction",
+    "property appraisals",
+    "emergency management",
+    "interpretation services",
+    "farmers market",
+    "water main breaks"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve the minutes of the 5/27/25 meeting as amended the morning of 6/9",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "NO",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSTAIN"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee Baskin",
+          "statement": "Trustee Baskin feels the minutes are incomplete and again requested amendments to the minutes."
+        },
+        {
+          "speaker": "Trustee VanDeinse-Perez",
+          "statement": "Trustee VanDeinse-Perez rejected, saying that this is getting out of hand."
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes approval"
+      ],
+      "notes": "Trustee Baskin opposed, feeling the minutes were incomplete"
+    },
+    {
+      "section": "6a-i",
+      "motion_number": 2,
+      "motion_description": "Malta Avenue Elementary School be granted permission to close Grove Street on 6/25 from 9:30am to 11:00am for their annual \"Egg Drop\"",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "community events"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-ii",
+      "motion_number": 3,
+      "motion_description": "Ribbon Café be authorized to hold their \"Annual Sunshine Lemonade Stand Benefit\" for childhood cancer on 8/2 from 10:30am to 2:00pm and to close the alleyway and Prospect Street from Route 50 to Thompson Street from 8:00am to 3:00pm",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "community events"
+      ],
+      "notes": "Consent agenda item. A permit will be issued upon receipt of proof of insurance."
+    },
+    {
+      "section": "6a-iii",
+      "motion_number": 4,
+      "motion_description": "Ribbon Café be authorized to hold their \"Hope, Healing and Awareness for Breast Cancer Fundraiser\" on 9/27 from Noon to 4:00pm and to close the alleyway and Prospect Street from Route 50 to Thompson Street from 10:00am to 5:00pm",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "community events"
+      ],
+      "notes": "Consent agenda item. A permit will be issued upon proof of insurance."
+    },
+    {
+      "section": "6a-iv",
+      "motion_number": 5,
+      "motion_description": "Eagle-Matt Lee Fire Co. 31 be granted permission to conduct their annual \"Tag Day\" on 7/26 from 8:00am until 3:00pm",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "community events",
+        "fire department"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-v",
+      "motion_number": 6,
+      "motion_description": "Approve the Ballston Spa High School's attached parade request for Monday, 6/16/25 from 6:00pm until 7:00pm",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "community events"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "7a",
+      "motion_number": 7,
+      "motion_description": "Approve the attached list of pool staff",
+      "motion_type": "hiring",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "personnel hiring"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7b",
+      "motion_number": 8,
+      "motion_description": "Nick Delaney be appointed as a full-time laborer for the DPW, effective June 15, 2025",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "personnel hiring",
+        "dpw"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7c",
+      "motion_number": 9,
+      "motion_description": "The DPW be authorized to expend the amount of $157,322.93 for a Tarco Live Body Dump Truck",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        157322.93
+      ],
+      "related_topics": [
+        "dpw vehicle purchases"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7d",
+      "motion_number": 10,
+      "motion_description": "The DPW be authorized to expend the amount of $56,357.93 for a Maxon 1300 lb. folding gate truck",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        56357.93
+      ],
+      "related_topics": [
+        "dpw vehicle purchases"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7e",
+      "motion_number": 11,
+      "motion_description": "Appoint the following individuals as Fire Police: Al Sommer, Robert Kilinski, Alan Cunningham, Fred Whittredge, John Morrissey, Thomas Nolan, Lloyd Helman, Stanley DeLong, Patrick Mangini, Richard Duffy",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "fire department appointments"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7f",
+      "motion_number": 12,
+      "motion_description": "Approve the attached insurance renewal, and authorizing the Mayor to execute the related documents",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "insurance renewal"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7g",
+      "motion_number": 13,
+      "motion_description": "Request for Proposal related to Library asbestos abatement",
+      "motion_type": "approval",
+      "mover": null,
+      "seconder": null,
+      "vote_result": "REMOVED",
+      "vote_breakdown": {},
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "library asbestos abatement"
+      ],
+      "notes": "This RFP is still being produced as of this agenda submission – it will be provided if it is received before the meeting or, otherwise, this item will be removed from the agenda. Item was removed."
+    },
+    {
+      "section": "7h",
+      "motion_number": 14,
+      "motion_description": "Adopt the attached amended World Refugee Day Resolution, recognizing June 20 as World Refugee Day, amended for consistency",
+      "motion_type": "resolution",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "world refugee day resolution"
+      ],
+      "notes": "Original motion was to adopt with the omission of \"annually\" in the title. Motion was then amended for consistency."
+    },
+    {
+      "section": "7i",
+      "motion_number": 15,
+      "motion_description": "Reject the bids related to the Well Generator RFP, per Labella Engineering advice",
+      "motion_type": "bid rejection",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "well generator rfp"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7j",
+      "motion_number": 16,
+      "motion_description": "Approve the hiring of Janelle Coffey as a part-time DPW employee (Level 1) for the purpose of watering of new Wiswall Park trees and flowers in 2025",
+      "motion_type": "hiring",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "personnel hiring",
+        "wiswall park"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7k",
+      "motion_number": 17,
+      "motion_description": "Approve the attached Fire Department (EML) requisition for Alarm Fuel, Control Programmer, and Access Fobs, totaling $2,741.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        2741.0
+      ],
+      "related_topics": [
+        "fire department equipment"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7l",
+      "motion_number": 18,
+      "motion_description": "Approve the purchase of fire department radios for a total of $24,295.20",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        24295.2
+      ],
+      "related_topics": [
+        "fire department equipment"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7m",
+      "motion_number": 19,
+      "motion_description": "Approve the LaBella retainer agreement and authorizing the Mayor to execute after review by the Village Attorney",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "professional services"
+      ],
+      "notes": null
+    },
+    {
+      "section": "8h",
+      "motion_number": 20,
+      "motion_description": "Approve appraisals for 30 Bath Street and 66 Front Street not to exceed $2,500.00 in the aggregate",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Ms. Kormos",
+          "statement": "Ms. Kormos noted she is glad we may sell 30 Bath Street but is concerned about building the new DPW garage at its current location due to space concerns."
+        }
+      ],
+      "dollar_amounts": [
+        2500.0
+      ],
+      "related_topics": [
+        "property appraisals"
+      ],
+      "notes": null
+    },
+    {
+      "section": "16",
+      "motion_number": 21,
+      "motion_description": "Vouchers be audited, and the meeting adjourned",
+      "motion_type": "procedural",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        245754.08
+      ],
+      "related_topics": [
+        "voucher audit"
+      ],
+      "notes": "General Fund $233,082.49, Sewer $7,417.86, Library Fund $4,641.80, Trust & Agency $611.93, Total $245,754.08"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Biddle",
+        "address": "113 Fairground Avenue",
+        "affiliation": null
+      },
+      "comment_text": "asked why there would be no public comment on Wednesday.",
+      "comment_type": "Question",
+      "topics": [
+        "public comment",
+        "tannery commons"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questioned why there would be no public comment on Wednesday meeting",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "said there will be public comment when a public hearing is held."
+      }
+    },
+    {
+      "section": "5",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street",
+        "affiliation": null
+      },
+      "comment_text": "said the ZAC continues to meet.",
+      "comment_type": "Information",
+      "topics": [
+        "zac",
+        "zoning"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Reported that the ZAC continues to meet",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "wants the proposed Tannery Commons meeting livestreamed.",
+      "comment_type": "Suggestion",
+      "topics": [
+        "tannery commons",
+        "live streaming"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "live streaming"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Requested that the proposed Tannery Commons meeting be livestreamed",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 4,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ms. Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "thinks the Mayor treats her differently than he does others on Facebook.",
+      "comment_type": "Concern",
+      "topics": [
+        "facebook",
+        "treatment"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "differential treatment"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Expressed concern about differential treatment by Mayor on Facebook",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 5,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ms. Stephenson",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "reminded all that the House & Garden Club is having a sale on 6/14 and also agrees that ZBA and PB meetings should be livestreamed.",
+      "comment_type": "Mixed",
+      "topics": [
+        "house and garden club",
+        "live streaming",
+        "zba",
+        "planning board"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "live streaming"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Announced House & Garden Club sale and supported livestreaming ZBA and PB meetings",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 6,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Nathan Ward",
+        "address": "1 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "questioned why the upcoming joint meeting of the ZBA and PB Boards would not have public comment and is disappointed that the meeting won't be on Zoom.",
+      "comment_type": "Mixed",
+      "topics": [
+        "zba",
+        "planning board",
+        "public comment",
+        "zoom meetings"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "no public comment",
+        "no zoom meeting"
+      ],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questioned lack of public comment at joint ZBA/PB meeting and expressed disappointment about no Zoom option",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 7,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Jason Gurtler",
+        "address": "99 Rowland Street",
+        "affiliation": null
+      },
+      "comment_text": "thanked the Mayor for his support of the baseball teams",
+      "comment_type": "Support",
+      "topics": [
+        "baseball teams"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "mayor's support"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Thanked the Mayor for supporting baseball teams",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "John Street water tower refilling",
+      "speaker": "Mayor Rossi",
+      "announcement": "The John Street water tower is being refilled.",
+      "related_topics": [
+        "water tower",
+        "infrastructure"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "BSBPA movie event success",
+      "speaker": "Mayor Rossi",
+      "announcement": "The BSBPA did a fantastic job with the movie in Iron Spring Park, which was well attended.",
+      "related_topics": [
+        "bsbpa",
+        "iron spring park",
+        "community events"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Kelley Park flooding concerns",
+      "speaker": "Mayor Rossi",
+      "announcement": "Due to the amount of rain, Kelley Park may have to be closed in case of flooding.",
+      "related_topics": [
+        "kelley park",
+        "flooding"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Kelley Park and Kent Street work completion",
+      "speaker": "Mayor Rossi",
+      "announcement": "A great job was done on the Kelley Park parking lot and Kent Street.",
+      "related_topics": [
+        "kelley park",
+        "kent street"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Library attic variance approval",
+      "speaker": "Mayor Rossi",
+      "announcement": "The attic variance for the Library was approved.",
+      "related_topics": [
+        "library",
+        "variance"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "DPW building print status",
+      "speaker": "Mayor Rossi",
+      "announcement": "A print of the new DPW building should be done soon.",
+      "related_topics": [
+        "dpw building"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Meeting room and court space search",
+      "speaker": "Mayor Rossi",
+      "announcement": "We are looking at a space in the Kent Street/Saratoga Avenue area to use as a meeting room and Court space.",
+      "related_topics": [
+        "meeting room",
+        "court space",
+        "kent street",
+        "saratoga avenue"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Mill Town water service progress",
+      "speaker": "Mayor Rossi",
+      "announcement": "We are well on our way to providing water for the Mill Town property.",
+      "related_topics": [
+        "mill town",
+        "water service"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Milton Fire contract discussions on hold",
+      "speaker": "Mayor Rossi",
+      "announcement": "Milton Fire contract discussions are on hold due to changes in assessed value.",
+      "related_topics": [
+        "milton fire",
+        "contract"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Fire and DPW loan updates",
+      "speaker": "Mayor Rossi",
+      "announcement": "Fire and DPW loan updates.",
+      "related_topics": [
+        "fire department",
+        "dpw",
+        "loans"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "John Street Tower BAN finalization",
+      "speaker": "Mayor Rossi",
+      "announcement": "The BAN for the John Street Tower will be finalized tomorrow.",
+      "related_topics": [
+        "john street tower",
+        "ban",
+        "financing"
+      ],
+      "action_items": [
+        "Finalize BAN for John Street Tower"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "DPW building loan need",
+      "speaker": "Mayor Rossi",
+      "announcement": "We will likely need to take out a loan for the new DPW building, and it will likely be in the 4 to 4 ½ million-dollar range.",
+      "related_topics": [
+        "dpw building",
+        "loan"
+      ],
+      "action_items": [],
+      "dollar_amounts": [
+        4000000.0,
+        4500000.0
+      ],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Zoning update status",
+      "speaker": "Mayor Rossi",
+      "announcement": "Regarding the Zoning update, Mayor Rossi said it is in this Board's hands for comments right now.",
+      "related_topics": [
+        "zoning update"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "Farmers Market"
+      ],
+      "report": "reminded everyone that the 1st day of the Farmers' Market is 6/14. thanked the fire department for their work on the recent fire at the gas station, noting we have the best firefighters.",
+      "events": [
+        {
+          "event": "Farmers Market opening",
+          "location": null,
+          "date": "6/14",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "fire department appreciation",
+          "detail": "thanked the fire department for their work on the recent fire at the gas station"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "farmers market",
+        "fire department"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "BACC"
+      ],
+      "report": "reported that BACC will hold a fundraiser at the Speckled Pig on 6/26 and will also have a silent online auction from 6/26 through 7/4. The adult book club will be held at the Brookside Museum on 6/25 at 3:30pm.",
+      "events": [
+        {
+          "event": "BACC fundraiser",
+          "location": "Speckled Pig",
+          "date": "6/26",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "BACC silent online auction",
+          "location": "online",
+          "date": "6/26 through 7/4",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Adult book club",
+          "location": "Brookside Museum",
+          "date": "6/25",
+          "time": "3:30pm",
+          "cost": null
+        }
+      ],
+      "announcements": [],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "bacc",
+        "fundraising",
+        "book club"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Committee on the Arts",
+        "Park and Tree Board"
+      ],
+      "report": "said the Committee on the Arts will host a series of Sketch and Print classes at Brookside Museum on 8/24, 8/31, and 9/7. Sign up can be done at Brookside or on the COA website, The Park and Tree Board extend their thanks for everyone's patience while the work was being done in Wiswall Park.",
+      "events": [
+        {
+          "event": "Sketch and Print classes",
+          "location": "Brookside Museum",
+          "date": "8/24, 8/31, and 9/7",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Park and Tree Board thanks",
+          "detail": "extend their thanks for everyone's patience while the work was being done in Wiswall Park"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "committee on the arts",
+        "park and tree board",
+        "wiswall park"
+      ]
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "reported that the DPW has begun paving in addition to preparing the pool for opening. Brush must be bagged and bundled until October, when loose brush will be picked up.",
+      "events": [],
+      "announcements": [
+        {
+          "topic": "brush collection policy",
+          "detail": "Brush must be bagged and bundled until October, when loose brush will be picked up"
+        }
+      ],
+      "dpw_activities": [
+        "paving",
+        "preparing pool for opening"
+      ],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "dpw",
+        "paving",
+        "pool",
+        "brush collection"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Water main break factors discussion",
+      "speaker": "The Board",
+      "update": "The Board discussed the various factors that can cause a water main break.",
+      "action_items": [],
+      "related_topics": [
+        "water main breaks"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Finalize BAN for John Street Tower",
+    "Submit Emergency Management Proposal board comments by 6/30",
+    "Review zoning timeline before Planning Board and Saratoga County Planning review",
+    "Research live streaming options for autonomous board meetings",
+    "Apply to become approved user of State contract for interpretation services"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 245754.08,
+    "equipment_purchases": 240375.06,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 2500.0,
+    "proposed_infrastructure": 4250000.0,
+    "items": [
+      {
+        "amount": 157322.93,
+        "description": "Tarco Live Body Dump Truck"
+      },
+      {
+        "amount": 56357.93,
+        "description": "Maxon 1300 lb. folding gate truck"
+      },
+      {
+        "amount": 2741.0,
+        "description": "Fire Department Alarm Fuel, Control Programmer, and Access Fobs"
+      },
+      {
+        "amount": 24295.2,
+        "description": "Fire department radios"
+      },
+      {
+        "amount": 2500.0,
+        "description": "Property appraisals for 30 Bath Street and 66 Front Street"
+      },
+      {
+        "amount": 4000000.0,
+        "description": "Estimated loan amount for new DPW building (low estimate)"
+      },
+      {
+        "amount": 4500000.0,
+        "description": "Estimated loan amount for new DPW building (high estimate)"
+      },
+      {
+        "amount": 233082.49,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 7417.86,
+        "description": "Sewer vouchers"
+      },
+      {
+        "amount": 4641.8,
+        "description": "Library Fund vouchers"
+      },
+      {
+        "amount": 611.93,
+        "description": "Trust & Agency vouchers"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Nick Delaney",
+        "position": "Full-time laborer for the DPW",
+        "status": "Approved"
+      },
+      {
+        "name": "Janelle Coffey",
+        "position": "Part-time DPW employee (Level 1) for watering Wiswall Park trees and flowers",
+        "status": "Approved"
+      },
+      {
+        "name": "Al Sommer",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Robert Kilinski",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Alan Cunningham",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Fred Whittredge",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "John Morrissey",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Thomas Nolan",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Lloyd Helman",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Stanley DeLong",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Patrick Mangini",
+        "position": "Fire Police",
+        "status": "Approved"
+      },
+      {
+        "name": "Richard Duffy",
+        "position": "Fire Police",
+        "status": "Approved"
+      }
+    ],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Finocchio",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "ZBA Chair Stanko",
+        "position": "ZBA Chair"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "Tarco",
+        "service": "Live Body Dump Truck supplier"
+      },
+      {
+        "name": "Maxon",
+        "service": "1300 lb. folding gate truck supplier"
+      },
+      {
+        "name": "LaBella Engineering",
+        "service": "Engineering services and Well Generator RFP advice"
+      },
+      {
+        "name": "Malta Avenue Elementary School",
+        "service": "Event organizer for Egg Drop"
+      },
+      {
+        "name": "Ribbon Café",
+        "service": "Event organizer for fundraisers"
+      },
+      {
+        "name": "Eagle-Matt Lee Fire Co. 31",
+        "service": "Tag Day organizer"
+      },
+      {
+        "name": "Ballston Spa High School",
+        "service": "Parade organizer"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Liz Biddle",
+        "address": "113 Fairground Avenue"
+      },
+      {
+        "name": "Marilyn Stephenson",
+        "address": "45 West High Street"
+      },
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd."
+      },
+      {
+        "name": "Nathan Ward",
+        "address": "1 Hyde Blvd."
+      },
+      {
+        "name": "Jason Gurtler",
+        "address": "99 Rowland Street"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Grove Street",
+      "type": "street",
+      "street": "Grove Street",
+      "context": "Street closure for Malta Avenue Elementary School Egg Drop event"
+    },
+    {
+      "name": "Prospect Street",
+      "type": "street",
+      "street": "Prospect Street",
+      "context": "Street closure for Ribbon Café events"
+    },
+    {
+      "name": "Iron Spring Park",
+      "type": "park",
+      "street": null,
+      "context": "Location of BSBPA movie event"
+    },
+    {
+      "name": "Kelley Park",
+      "type": "park",
+      "street": null,
+      "context": "May be closed due to flooding concerns, parking lot work completed"
+    },
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Location for tree and flower watering, recent work completed"
+    },
+    {
+      "name": "John Street water tower",
+      "type": "infrastructure",
+      "street": "John Street",
+      "context": "Being refilled, BAN to be finalized"
+    },
+    {
+      "name": "Kent Street",
+      "type": "street",
+      "street": "Kent Street",
+      "context": "Work completed, area being considered for meeting room and court space"
+    },
+    {
+      "name": "Saratoga Avenue",
+      "type": "street",
+      "street": "Saratoga Avenue",
+      "context": "Area being considered for meeting room and court space"
+    },
+    {
+      "name": "30 Bath Street",
+      "type": "government building",
+      "street": "Bath Street",
+      "context": "Property being appraised for potential sale"
+    },
+    {
+      "name": "66 Front Street",
+      "type": "government building",
+      "street": "Front Street",
+      "context": "Property being appraised"
+    },
+    {
+      "name": "Speckled Pig",
+      "type": "business",
+      "street": null,
+      "context": "Location of BACC fundraiser"
+    },
+    {
+      "name": "Brookside Museum",
+      "type": "venue",
+      "street": null,
+      "context": "Location of book club meeting and art classes"
+    },
+    {
+      "name": "Mill Town property",
+      "type": "infrastructure",
+      "street": null,
+      "context": "Water service being provided"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-06-14",
+      "event": "First day of Farmers Market",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-15",
+      "event": "Nick Delaney starts as DPW laborer",
+      "time": null,
+      "note": "effective date",
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-16",
+      "event": "Ballston Spa High School parade",
+      "time": "6:00pm until 7:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Malta Avenue Elementary School Egg Drop",
+      "time": "9:30am to 11:00am",
+      "note": "Grove Street closure",
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Adult book club at Brookside Museum",
+      "time": "3:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-26",
+      "event": "BACC fundraiser at Speckled Pig",
+      "time": null,
+      "note": "also start of silent online auction",
+      "rain_date": null
+    },
+    {
+      "date": "2025-06-30",
+      "event": "Emergency Management Proposal comments due",
+      "time": null,
+      "note": "board comments deadline",
+      "rain_date": null
+    },
+    {
+      "date": "2025-07-04",
+      "event": "BACC silent online auction ends",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-07-26",
+      "event": "Eagle-Matt Lee Fire Co. 31 Tag Day",
+      "time": "8:00am until 3:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-02",
+      "event": "Ribbon Café Annual Sunshine Lemonade Stand Benefit",
+      "time": "10:30am to 2:00pm",
+      "note": "street closures 8:00am to 3:00pm",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-24",
+      "event": "Sketch and Print classes at Brookside Museum (first session)",
+      "time": null,
+      "note": "sign up at Brookside or COA website",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-31",
+      "event": "Sketch and Print classes at Brookside Museum (second session)",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-09-07",
+      "event": "Sketch and Print classes at Brookside Museum (third session)",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-09-27",
+      "event": "Ribbon Café Hope, Healing and Awareness for Breast Cancer Fundraiser",
+      "time": "Noon to 4:00pm",
+      "note": "street closures 10:00am to 5:00pm",
+      "rain_date": null
+    }
+  ]
+}

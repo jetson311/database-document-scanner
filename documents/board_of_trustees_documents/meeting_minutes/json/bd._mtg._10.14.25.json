@@ -1,0 +1,1148 @@
+{
+  "filename": "bd._mtg._10.14.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-10-14",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "9:18pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "The Board approved several contracts and equipment purchases totaling over $2 million, including equipment bonds and a fire truck bond. Public comments addressed homelessness concerns in Kelley Park, with discussion of potential solutions. The Board dealt with Ethics Board vacancy discussions and various administrative matters.",
+  "topics_discussed": [
+    "personnel hiring",
+    "park use permits",
+    "recreation commission funding",
+    "senior services funding",
+    "equipment auctions",
+    "wireless tower agreements",
+    "water tower painting",
+    "language interpretation services",
+    "planning board resignation",
+    "traffic calming master plan",
+    "phone service agreement",
+    "equipment purchase bonds",
+    "fire truck bond",
+    "dpw building assessment",
+    "paving project",
+    "library board",
+    "ethics board vacancy",
+    "parades and permits",
+    "zoning code",
+    "homelessness in parks",
+    "car show",
+    "thanksgiving meal"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of the 09/22/25 meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7a",
+      "motion_number": 2,
+      "motion_description": "Appoint Daryl St. Louis to the position of Mechanic",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "personnel hiring"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7b",
+      "motion_number": 3,
+      "motion_description": "Grant Peggy Crawford permission to utilize Wiswall Park on 10/15/25 from 7:00pm until 9:00pm for the 1st Annual Charlie Kirk Day",
+      "motion_type": "event approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "noted that proof of insurance was received this afternoon"
+        },
+        {
+          "speaker": "The Board",
+          "statement": "clarified for the public that this is not a Village event"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "park use permits"
+      ],
+      "notes": "A permit will be issued upon proof of insurance. Proof of insurance was received."
+    },
+    {
+      "section": "7c",
+      "motion_number": 4,
+      "motion_description": "Pay $12,100.00 to the Ballston Area Recreation Commission per the attached contract and as stated in the 2025-2026 Budget",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        12100.0
+      ],
+      "related_topics": [
+        "recreation commission funding"
+      ],
+      "notes": "Authorizing the Mayor to execute the contract"
+    },
+    {
+      "section": "7d",
+      "motion_number": 5,
+      "motion_description": "Pay $12,500.00 to the Ballston Area Seniors per the attached contract and as stated in the 2025-2026 Budget",
+      "motion_type": "contract approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        12500.0
+      ],
+      "related_topics": [
+        "senior services funding"
+      ],
+      "notes": "Authorizing the Mayor to execute the contract"
+    },
+    {
+      "section": "7e",
+      "motion_number": 6,
+      "motion_description": "Accept the bids offered from Auctions International for two separate auctions that both ended this week",
+      "motion_type": "bid acceptance",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "equipment auctions"
+      ],
+      "notes": "Authorizes the Mayor to finalize/execute any related paperwork"
+    },
+    {
+      "section": "7f",
+      "motion_number": 7,
+      "motion_description": "Approve Tower Structure License Agreement between New Cingular Wireless PCS, LLC (d/b/a AT&T Wireless) and the Village of Ballston Spa",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "wireless tower agreements"
+      ],
+      "notes": "Authorizing the Mayor to execute the agreement"
+    },
+    {
+      "section": "7g",
+      "motion_number": 8,
+      "motion_description": "Approve Change Order #3 for USG Water Solutions related to the delay costs related to the John St. Tower exterior painting",
+      "motion_type": "contract approval",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "water tower painting"
+      ],
+      "notes": "These costs are to be absorbed by the carriers through pending agreements. This motion authorizes the Mayor to execute the Change Order."
+    },
+    {
+      "section": "7h",
+      "motion_number": 9,
+      "motion_description": "Have Village administration send a Request for Quotes for telephonic language interpretation services to specific vendors",
+      "motion_type": "procedural",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "language interpretation services"
+      ],
+      "notes": "Vendors: Language Line Solutions; Geneva Worldwide, Inc.; Transperfect Translations International, Inc."
+    },
+    {
+      "section": "7i",
+      "motion_number": 10,
+      "motion_description": "Accept the resignation of John Battenfield from the Planning Board",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "planning board resignation"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7j",
+      "motion_number": 11,
+      "motion_description": "Approve Memorandum of Understanding between the Capital Region Transportation Council and the Village of Ballston Spa for the Village-Wide Traffic Calming Master Plan, including $7,500 of Village matching funds",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        7500.0
+      ],
+      "related_topics": [
+        "traffic calming master plan"
+      ],
+      "notes": "Authorizing the Mayor to execute the Memorandum of Understanding"
+    },
+    {
+      "section": "7k",
+      "motion_number": 12,
+      "motion_description": "Approve Spectrum Business agreement with the Village of Ballston Spa for a Lowell Street Pump Station phone line for $30/month for 36 months",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        30.0,
+        1080.0
+      ],
+      "related_topics": [
+        "phone service agreement"
+      ],
+      "notes": "Contingent on the inability of RingSquared to provide the necessary service for that location. This motion authorizes the Mayor to execute the agreement if it is determined that the inability exists."
+    },
+    {
+      "section": "7l",
+      "motion_number": 13,
+      "motion_description": "Approve Resolution Authorizing the Purchase of Equipment at a Cost up to $1,236,000 and the Issuance of $1,100,000 Serial Bonds for the Purchase of One (1) Vacuum Truck, One (1) Street Sweeper, Two (2) Dump Trucks, One (1) Loader and One (1) Pickup Truck with Plow",
+      "motion_type": "resolution",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        1236000.0,
+        1100000.0
+      ],
+      "related_topics": [
+        "equipment purchase bonds"
+      ],
+      "notes": "This resolution formalizes authorization, which is needed for the closing of the loan per USDA requirements."
+    },
+    {
+      "section": "7m",
+      "motion_number": 14,
+      "motion_description": "Approve Resolution Authorizing the Issuance of $942,000 Serial Bonds for the Purchase of a Sutphen Pumper Fire Truck",
+      "motion_type": "resolution",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        942000.0
+      ],
+      "related_topics": [
+        "fire truck bond"
+      ],
+      "notes": "This resolution formalizes authorization, which is needed for the closing of the loan per USDA requirements."
+    },
+    {
+      "section": "15",
+      "motion_number": 15,
+      "motion_description": "Enter into Executive Session to discuss an active police investigation matter",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "executive session"
+      ],
+      "notes": "The Board and Officer DeMartino entered Executive Session at 8:42pm and returned at 9:14pm"
+    },
+    {
+      "section": "15",
+      "motion_number": 16,
+      "motion_description": "Schedule regular Board meeting on 10/27 to begin at 6:30pm, and a Special Meeting will begin immediately thereafter with a goal time of 7:00pm related to zoning",
+      "motion_type": "procedural",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting scheduling",
+        "zoning"
+      ],
+      "notes": null
+    },
+    {
+      "section": "16",
+      "motion_number": 17,
+      "motion_description": "Audit vouchers and adjourn the meeting",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        259195.87,
+        7414.98,
+        2888.89,
+        1137.25,
+        270636.99
+      ],
+      "related_topics": [
+        "voucher audit",
+        "meeting adjournment"
+      ],
+      "notes": "Meeting adjourned at 9:18pm"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "13",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Anna Stanko",
+        "address": "32 Kent Street",
+        "affiliation": null
+      },
+      "comment_text": "expressed concerns about people living in and drinking alcohol in Kelley Park.",
+      "comment_type": "Concern",
+      "topics": [
+        "homelessness in parks",
+        "alcohol in parks"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "people living and drinking in Kelley Park"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Expressed concerns about homeless individuals living and drinking alcohol in Kelley Park.",
+      "board_response": {
+        "responder": "The Board",
+        "response": "agrees this a tough issue that needs to be addressed. Installing blue lights to contact law enforcement was discussed."
+      }
+    },
+    {
+      "section": "13",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Liz Biddle",
+        "address": "113 Fairground Avenue",
+        "affiliation": "BSBPA"
+      },
+      "comment_text": "On behalf of the BSBPA, thanked all involved with car show, which had approximately 400 cars this year.",
+      "comment_type": "Support",
+      "topics": [
+        "car show"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "car show participants"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Thanked all involved in the successful car show on behalf of BSBPA.",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "believes the Mayor should recuse himself from choosing a new Ethics Board member.",
+      "comment_type": "Suggestion",
+      "topics": [
+        "ethics board"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "mayor choosing ethics board member"
+      ],
+      "supports": [
+        "mayor recusal from ethics board selection"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Believes the Mayor should recuse himself from selecting new Ethics Board members.",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "DPW Building Assessment",
+      "speaker": "Mayor Rossi",
+      "announcement": "We are working on a cost assessment for a new DPW building.",
+      "related_topics": [
+        "dpw building assessment"
+      ],
+      "action_items": [
+        "Complete cost assessment for new DPW building"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Paving Project",
+      "speaker": "Mayor Rossi",
+      "announcement": "Paving is almost done.",
+      "related_topics": [
+        "paving project"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Library Board",
+      "speaker": "Mayor Rossi",
+      "announcement": "The Library Board is doing a great job.",
+      "related_topics": [
+        "library board"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Post-Paving Activities",
+      "speaker": "Mayor Rossi",
+      "announcement": "Once paving is complete, other duties including putting up the rest of the speed signs and prep work for trees on Milton Avenue.",
+      "related_topics": [
+        "paving project",
+        "traffic signs",
+        "trees"
+      ],
+      "action_items": [
+        "Install remaining speed signs",
+        "Prep work for trees on Milton Avenue"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "BSBPA"
+      ],
+      "report": "Trustee VanDeinse-Perez congratulated the BSBPA on another great car show and noted that Small Business Saturday will be 11/29. On 11/20 from 6:00pm to 8:00pm there will be a Revitalize Ballston Spa (BOA) public workshop held at the solar building. Trustee VanDeinse-Perez said there will be a graphic design wrap put around the Ricketts site, paid for with grant money.",
+      "events": [
+        {
+          "event": "Small Business Saturday",
+          "location": null,
+          "date": "11/29",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Revitalize Ballston Spa (BOA) public workshop",
+          "location": "solar building",
+          "date": "11/20",
+          "time": "6:00pm to 8:00pm",
+          "cost": "free"
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Ricketts site wrap",
+          "detail": "graphic design wrap put around the Ricketts site, paid for with grant money"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "car show",
+        "small business",
+        "revitalize ballston spa",
+        "ricketts site"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "Library"
+      ],
+      "report": "Trustee Price-Bush announced that the Library received a $50,000.00 grant from Stewarts that will go towards the new teen room. Check the Library calendar for upcoming events such as an afternoon book discussion on 10/22 at 3:30pm, Paws to Read with Georgie the therapy dog on 10/25 starting at 11:30am and a book signing by on 10/28 at 6:30pm by Ballston Spa resident Jerry Crouth, who authored \"Thank you Mom\". Sixth through ninth graders can enjoy teen nights at BACC on Monday and Friday nights from 6:30pm to 8:30pm. Trustee Price-Bush announced that the Community Thanksgiving meal will be held at Union Fire House. Volunteers are needed the night before Thanksgiving and on Thanksgiving Day. Volunteers should contact Ray Otten.",
+      "events": [
+        {
+          "event": "Library afternoon book discussion",
+          "location": "Library",
+          "date": "10/22",
+          "time": "3:30pm",
+          "cost": "free"
+        },
+        {
+          "event": "Paws to Read with Georgie the therapy dog",
+          "location": "Library",
+          "date": "10/25",
+          "time": "11:30am",
+          "cost": "free"
+        },
+        {
+          "event": "Book signing by Jerry Crouth",
+          "location": "Library",
+          "date": "10/28",
+          "time": "6:30pm",
+          "cost": "free"
+        },
+        {
+          "event": "Teen nights at BACC",
+          "location": "BACC",
+          "date": "Monday and Friday nights",
+          "time": "6:30pm to 8:30pm",
+          "cost": "free"
+        },
+        {
+          "event": "Community Thanksgiving meal",
+          "location": "Union Fire House",
+          "date": "Thanksgiving",
+          "time": null,
+          "cost": "free"
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Library grant",
+          "detail": "Library received a $50,000.00 grant from Stewarts for new teen room"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [
+        "Contact Ray Otten to volunteer for Thanksgiving meal"
+      ],
+      "related_topics": [
+        "library",
+        "teen room",
+        "thanksgiving meal",
+        "volunteers"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Committee on the Arts",
+        "Park and Tree Board"
+      ],
+      "report": "Trustee Baskin noted that the Committee on the Arts is having a \"Watercolor Fanatics\" art class at the Real McCoy Details can be found on their Facebook page. Open mic night will be held at the establishment on 11/7 beginning at 5:30pm. Additionally, the committee is looking for another volunteer. Trustee Baskin also shared that Saratoga Arts is currently accepting grant applications through 11/21. The Park and Tree Board has been performing maintenance on trees in Wiswall and Kelley Parks and on Milton Avenue and Low Street. The Park and Tree Board thanks Frank Blair and his son Scott for repairs done to the playground at Kelley Park. A workday is being planned for later this fall or early next spring.",
+      "events": [
+        {
+          "event": "Watercolor Fanatics art class",
+          "location": "the Real McCoy",
+          "date": null,
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Open mic night",
+          "location": "the Real McCoy",
+          "date": "11/7",
+          "time": "5:30pm",
+          "cost": "free"
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Committee volunteer needed",
+          "detail": "Committee on the Arts looking for another volunteer"
+        },
+        {
+          "topic": "Saratoga Arts grants",
+          "detail": "currently accepting grant applications through 11/21"
+        },
+        {
+          "topic": "Kelley Park playground repairs",
+          "detail": "Frank Blair and his son Scott did repairs to the playground at Kelley Park"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [
+        "Find volunteer for Committee on the Arts",
+        "Plan workday for later fall or early spring"
+      ],
+      "related_topics": [
+        "committee on the arts",
+        "saratoga arts",
+        "park maintenance",
+        "playground repairs"
+      ]
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "Trustee Raymond reported that the DPW is going to be doing a hydrant flush and also noted that loose leaf and debris pick-up will begin 10/15.",
+      "events": [],
+      "announcements": [],
+      "dpw_activities": [
+        "hydrant flush",
+        "loose leaf and debris pick-up beginning 10/15"
+      ],
+      "mayor_additions": null,
+      "action_items": [
+        "Complete hydrant flush",
+        "Begin loose leaf and debris pick-up on 10/15"
+      ],
+      "related_topics": [
+        "dpw activities",
+        "hydrant maintenance",
+        "leaf pickup"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Ethics Board Vacancy",
+      "speaker": "Multiple Trustees",
+      "update": "Trustee Baskin would like the vacant position on the Ethics Board put on the website. Mayor Rossi noted he feels it is better to wait until the current ethics investigations are completed. Trustee VanDeinse-Perez doesn't see the harm in putting names together to start the process. Mayor Rossi hopes the cases will be expedited. Trustee Raymond feels there is no need to wait for the current investigations to be over in order to appoint a new member.",
+      "action_items": [
+        "Resolve Ethics Board vacancy posting decision"
+      ],
+      "related_topics": [
+        "ethics board"
+      ]
+    },
+    {
+      "topic": "Parades/Protests/Special Permits",
+      "speaker": "The Board",
+      "update": "The Board discussed what events require a permit and what events do not.",
+      "action_items": [
+        "Clarify permit requirements for events"
+      ],
+      "related_topics": [
+        "parades and permits"
+      ]
+    },
+    {
+      "topic": "Zoning Workshop",
+      "speaker": "The Board",
+      "update": "A workshop was tentatively scheduled for 10/20 at 6:30pm.",
+      "action_items": [
+        "Hold zoning workshop"
+      ],
+      "related_topics": [
+        "zoning code"
+      ]
+    },
+    {
+      "topic": "Board Response to Homelessness Issue",
+      "speaker": "Multiple Trustees",
+      "update": "Trustee Raymond said the homelessness issue is going to get worse as programs get defunded. Trustee Baskin noted that his neighborhood had a meeting and discussed nonresidential use in the area. Trustee Price-Bush suggested that if people are discouraged from drinking in the park, they might move on. Trustee VanDeinse-Perez noted that some people do not want help.",
+      "action_items": [],
+      "related_topics": [
+        "homelessness in parks"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Complete cost assessment for new DPW building",
+    "Install remaining speed signs",
+    "Prep work for trees on Milton Avenue",
+    "Contact Ray Otten to volunteer for Thanksgiving meal",
+    "Find volunteer for Committee on the Arts",
+    "Plan workday for later fall or early spring",
+    "Complete hydrant flush",
+    "Begin loose leaf and debris pick-up on 10/15",
+    "Resolve Ethics Board vacancy posting decision",
+    "Clarify permit requirements for events",
+    "Hold zoning workshop"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 270636.99,
+    "equipment_purchases": 1236000.0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 25100.0,
+    "proposed_infrastructure": 942000.0,
+    "items": [
+      {
+        "amount": 12100.0,
+        "description": "Ballston Area Recreation Commission contract payment"
+      },
+      {
+        "amount": 12500.0,
+        "description": "Ballston Area Seniors contract payment"
+      },
+      {
+        "amount": 7500.0,
+        "description": "Village matching funds for Traffic Calming Master Plan"
+      },
+      {
+        "amount": 30.0,
+        "description": "Monthly cost for Spectrum phone line"
+      },
+      {
+        "amount": 1080.0,
+        "description": "Total cost for 36-month Spectrum phone agreement"
+      },
+      {
+        "amount": 1236000.0,
+        "description": "Maximum cost for equipment purchase (vacuum truck, street sweeper, dump trucks, loader, pickup truck)"
+      },
+      {
+        "amount": 1100000.0,
+        "description": "Serial bonds for equipment purchase"
+      },
+      {
+        "amount": 942000.0,
+        "description": "Serial bonds for Sutphen Pumper Fire Truck"
+      },
+      {
+        "amount": 259195.87,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 7414.98,
+        "description": "Capital Projects vouchers"
+      },
+      {
+        "amount": 2888.89,
+        "description": "Library Fund vouchers"
+      },
+      {
+        "amount": 1137.25,
+        "description": "Trust & Agency vouchers"
+      },
+      {
+        "amount": 270636.99,
+        "description": "Total vouchers audited"
+      },
+      {
+        "amount": 50000.0,
+        "description": "Stewarts grant to Library for teen room"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Daryl St. Louis",
+        "position": "Mechanic",
+        "status": "Approved"
+      }
+    ],
+    "resignations": [
+      {
+        "name": "John Battenfield",
+        "position": "Planning Board member",
+        "status": "Resignation approved"
+      }
+    ],
+    "staff_mentioned": [
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "Police Officer Michael DeMartino",
+        "position": "Police Officer"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "Auctions International",
+        "service": "Equipment auctions"
+      },
+      {
+        "name": "New Cingular Wireless PCS, LLC (d/b/a AT&T Wireless)",
+        "service": "Tower structure license"
+      },
+      {
+        "name": "USG Water Solutions",
+        "service": "John St. Tower exterior painting"
+      },
+      {
+        "name": "Language Line Solutions",
+        "service": "Telephonic language interpretation services"
+      },
+      {
+        "name": "Geneva Worldwide, Inc.",
+        "service": "Telephonic language interpretation services"
+      },
+      {
+        "name": "Transperfect Translations International, Inc.",
+        "service": "Telephonic language interpretation services"
+      },
+      {
+        "name": "Capital Region Transportation Council",
+        "service": "Traffic Calming Master Plan"
+      },
+      {
+        "name": "Spectrum Business",
+        "service": "Phone line service"
+      },
+      {
+        "name": "RingSquared",
+        "service": "Alternative phone service provider"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Anna Stanko",
+        "address": "32 Kent Street"
+      },
+      {
+        "name": "Liz Biddle",
+        "address": "113 Fairground Avenue"
+      },
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd."
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Location for 1st Annual Charlie Kirk Day event and tree maintenance"
+    },
+    {
+      "name": "Kelley Park",
+      "type": "park",
+      "street": null,
+      "context": "Location of homelessness concerns and playground repairs"
+    },
+    {
+      "name": "John St. Tower",
+      "type": "infrastructure",
+      "street": "John Street",
+      "context": "Water tower requiring exterior painting"
+    },
+    {
+      "name": "Lowell Street Pump Station",
+      "type": "infrastructure",
+      "street": "Lowell Street",
+      "context": "Location needing phone line service"
+    },
+    {
+      "name": "Milton Avenue",
+      "type": "infrastructure",
+      "street": "Milton Avenue",
+      "context": "Location for tree prep work and tree maintenance"
+    },
+    {
+      "name": "Low Street",
+      "type": "infrastructure",
+      "street": "Low Street",
+      "context": "Location of tree maintenance"
+    },
+    {
+      "name": "Solar building",
+      "type": "government building",
+      "street": null,
+      "context": "Location for Revitalize Ballston Spa public workshop"
+    },
+    {
+      "name": "Union Fire House",
+      "type": "government building",
+      "street": null,
+      "context": "Location for Community Thanksgiving meal"
+    },
+    {
+      "name": "Ricketts site",
+      "type": "business",
+      "street": null,
+      "context": "Location getting graphic design wrap with grant money"
+    },
+    {
+      "name": "The Real McCoy",
+      "type": "business",
+      "street": null,
+      "context": "Location for art class and open mic night"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-10-15",
+      "event": "1st Annual Charlie Kirk Day at Wiswall Park",
+      "time": "7:00pm until 9:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-15",
+      "event": "Loose leaf and debris pick-up begins",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-20",
+      "event": "Zoning workshop (tentative)",
+      "time": "6:30pm",
+      "note": "Tentatively scheduled",
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-22",
+      "event": "Library afternoon book discussion",
+      "time": "3:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-25",
+      "event": "Paws to Read with Georgie the therapy dog",
+      "time": "11:30am",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-27",
+      "event": "Regular Board meeting and Special Meeting for zoning",
+      "time": "6:30pm regular meeting, 7:00pm special meeting",
+      "note": "Special meeting goal time",
+      "rain_date": null
+    },
+    {
+      "date": "2025-10-28",
+      "event": "Book signing by Jerry Crouth",
+      "time": "6:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-07",
+      "event": "Open mic night at The Real McCoy",
+      "time": "5:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-20",
+      "event": "Revitalize Ballston Spa (BOA) public workshop",
+      "time": "6:00pm to 8:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-21",
+      "event": "Saratoga Arts grant applications deadline",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-29",
+      "event": "Small Business Saturday",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+pypdf>=4.0.0
+requests>=2.28.0
+# Optional: for scanned/image PDFs (install system deps first: brew install poppler tesseract)
+# pdf2image>=1.16.0
+# pytesseract>=0.3.10

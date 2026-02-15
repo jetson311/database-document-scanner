@@ -1,0 +1,1296 @@
+{
+  "filename": "bd._mtg._08.11.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-08-11",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "9:27pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Attorney",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "The board approved routine items including fire equipment and fireworks contracts, but saw significant public debate over a Gaza humanitarian crisis resolution. Motion 'd' regarding Gaza ultimately failed, leading to an amended alternative resolution that passed with mixed votes.",
+  "topics_discussed": [
+    "peaceful public assembly",
+    "fire department equipment",
+    "fireworks contract",
+    "gaza humanitarian crisis",
+    "leaf collection equipment",
+    "water connections",
+    "dpw garage replacement",
+    "tree work",
+    "speed monitoring signs",
+    "family fun day",
+    "library events",
+    "zoning code review"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Minutes of the 7/21/25 Special Meeting/Workshop be approved",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSTAIN",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes"
+      ],
+      "notes": null
+    },
+    {
+      "section": "3b",
+      "motion_number": 2,
+      "motion_description": "Minutes of the 7/28/25 meeting be approved",
+      "motion_type": "approval",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7a",
+      "motion_number": 3,
+      "motion_description": "Kim Anderson be granted permission to conduct a 'Peaceful Public Assembly' in support of democracy on 8/30/2025 from 11:00am to 3:00pm on the sidewalks at the Milton Avenue/Front Street intersection, and to gather in Wiswall Park for announcements and live music",
+      "motion_type": "event approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "peaceful public assembly",
+        "wiswall park"
+      ],
+      "notes": "Event form for park portion of this motion and proof of insurance pending"
+    },
+    {
+      "section": "7b",
+      "motion_number": 4,
+      "motion_description": "Eagle-Matt Lee Fire Co. #1 be authorized to purchase 650 feet of hose at a cost of $4,862.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        4862.0
+      ],
+      "related_topics": [
+        "fire department equipment"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7c",
+      "motion_number": 5,
+      "motion_description": "Approving the contracts between Santore Firework and the Village of Ballston Spa for a fireworks display at the Saratoga County Fairgrounds on 8/17/2025 for Family Fun Day for an aggregate value of $6,000.00, and authorizing the Mayor to execute the contracts",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        6000.0
+      ],
+      "related_topics": [
+        "fireworks contract",
+        "family fun day"
+      ],
+      "notes": "Proof of insurance has been provided, and donations have been received to cover the cost"
+    },
+    {
+      "section": "7d",
+      "motion_number": 6,
+      "motion_description": "To adopt the attached resolution on the humanitarian crisis in Gaza, post the resolution on the village web site, and mail to New York Senators Schumer and Gillibrand, Congressperson Tonko, and President Trump on village letterhead",
+      "motion_type": "resolution",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "Motion Failed",
+      "vote_breakdown": {
+        "Mayor Rossi": "ABSTAIN",
+        "Trustee VanDeinse-Perez": "ABSTAIN",
+        "Trustee Price-Bush": "ABSTAIN",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Ms. Frankewich",
+          "statement": "shared her thoughts on the resolution"
+        },
+        {
+          "speaker": "Ms. Iacolucci",
+          "statement": "feels the resolution is fine but doesn't address the urgent humanitarian crisis"
+        },
+        {
+          "speaker": "Mr. DuBuque",
+          "statement": "stated there are a lot of people out there that are passionate about humanitarian aid"
+        },
+        {
+          "speaker": "Ellie Dillon",
+          "statement": "feels if we don't speak out, we are compliant"
+        },
+        {
+          "speaker": "Ephraim DuBuque",
+          "statement": "supports Trustee VanDeinse-Perez's resolution"
+        },
+        {
+          "speaker": "Trustee Raymond",
+          "statement": "feels we should send this resolution and request that our representatives fund programs to benefit disenfranchised people"
+        },
+        {
+          "speaker": "Trustee Baskin",
+          "statement": "stated he will abstain because the resolution does not condemn the Israeli government"
+        },
+        {
+          "speaker": "Trustee Raymond",
+          "statement": "would like the resolution to be more specific"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "gaza humanitarian crisis"
+      ],
+      "notes": "Board members will be working with Trustee Baskin over the weekend to potentially revise his resolution and this motion"
+    },
+    {
+      "section": "7d-amended",
+      "motion_number": 7,
+      "motion_description": "Amending the resolution read by Trustee VanDeinse-Perez",
+      "motion_type": "resolution",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Mayor Rossi",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSTAIN",
+        "Trustee Raymond": "ABSTAIN"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "gaza humanitarian crisis"
+      ],
+      "notes": "Alternative resolution to the failed Motion 6"
+    },
+    {
+      "section": "7e",
+      "motion_number": 8,
+      "motion_description": "Village of Ballston Spa DPW be granted permission to purchase a TARCO Leaf Collection Box with Flexible Connector for $11,184.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        11184.0
+      ],
+      "related_topics": [
+        "leaf collection equipment",
+        "dpw"
+      ],
+      "notes": "This was previously anticipated in the FY2026 Budget"
+    },
+    {
+      "section": "7f",
+      "motion_number": 9,
+      "motion_description": "Approving the in-Village water connection for 105 Fairground Avenue",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "water connections"
+      ],
+      "notes": "The connection has been approved by Labella Engineering and the Village Water Department"
+    },
+    {
+      "section": "7g",
+      "motion_number": 10,
+      "motion_description": "Approving the agreement between Delaware Engineering and the Village of Ballston Spa approving the not to exceed $12,5000.00 related to work to devise a concept plan/needs assessment for the DPW garage replacement",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        12500.0
+      ],
+      "related_topics": [
+        "dpw garage replacement"
+      ],
+      "notes": null
+    },
+    {
+      "section": "7h",
+      "motion_number": 11,
+      "motion_description": "Village of Ballston Spa be authorized to get tree work done on all the trees between Prospect Street and East High Street by Earth Care Plus for a total not to exceed $5,000.00",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        5000.0
+      ],
+      "related_topics": [
+        "tree work"
+      ],
+      "notes": "This work includes removal, trimming and stump grinding"
+    },
+    {
+      "section": "10",
+      "motion_number": 12,
+      "motion_description": "Approve no more than $400.00 in checks to be issued for reimbursements related to the Swimming Under the Stars event for food and other items that were purchased",
+      "motion_type": "approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Ms. Iacolucci",
+          "statement": "asked if this amount is given for other events"
+        },
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "explained this was allocated, we are just reimbursing volunteers who fronted the money"
+        }
+      ],
+      "dollar_amounts": [
+        400.0
+      ],
+      "related_topics": [
+        "swimming under the stars"
+      ],
+      "notes": null
+    },
+    {
+      "section": "16",
+      "motion_number": 13,
+      "motion_description": "Vouchers be audited, and the meeting adjourned",
+      "motion_type": "procedural",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        184111.75
+      ],
+      "related_topics": [
+        "voucher audit"
+      ],
+      "notes": "Meeting adjourned at 9:27pm"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Charlene DuBuque",
+        "address": "6 Kaleen Drive",
+        "affiliation": null
+      },
+      "comment_text": "does not support and recommended that the Board not adopt motion \"d\".",
+      "comment_type": "Concern",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "motion d"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes motion d regarding Gaza resolution",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "supports motions \"a\" and \"d\". Ms. Kormos asked why Family Fun Day is being moved to the Fairgrounds, and noted she is not in favor of the fireworks being propose at a cost of $6,000.00.",
+      "comment_type": "Mixed",
+      "topics": [
+        "peaceful public assembly",
+        "gaza humanitarian crisis",
+        "family fun day",
+        "fireworks"
+      ],
+      "referenced_items": [
+        "7a",
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "fireworks"
+      ],
+      "supports": [
+        "motion a",
+        "motion d"
+      ],
+      "contains_question": true,
+      "dollar_amounts": [
+        6000.0
+      ],
+      "summary": "Supports motions a and d but opposes expensive fireworks and questions venue change",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Tricia Frankewich",
+        "address": "24 Buell Avenue",
+        "affiliation": null
+      },
+      "comment_text": "noted she does not support motion \"d\".",
+      "comment_type": "Concern",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "motion d"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes motion d regarding Gaza resolution",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 4,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Ray Otten",
+        "address": "16 Middlebrook Avenue",
+        "affiliation": null
+      },
+      "comment_text": "Regarding motion \"d,\" Ray Otten, 16 Middlebrook Avenue stated he opposes the Village taking sides. Mr. Otten pointed out that the fireworks are being funded by donations.",
+      "comment_type": "Mixed",
+      "topics": [
+        "gaza humanitarian crisis",
+        "fireworks"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "Village taking sides"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes Village taking political sides and clarifies fireworks funding",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 5,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Kris DuBuque",
+        "address": "6 Kaleen Drive",
+        "affiliation": null
+      },
+      "comment_text": "also does not support motion \"d\".",
+      "comment_type": "Concern",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "motion d"
+      ],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes motion d regarding Gaza resolution",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 6,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Mike Iacolucci",
+        "address": "3 Encore Drive",
+        "affiliation": null
+      },
+      "comment_text": "supports motions \"a\" and \"d\".",
+      "comment_type": "Support",
+      "topics": [
+        "peaceful public assembly",
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7a",
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "motion a",
+        "motion d"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports motions a and d",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 7,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Gina Marozzi",
+        "address": "10 Old Glory Lane",
+        "affiliation": null
+      },
+      "comment_text": "does not support motion \"d\" and feels we should be supporting our own residents in need.",
+      "comment_type": "Concern",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "motion d"
+      ],
+      "supports": [
+        "supporting local residents"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes Gaza resolution and prefers focus on local needs",
+      "board_response": null
+    },
+    {
+      "section": "5",
+      "comment_number": 8,
+      "comment_period": "Public Comment on Agenda Items Only (3 Minutes per Speaker)",
+      "speaker": {
+        "name": "Christin Iacolucci",
+        "address": "24 Chapman Street",
+        "affiliation": null
+      },
+      "comment_text": "spoke in support of motion \"d\".",
+      "comment_type": "Support",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "motion d"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports motion d regarding Gaza resolution",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 9,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Erin McCredy",
+        "address": "35 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "likes the speed signs.",
+      "comment_type": "Support",
+      "topics": [
+        "speed monitoring signs"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "speed signs"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Approves of speed monitoring signs",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 10,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Ms. Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "asked about the status of creating water districts.",
+      "comment_type": "Question",
+      "topics": [
+        "water districts"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Inquires about water district creation status",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 11,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Ms. Dillon",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "asked about moving the double yellow line on Malta Avenue to deter speeding.",
+      "comment_type": "Question",
+      "topics": [
+        "traffic safety"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Asks about relocating double yellow line for speed control",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "responded that the Town of Milton is handling it"
+      }
+    },
+    {
+      "section": "13",
+      "comment_number": 12,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Ms. Marozzi",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "feels The Events Task Force is the only group that is questioned and attacked told what and how to do things and reminded everyone that these events are for disadvantaged children.",
+      "comment_type": "Concern",
+      "topics": [
+        "events task force"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": [
+        "criticism of events task force"
+      ],
+      "supports": [
+        "events task force"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Defends Events Task Force and their mission for disadvantaged children",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 13,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Ray Otten",
+        "address": "16 Middlebrook Avenue",
+        "affiliation": null
+      },
+      "comment_text": "noted the previously rained out \"Hope for Children\" will take place during Family Fun Day. Mr. Otten shared his appreciation for being able to utilize the fairgrounds for the event.",
+      "comment_type": "Information",
+      "topics": [
+        "hope for children",
+        "family fun day"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "fairgrounds use"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Provides update on Hope for Children event and thanks Village for fairgrounds access",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 14,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Jan McCabe",
+        "address": "345 Lexington Street",
+        "affiliation": null
+      },
+      "comment_text": "Regarding the speed signs, Jan McCabe, 345 Lexington Street thanked the Village.",
+      "comment_type": "Support",
+      "topics": [
+        "speed monitoring signs"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": [
+        "speed signs"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Thanks Village for speed signs",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 15,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "John Cromie",
+        "address": "132 Bath Street",
+        "affiliation": null
+      },
+      "comment_text": "shared his thoughts on ethics and zoning.",
+      "comment_type": "Information",
+      "topics": [
+        "ethics",
+        "zoning"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Discusses ethics and zoning matters",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 16,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Jared Iacolucci",
+        "address": "24 Chapman Street",
+        "affiliation": null
+      },
+      "comment_text": "said he was in support of motion \"d\". Ms. Iacolucci is in favor of tax dollars supporting people, not bombing people.",
+      "comment_type": "Support",
+      "topics": [
+        "gaza humanitarian crisis"
+      ],
+      "referenced_items": [
+        "7d"
+      ],
+      "agrees_with": null,
+      "opposes": [
+        "military spending"
+      ],
+      "supports": [
+        "motion d",
+        "humanitarian spending"
+      ],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports Gaza resolution and opposes military spending",
+      "board_response": null
+    },
+    {
+      "section": "13",
+      "comment_number": 17,
+      "comment_period": "Public Comment on Any Issue (3 Minutes)",
+      "speaker": {
+        "name": "Kris DuBuque",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "stated he welcomes anyone with ideas to assist him with putting together a program to feed the hungry.",
+      "comment_type": "Information",
+      "topics": [
+        "hunger programs"
+      ],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Seeks assistance for local hunger program",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Speed monitoring signs",
+      "speaker": "Mayor Rossi",
+      "announcement": "8 of 10 \"Your Speed Is\" signs have been placed around the Village. The data is being monitored, and we will start doing enforcement zones.",
+      "related_topics": [
+        "speed monitoring signs"
+      ],
+      "action_items": [
+        "start doing enforcement zones"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Swimming Under the Stars event",
+      "speaker": "Mayor Rossi",
+      "announcement": "Swimming Under the Stars was fantastic. Thank you to Village Pool staff and all of the volunteers.",
+      "related_topics": [
+        "swimming under the stars"
+      ],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "Historical donation",
+      "speaker": "Mayor Rossi",
+      "announcement": "The Balmuth's have donated a chalice from the Spanish-American War dating back to 1898. Per their wishes, the chalice will be housed in the Library.",
+      "related_topics": [
+        "library",
+        "historical donations"
+      ],
+      "action_items": [
+        "house chalice in library"
+      ],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "Events"
+      ],
+      "report": "reported that the Peach Fest was a big success, and the concert series continues.",
+      "events": [],
+      "announcements": [
+        {
+          "topic": "Peach Fest",
+          "detail": "was a big success"
+        },
+        {
+          "topic": "Concert series",
+          "detail": "continues"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "peach fest",
+        "concert series"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "Library"
+      ],
+      "report": "announced that the Library will have a ribbon cutting on 8/23 at 2:00pm. The adult book club will begin on 8/14 at 6:30pm, noted Trustee Price-Bush. Trustee Price-Bush also noted that the Annual Senior Picnic will be held on 9/5 at the Saratoga County Fair Grounds and Family Fun Day is 8/17.",
+      "events": [
+        {
+          "event": "Library ribbon cutting",
+          "location": null,
+          "date": "8/23",
+          "time": "2:00pm",
+          "cost": null
+        },
+        {
+          "event": "Adult book club",
+          "location": null,
+          "date": "8/14",
+          "time": "6:30pm",
+          "cost": null
+        },
+        {
+          "event": "Annual Senior Picnic",
+          "location": "Saratoga County Fair Grounds",
+          "date": "9/5",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Family Fun Day",
+          "location": null,
+          "date": "8/17",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "library",
+        "senior picnic",
+        "family fun day"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Committee on the Arts"
+      ],
+      "report": "noted the Sketch and Print Classes begin 8/31, register through Brookside or the Committee on the Arts Facebook page. Anyone interested in helping clean up Kelley Park should contact the Park and Tree Board through their Facebook page.",
+      "events": [
+        {
+          "event": "Sketch and Print Classes",
+          "location": null,
+          "date": "8/31",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Kelley Park cleanup",
+          "detail": "contact Park and Tree Board through Facebook page"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [
+        "register for classes through Brookside or Facebook",
+        "contact Park and Tree Board for cleanup"
+      ],
+      "related_topics": [
+        "sketch classes",
+        "kelley park"
+      ]
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "said the DPW is busy preparing for event set-ups and paving. Other duties keeping them busy are road striping, replacing fire hydrants and painting the conference room in the Library.",
+      "events": [],
+      "announcements": [],
+      "dpw_activities": [
+        "event set-ups",
+        "paving",
+        "road striping",
+        "replacing fire hydrants",
+        "painting conference room in Library"
+      ],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "dpw activities",
+        "library improvements"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Zoning Code meeting",
+      "speaker": "Board",
+      "update": "A tentative date of 8/27 at 6:30pm was decided for setting Second Special Meeting/Workshop",
+      "action_items": [
+        "schedule zoning code meeting for 8/27 at 6:30pm"
+      ],
+      "related_topics": [
+        "zoning code review"
+      ]
+    },
+    {
+      "topic": "Farmers Market parking",
+      "speaker": "Trustee VanDeinse-Perez",
+      "update": "asked that people not park in spots reserved for Farmers' Market Vendors",
+      "action_items": [],
+      "related_topics": [
+        "farmers market"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Start doing speed enforcement zones",
+    "House Spanish-American War chalice in Library",
+    "Schedule zoning code meeting for 8/27 at 6:30pm",
+    "Register for Sketch and Print Classes through Brookside or Committee on the Arts Facebook page",
+    "Contact Park and Tree Board through Facebook page for Kelley Park cleanup",
+    "Ensure people don't park in Farmers Market vendor spots"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 184111.75,
+    "equipment_purchases": 16046.0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 18500.0,
+    "proposed_infrastructure": 0,
+    "items": [
+      {
+        "amount": 4862.0,
+        "description": "Fire hose purchase for Eagle-Matt Lee Fire Co. #1"
+      },
+      {
+        "amount": 6000.0,
+        "description": "Fireworks contract with Santore Firework for Family Fun Day"
+      },
+      {
+        "amount": 11184.0,
+        "description": "TARCO Leaf Collection Box with Flexible Connector"
+      },
+      {
+        "amount": 12500.0,
+        "description": "Delaware Engineering DPW garage replacement concept plan"
+      },
+      {
+        "amount": 5000.0,
+        "description": "Tree work between Prospect Street and East High Street by Earth Care Plus"
+      },
+      {
+        "amount": 400.0,
+        "description": "Reimbursements for Swimming Under the Stars event"
+      },
+      {
+        "amount": 184111.75,
+        "description": "Total vouchers audited and approved"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Village Pool staff",
+        "position": "Pool Staff"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "Kim Anderson",
+        "service": "Peaceful Public Assembly organizer"
+      },
+      {
+        "name": "Santore Firework",
+        "service": "Fireworks display for Family Fun Day"
+      },
+      {
+        "name": "TARCO",
+        "service": "Leaf Collection Box equipment"
+      },
+      {
+        "name": "Labella Engineering",
+        "service": "Water connection approval"
+      },
+      {
+        "name": "Delaware Engineering",
+        "service": "DPW garage replacement concept plan"
+      },
+      {
+        "name": "Earth Care Plus",
+        "service": "Tree removal, trimming and stump grinding"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Charlene DuBuque",
+        "address": "6 Kaleen Drive"
+      },
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd."
+      },
+      {
+        "name": "Tricia Frankewich",
+        "address": "24 Buell Avenue"
+      },
+      {
+        "name": "Ray Otten",
+        "address": "16 Middlebrook Avenue"
+      },
+      {
+        "name": "Kris DuBuque",
+        "address": "6 Kaleen Drive"
+      },
+      {
+        "name": "Mike Iacolucci",
+        "address": "3 Encore Drive"
+      },
+      {
+        "name": "Gina Marozzi",
+        "address": "10 Old Glory Lane"
+      },
+      {
+        "name": "Christin Iacolucci",
+        "address": "24 Chapman Street"
+      },
+      {
+        "name": "Erin McCredy",
+        "address": "35 Hyde Blvd."
+      },
+      {
+        "name": "Jan McCabe",
+        "address": "345 Lexington Street"
+      },
+      {
+        "name": "John Cromie",
+        "address": "132 Bath Street"
+      },
+      {
+        "name": "Jared Iacolucci",
+        "address": "24 Chapman Street"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Milton Avenue/Front Street intersection",
+      "type": "infrastructure",
+      "street": "Milton Avenue",
+      "context": "Location for peaceful public assembly"
+    },
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Gathering location for public assembly announcements and live music"
+    },
+    {
+      "name": "Saratoga County Fairgrounds",
+      "type": "venue",
+      "street": null,
+      "context": "Location for fireworks display and Family Fun Day"
+    },
+    {
+      "name": "105 Fairground Avenue",
+      "type": "infrastructure",
+      "street": "Fairground Avenue",
+      "context": "Property receiving in-village water connection"
+    },
+    {
+      "name": "Prospect Street to East High Street",
+      "type": "infrastructure",
+      "street": "Prospect Street",
+      "context": "Area for tree work including removal, trimming and stump grinding"
+    },
+    {
+      "name": "Kelley Park",
+      "type": "park",
+      "street": null,
+      "context": "Park needing cleanup assistance"
+    },
+    {
+      "name": "Malta Avenue",
+      "type": "infrastructure",
+      "street": "Malta Avenue",
+      "context": "Street where double yellow line movement was requested for speed control"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-08-17",
+      "event": "Family Fun Day at Saratoga County Fairgrounds",
+      "time": null,
+      "note": "Includes fireworks display",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-23",
+      "event": "Library ribbon cutting",
+      "time": "2:00pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-27",
+      "event": "Zoning Code Second Special Meeting/Workshop",
+      "time": "6:30pm",
+      "note": "Tentative date",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-30",
+      "event": "Peaceful Public Assembly in support of democracy",
+      "time": "11:00am to 3:00pm",
+      "note": "On sidewalks at Milton Avenue/Front Street intersection and Wiswall Park",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-31",
+      "event": "Sketch and Print Classes begin",
+      "time": null,
+      "note": "Register through Brookside or Committee on the Arts Facebook page",
+      "rain_date": null
+    },
+    {
+      "date": "2025-09-05",
+      "event": "Annual Senior Picnic",
+      "time": null,
+      "note": "At Saratoga County Fair Grounds",
+      "rain_date": null
+    },
+    {
+      "date": "2025-08-14",
+      "event": "Adult book club begins",
+      "time": "6:30pm",
+      "note": null,
+      "rain_date": null
+    }
+  ]
+}

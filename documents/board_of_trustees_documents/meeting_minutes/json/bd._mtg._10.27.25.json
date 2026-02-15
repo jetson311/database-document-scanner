@@ -1,0 +1,733 @@
+{
+  "filename": "bd._mtg._10.27.25.pdf",
+  "meeting_metadata": {
+    "date": "2025-10-27",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "6:55pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Village Administrator Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Village Attorney",
+          "present": true
+        },
+        {
+          "name": "Village Clerk O'Connor",
+          "title": "Village Clerk",
+          "present": false
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Regular board meeting focused on equipment purchases and temporary staffing authorization. Major purchases approved included a new dump truck, fire department equipment, and police vehicle equipment. Board also authorized hiring temporary workers for parking schedule data collection.",
+  "topics_discussed": [
+    "meeting minutes approval",
+    "fire department equipment",
+    "door to door solicitation",
+    "police department equipment",
+    "emergency vehicle work",
+    "radar speed signs",
+    "dump truck purchase",
+    "temporary staffing",
+    "parking schedule creation",
+    "small business saturday",
+    "holiday parade",
+    "book signing",
+    "senior center elections",
+    "park and tree board",
+    "grant opportunities",
+    "sounds of winter concert",
+    "paving projects",
+    "employee policy",
+    "legal invoices",
+    "voucher audit"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of the 10/14/25 meeting",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "meeting minutes approval"
+      ],
+      "notes": "Routine approval of previous meeting minutes"
+    },
+    {
+      "section": "6a-i",
+      "motion_number": 2,
+      "motion_description": "Eagle-Matt Lee Fire Co. #1 be authorized to expend $22,895.00 for Plymovent upgrade",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        22895.0
+      ],
+      "related_topics": [
+        "fire department equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-ii",
+      "motion_number": 3,
+      "motion_description": "Eagle-Matt Lee Fire Co. #1 be authorized to expend $1,055.74 for 2 structural fire boots",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        1055.74
+      ],
+      "related_topics": [
+        "fire department equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-iii",
+      "motion_number": 4,
+      "motion_description": "SLIC Fiber be authorized to solicit door to door from 10/28/25 through 11/20/25 from 10:00am to 8:00pm",
+      "motion_type": "approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "door to door solicitation"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-iv",
+      "motion_number": 5,
+      "motion_description": "Police Dept. be authorized to expend $9,588.00 for equipment for the Dodge Durango",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        9588.0
+      ],
+      "related_topics": [
+        "police department equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-v",
+      "motion_number": 6,
+      "motion_description": "Approve emergency work performed for replacement of the BSPD (already performed through emergency authorization) for $7,200.00",
+      "motion_type": "approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        7200.0
+      ],
+      "related_topics": [
+        "emergency vehicle work"
+      ],
+      "notes": "Consent agenda item - work already completed under emergency authorization"
+    },
+    {
+      "section": "6a-vi",
+      "motion_number": 7,
+      "motion_description": "Approve installation of lettering on the new BSPD vehicle by Adirondack Sign Co. LLC for $1,500.00",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        1500.0
+      ],
+      "related_topics": [
+        "police department equipment"
+      ],
+      "notes": "Consent agenda item"
+    },
+    {
+      "section": "6a-vii",
+      "motion_number": 8,
+      "motion_description": "Approve purchase of cloud service contract extensions for the Village's 13 radar speed signs, for extensions for all signs to reach December 1, 2028, for $10,350.00",
+      "motion_type": "contract approval",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        10350.0
+      ],
+      "related_topics": [
+        "radar speed signs"
+      ],
+      "notes": "Consent agenda item - authorizes Mayor to execute agreement"
+    },
+    {
+      "section": "7a",
+      "motion_number": 9,
+      "motion_description": "Approve purchase of a 2024 Chevrolet Silverado Tarco Dump Truck (Silverado 5500) for $154,288.00, and approve financing using GM Financial's Muni Lease Option of 5 annual payments for $34,960.28 (interest rate of 6.662%)",
+      "motion_type": "purchase approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        154288.0,
+        34960.28
+      ],
+      "related_topics": [
+        "dump truck purchase"
+      ],
+      "notes": "FY2026 Budget included purchase of such a vehicle. Motion authorizes Mayor to execute necessary paperwork."
+    },
+    {
+      "section": "7b",
+      "motion_number": 10,
+      "motion_description": "Authorize DPW to hire up to three temporary laborers at the lowest DPW temporary contractual rate for parking schedule creation",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Attorney Buettner",
+          "statement": "explained that the purpose of this is to collect data for parking and signage"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": [
+        "temporary staffing",
+        "parking schedule creation"
+      ],
+      "notes": "Authorizes Clerk to perform background checks and keep employment active for no more than 45 days for specific purpose"
+    },
+    {
+      "section": "14a",
+      "motion_number": 11,
+      "motion_description": "Pay attached invoices from Bartlett, Pontiff, Stewart, and Rhodes PC, not included in abstract",
+      "motion_type": "approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": [
+        "legal invoices"
+      ],
+      "notes": "Walk-on motion"
+    },
+    {
+      "section": "18",
+      "motion_number": 12,
+      "motion_description": "Audit vouchers and adjourn meeting",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [
+        135783.48
+      ],
+      "related_topics": [
+        "voucher audit"
+      ],
+      "notes": "Meeting adjourned at 6:55pm"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "5",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "asked if expenses for motion\"7b\" are in the budget.",
+      "comment_type": "Question",
+      "topics": [
+        "temporary staffing",
+        "budget"
+      ],
+      "referenced_items": [
+        "7b"
+      ],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Question about whether motion 7b expenses are budgeted",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": [
+        "BSBPA"
+      ],
+      "report": "said the BSBPA is preparing for Small Business Saturday on November 29th and the December 5th Holiday Parade. A BOA workshop will be held on November 20th at the solar building from 6:00pm to 8:00pm.",
+      "events": [
+        {
+          "event": "Small Business Saturday",
+          "location": null,
+          "date": "November 29th",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "Holiday Parade",
+          "location": null,
+          "date": "December 5th",
+          "time": null,
+          "cost": null
+        },
+        {
+          "event": "BOA workshop",
+          "location": "solar building",
+          "date": "November 20th",
+          "time": "6:00pm to 8:00pm",
+          "cost": null
+        }
+      ],
+      "announcements": [],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "small business saturday",
+        "holiday parade"
+      ]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": [
+        "Library",
+        "Ballston Area Seniors"
+      ],
+      "report": "reminded all that there will be a book signing by Jerry Crouth tomorrow night at the Library. The Ballston Area Seniors are holding elections for office. Letters of intent should be mailed directly to the Senior Center.",
+      "events": [
+        {
+          "event": "book signing by Jerry Crouth",
+          "location": "Library",
+          "date": "tomorrow night",
+          "time": null,
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Senior Center elections",
+          "detail": "Letters of intent should be mailed directly to the Senior Center"
+        }
+      ],
+      "dpw_activities": [],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "book signing",
+        "senior center elections"
+      ]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": [
+        "Park and Tree Board",
+        "Arts"
+      ],
+      "report": "noted that the Park and Tree Board are still working on winterizing trees and are also looking into future grant opportunities for parks and playgrounds. The Saratoga Arts grant applications are due November 21st for anyone interested. Trustee Baskin noted that the Sounds of Winter concert will be held on November 15th from 3:00pm to 4:30pm.",
+      "events": [
+        {
+          "event": "Sounds of Winter concert",
+          "location": null,
+          "date": "November 15th",
+          "time": "3:00pm to 4:30pm",
+          "cost": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Grant opportunities",
+          "detail": "Saratoga Arts grant applications are due November 21st"
+        }
+      ],
+      "dpw_activities": [
+        "winterizing trees"
+      ],
+      "mayor_additions": null,
+      "action_items": [
+        "Apply for Saratoga Arts grants by November 21st"
+      ],
+      "related_topics": [
+        "park and tree board",
+        "grant opportunities",
+        "sounds of winter concert"
+      ]
+    },
+    {
+      "trustee": "Trustee Raymond",
+      "committees": [
+        "DPW"
+      ],
+      "report": "reported that paving is done for the year and announced that we have a new dump truck ready for delivery.",
+      "events": [],
+      "announcements": [
+        {
+          "topic": "Paving completion",
+          "detail": "paving is done for the year"
+        },
+        {
+          "topic": "New dump truck",
+          "detail": "new dump truck ready for delivery"
+        }
+      ],
+      "dpw_activities": [
+        "paving projects completed"
+      ],
+      "mayor_additions": null,
+      "action_items": [],
+      "related_topics": [
+        "paving projects",
+        "dump truck purchase"
+      ]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Employee policy status",
+      "speaker": "Trustee Baskin",
+      "update": "asked the status of the employee policy",
+      "action_items": [
+        "Resume work on employee policy"
+      ],
+      "related_topics": [
+        "employee policy"
+      ]
+    },
+    {
+      "topic": "Employee policy work resumption",
+      "speaker": "Mayor Rossi",
+      "update": "noted it work on it will resume",
+      "action_items": [],
+      "related_topics": [
+        "employee policy"
+      ]
+    }
+  ],
+  "action_items_summary": [
+    "Mayor authorized to execute dump truck purchase and financing paperwork",
+    "Mayor authorized to execute radar speed sign contract agreement",
+    "Clerk authorized to perform background checks for temporary workers",
+    "Apply for Saratoga Arts grants by November 21st",
+    "Resume work on employee policy"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 135783.48,
+    "equipment_purchases": 52188.74,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 0,
+    "proposed_infrastructure": 0,
+    "items": [
+      {
+        "amount": 22895.0,
+        "description": "Eagle-Matt Lee Fire Co. #1 Plymovent upgrade"
+      },
+      {
+        "amount": 1055.74,
+        "description": "Eagle-Matt Lee Fire Co. #1 structural fire boots"
+      },
+      {
+        "amount": 9588.0,
+        "description": "Police Dept. equipment for Dodge Durango"
+      },
+      {
+        "amount": 7200.0,
+        "description": "Emergency work for BSPD replacement"
+      },
+      {
+        "amount": 1500.0,
+        "description": "BSPD vehicle lettering by Adirondack Sign Co. LLC"
+      },
+      {
+        "amount": 10350.0,
+        "description": "Cloud service contract extensions for 13 radar speed signs"
+      },
+      {
+        "amount": 154288.0,
+        "description": "2024 Chevrolet Silverado Tarco Dump Truck purchase"
+      },
+      {
+        "amount": 34960.28,
+        "description": "Annual payment for dump truck financing"
+      },
+      {
+        "amount": 129899.73,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 1987.89,
+        "description": "Sewer Relevy vouchers"
+      },
+      {
+        "amount": 500.0,
+        "description": "Capital Projects vouchers"
+      },
+      {
+        "amount": 3395.86,
+        "description": "Library Fund vouchers"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Mayor Rossi",
+        "position": "Mayor"
+      },
+      {
+        "name": "Village Administrator Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      },
+      {
+        "name": "Village Clerk O'Connor",
+        "position": "Village Clerk"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "SLIC Fiber",
+        "service": "Door to door solicitation services"
+      },
+      {
+        "name": "Adirondack Sign Co. LLC",
+        "service": "Vehicle lettering installation"
+      },
+      {
+        "name": "GM Financial",
+        "service": "Municipal lease financing"
+      },
+      {
+        "name": "Bartlett, Pontiff, Stewart, and Rhodes PC",
+        "service": "Legal services"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd."
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Library",
+      "type": "government building",
+      "street": null,
+      "context": "Location for book signing event"
+    },
+    {
+      "name": "Senior Center",
+      "type": "government building",
+      "street": null,
+      "context": "Location to mail letters of intent for elections"
+    },
+    {
+      "name": "solar building",
+      "type": "government building",
+      "street": null,
+      "context": "Location for BOA workshop"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-10-28",
+      "event": "SLIC Fiber door to door solicitation begins",
+      "time": "10:00am to 8:00pm",
+      "note": "Runs through 11/20/25",
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-20",
+      "event": "SLIC Fiber door to door solicitation ends / BOA workshop",
+      "time": "6:00pm to 8:00pm for workshop",
+      "note": "Workshop at solar building",
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-15",
+      "event": "Sounds of Winter concert",
+      "time": "3:00pm to 4:30pm",
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-21",
+      "event": "Saratoga Arts grant applications due",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-11-29",
+      "event": "Small Business Saturday",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2025-12-05",
+      "event": "Holiday Parade",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    },
+    {
+      "date": "2028-12-01",
+      "event": "Radar speed signs cloud service contract extension expires",
+      "time": null,
+      "note": null,
+      "rain_date": null
+    }
+  ]
+}
