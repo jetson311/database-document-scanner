@@ -44,7 +44,7 @@
   /* Column width tuning: change these only; used by meeting tables */
   --meeting-comments-comment-max: 700px;
   --meeting-comments-response-width: 12rem;
-  --meeting-vote-result-column-width: 75px;
+  --meeting-vote-result-column-width: 100px;
 }
 
 /*
@@ -59,7 +59,7 @@
      Change as needed.
 
    • Voting and Result columns (Resolutions table) max width:
-     --meeting-vote-result-column-width: 75px;
+     --meeting-vote-result-column-width: 100px;
      Vote and Result columns are this width; Title and Context columns flex to fill the rest.
      Change to e.g. 70px or 80px as needed.
 */
@@ -168,7 +168,7 @@ body {
 /* Header */
 .app-header {
   background: var(--color-surface);
-  padding: 1.5rem 1.5rem;
+  padding: 0.95rem 1.5rem 0.85rem;
   position: sticky;
   top: 0;
   z-index: 40;
@@ -196,7 +196,14 @@ body {
 .app-header-title-row {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.1rem;
+}
+
+.app-header-title-icon {
+  color: var(--color-slate-500);
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
 }
 
 .app-header-icon {
@@ -224,6 +231,7 @@ body {
   font-size: 0.775rem;
   font-style: italic;
   font-weight: 500;
+  opacity: 0.6;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -485,7 +493,7 @@ body {
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-full);
-  padding: 0.625rem 1rem;
+  padding: 0.425rem 1rem 0.3rem;
   font-size: 0.8125rem;
   font-weight: 700;
   color: var(--color-slate-700);
@@ -674,7 +682,7 @@ body {
 
 .input-search-icon {
   position: absolute;
-  left: 1rem;
+  left: 0.8rem;
   width: 1.25rem;
   height: 1.25rem;
   color: var(--color-slate-400);
@@ -686,7 +694,7 @@ body {
   background: var(--color-slate-100);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-full);
-  padding: 0.625rem 3rem;
+  padding: 0.325rem 1rem 0.4rem 2.3rem;
   font-size: 0.875rem;
   font-weight: 500;
   transition: all 0.2s;
@@ -697,6 +705,35 @@ body {
   background: var(--color-surface);
   border-color: var(--color-indigo-100);
   outline: none;
+}
+
+.search-highlight {
+  background: rgba(255, 212, 0, 0.45);
+  padding: 0 0.1em;
+  border-radius: 2px;
+}
+
+.input-search-wrap--with-clear {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-clear-btn {
+  flex-shrink: 0;
+  padding: 0.375rem 0.625rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--color-slate-600);
+  background: var(--color-slate-100);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  cursor: pointer;
+}
+
+.search-clear-btn:hover {
+  background: var(--color-slate-200);
+  color: var(--color-slate-800);
 }
 
 .input-ai-wrap {
@@ -782,7 +819,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: -0.025em;
-  color: var(--color-slate-800);
+  color: #64748b;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -809,7 +846,7 @@ body {
   align-items: flex-start;
   justify-content: space-between;
   gap: 1rem;
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-full);
   transition: all 0.2s;
   border: 1px solid transparent;
   animation: itemFadeInUp 0.4s ease-out both;
@@ -831,7 +868,7 @@ body {
 .document-list-item:nth-child(15) { animation-delay: 0.62s; }
 
 .document-list-item:hover {
-  background: rgba(0, 0, 0, 0.04);
+  background: rgba(99, 102, 241, 0.06);
 }
 
 @media (min-width: 768px) {
@@ -863,7 +900,7 @@ body {
 }
 
 .document-link {
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   font-weight: 700;
   color: var(--color-slate-800);
   overflow: hidden;
@@ -1104,7 +1141,7 @@ body {
 
 .meeting-page-header {
   position: sticky;
-  top: calc(4rem + 2px); /* Stick below the meeting filters bar; slightly lower so content isn’t cramped */
+  top: calc(4rem - 5px); /* Stick below the meeting filters bar; slightly lower so content isn’t cramped */
   z-index: 10; /* Below .meeting-filters-bar (11) so filter bar’s bottom border stays visible on scroll */
   width: 100vw;
   margin-left: calc(50% - 50vw);
@@ -1155,6 +1192,7 @@ body {
 
 .meeting-page-header-right .meeting-title {
   margin: 0;
+  margin-top: 1px;
 }
 
 .meeting-title {
@@ -1162,7 +1200,7 @@ body {
   font-weight: 500;
   text-transform: none;
   letter-spacing: 0;
-  color: var(--color-slate-600);
+  color: var(--color-slate-500);
 }
 
 .meeting-meta {
@@ -1178,7 +1216,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: -0.025em;
-  color: var(--color-slate-800);
+  color: #64748b;
 }
 
 .meeting-filename-link {
@@ -1199,6 +1237,44 @@ body {
   height: 0.875rem;
   opacity: 0.8;
   flex-shrink: 0;
+}
+
+.meeting-section-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 1250px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.25rem 3rem 0.75rem;
+  box-sizing: border-box;
+}
+.meeting-section-header-row .meeting-page-section-header {
+  margin: 0;
+  padding: 0;
+}
+.meeting-expand-all-btn {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-slate-700);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  padding: 0.375rem 0.875rem;
+  border-radius: var(--radius-full);
+  white-space: nowrap;
+  box-shadow: var(--shadow-sm);
+}
+.meeting-expand-all-btn:hover {
+  background: var(--color-slate-100);
+  border-color: var(--color-slate-300);
+  color: var(--color-slate-800);
+}
+.meeting-expand-all-btn:active {
+  background: var(--color-slate-200);
 }
 
 .meeting-page-section-header {
@@ -1410,6 +1486,29 @@ td.meeting-col-vote-result {
   color: var(--color-rose-800);
 }
 
+.meeting-table-cell-result--muted {
+  color: var(--color-slate-500);
+}
+
+.meeting-table-cell-result--muted .meeting-result-tag {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: var(--color-slate-100);
+  color: var(--color-slate-600);
+}
+
+.meeting-cell-truncate-result {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
 .meeting-table {
   width: 100%;
   table-layout: auto;
@@ -1434,7 +1533,7 @@ td.meeting-col-vote-result {
 }
 
 .meeting-table-cell {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1rem 0.5rem;
   border-bottom: 1px solid var(--color-slate-100);
 }
 
@@ -1456,6 +1555,13 @@ td.meeting-col-vote-result {
   table-layout: fixed;
   width: 100%;
 }
+.meeting-comments-table-wrap .meeting-table th,
+.meeting-comments-table-wrap .meeting-table td {
+  vertical-align: top;
+}
+.meeting-comments-table-wrap .meeting-table col.meeting-comments-col-expand {
+  width: 2.25rem;
+}
 .meeting-comments-table-wrap .meeting-table col.meeting-comments-col-name {
   width: auto;
 }
@@ -1463,10 +1569,96 @@ td.meeting-col-vote-result {
   width: var(--meeting-comments-response-width);
 }
 .meeting-comments-table-wrap .meeting-table .meeting-table-col-response {
-  white-space: nowrap;
+  white-space: normal;
 }
+
+/* When a comment row is expanded, show full topic text and let Topics column grow */
+.meeting-public-comment-row--expanded td.meeting-table-col-response {
+  min-width: 18rem;
+  white-space: normal;
+}
+.meeting-topic-full {
+  display: block;
+  white-space: normal;
+  overflow: visible;
+  word-wrap: break-word;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
 .meeting-comments-table-wrap .meeting-table col.meeting-comments-col-comment {
   width: var(--meeting-comments-comment-max);
+}
+
+.meeting-table-cell--expand {
+  vertical-align: top;
+  padding-left: 0.5rem;
+  padding-right: 0;
+}
+.meeting-comment-expand-btn {
+  margin: -3px 0 -1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--color-slate-500);
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  transition: color 0.15s, transform 0.2s;
+}
+.meeting-comment-expand-btn:hover {
+  color: var(--color-slate-700);
+}
+
+.meeting-comment-row--no-expand .meeting-comment-expand-btn {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Nested comment rows: parent = speaker name + topic count; child = indent under parent */
+.meeting-comment-row--parent .meeting-table-cell--name {
+  font-weight: 600;
+  color: var(--color-slate-800);
+}
+.meeting-comment-row--child .meeting-table-cell--child-indent {
+  padding-left: 1.5rem;
+}
+.meeting-comment-row--child .meeting-table-cell--child-no-btn {
+  min-width: 2.25rem;
+}
+.meeting-comment-row--child .meeting-table-cell--child-empty {
+  background: var(--color-slate-50);
+}
+
+.meeting-topics-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  list-style-type: disc;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+.meeting-topics-list li {
+  margin-bottom: 0.25rem;
+}
+.meeting-topics-list li:last-child {
+  margin-bottom: 0;
+}
+.meeting-comment-preview {
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+}
+.meeting-comment-full-text {
+  display: block;
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.5;
+  font-size: 0.875rem;
 }
 
 /* Comment column header: always left-aligned */
@@ -1704,6 +1896,17 @@ td.meeting-col-vote-result {
   max-width: 65ch;
 }
 
+.chat-message-content .chat-content-h2 {
+  font-weight: bold;
+  padding-bottom: 0.25rem;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.chat-message-content .chat-content-block {
+  white-space: pre-wrap;
+}
+
 .chat-message--assistant .chat-message-content {
   line-height: 1.65;
   word-spacing: 0.05em;
@@ -1712,6 +1915,40 @@ td.meeting-col-vote-result {
 .chat-message--assistant .chat-message-content strong {
   font-weight: 700;
   color: var(--color-slate-900);
+}
+
+.chat-insights {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(226, 232, 240, 0.5);
+}
+
+.chat-insights-title {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-slate-600);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.12em;
+}
+
+.chat-insights-list {
+  margin: 0 0 1rem 0;
+  padding-left: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--color-slate-700);
+}
+
+.chat-insights-list li {
+  margin-bottom: 0.35rem;
+}
+
+.chat-insights-prompt {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-slate-700);
+  margin: 0;
 }
 
 .chat-sources {
@@ -1753,6 +1990,49 @@ td.meeting-col-vote-result {
   width: 1rem;
   height: 1rem;
   flex-shrink: 0;
+}
+
+.chat-comp-plan-more {
+  margin-top: 1rem;
+}
+
+.chat-assessment-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.chat-assessment-pill {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 0.75rem;
+  border-radius: 9999px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-slate-600);
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.chat-assessment-pill:hover {
+  background: var(--color-slate-100);
+  border-color: var(--color-slate-300);
+  color: var(--color-slate-800);
+}
+
+.chat-assessment-pill--active {
+  background: var(--color-slate-800);
+  border-color: var(--color-slate-800);
+  color: white;
+}
+
+.chat-assessment-pill--active:hover {
+  background: var(--color-slate-700);
+  border-color: var(--color-slate-700);
+  color: white;
 }
 
 .chat-loading {

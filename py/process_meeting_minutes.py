@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 from anthropic import Anthropic
 from dotenv import load_dotenv
+import PyPDF2
 
 # Load environment variables from .env.local
 env_path = Path("../.env.local")
@@ -46,6 +47,15 @@ def get_pdfs_to_process():
     
     return to_process
 
+def get_pdf_page_count(pdf_path):
+    """Get number of pages in PDF"""
+    try:
+        with open(pdf_path, 'rb') as f:
+            pdf_reader = PyPDF2.PdfReader(f)
+            return len(pdf_reader.pages)
+    except:
+        return 0
+
 def read_pdf_as_base64(pdf_path):
     """Read PDF file and convert to base64"""
     import base64
@@ -56,6 +66,21 @@ def extract_meeting_data(pdf_path):
     """Use Claude API to extract meeting data from PDF"""
     
     print(f"\n📄 Processing: {pdf_path.name}")
+    
+    # Check page count to determine if chunking is needed
+    page_count = get_pdf_page_count(pdf_path)
+    print(f"   Pages: {page_count}")
+    
+    if page_count <= 4:
+        # Process normally for shorter documents
+        return extract_single_pass(pdf_path)
+    else:
+        # Use chunked processing for longer documents
+        print(f"   📚 Long document detected - using chunked processing")
+        return extract_chunked(pdf_path)
+
+def extract_single_pass(pdf_path):
+    """Extract data from PDF in a single API call"""
     print("   Reading PDF...")
     
     # Read PDF as base64
@@ -98,7 +123,7 @@ Please extract all data from this meeting minutes PDF into the JSON format speci
         # Call Claude API with PDF
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
-            max_tokens=16000,
+            max_tokens=64000,
             messages=[
                 {
                     "role": "user",
@@ -143,6 +168,153 @@ Please extract all data from this meeting minutes PDF into the JSON format speci
         return None
     except Exception as e:
         print(f"   ❌ Error during extraction: {e}")
+        return None
+
+def extract_chunked(pdf_path):
+    """Extract data from long PDF using chunked approach"""
+    
+    # Load extraction guide
+    guide_path = Path("../md/MEETING_MINUTES_EXTRACTION_GUIDE.md")
+    if guide_path.exists():
+        with open(guide_path, 'r') as f:
+            extraction_guide = f.read()
+    else:
+        extraction_guide = "Extract all meeting data following standard meeting minutes format."
+    
+    # Read PDF as base64
+    pdf_base64 = read_pdf_as_base64(pdf_path)
+    
+    print("   📖 Pass 1: Extracting structure and metadata...")
+    
+    # First pass - get basic structure
+    structure_prompt = f"""You are processing a LONG Board of Trustees meeting minutes PDF.
+
+This is PASS 1 of 2. In this pass, extract:
+1. meeting_metadata (date, type, attendees)
+2. meeting_summary (brief overview)
+3. topics_discussed (list of all topics)
+4. List all section numbers and brief descriptions of votes and public comments (just count them, don't extract full text yet)
+
+Return ONLY valid JSON with these sections.
+
+PDF filename: {pdf_path.name}"""
+
+    try:
+        # Pass 1 - Structure
+        message1 = client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=8000,
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "document",
+                            "source": {
+                                "type": "base64",
+                                "media_type": "application/pdf",
+                                "data": pdf_base64
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": structure_prompt
+                        }
+                    ]
+                }
+            ]
+        )
+        
+        structure_text = message1.content[0].text
+        if structure_text.strip().startswith("```"):
+            start = structure_text.find('{')
+            end = structure_text.rfind('}') + 1
+            if start != -1 and end != 0:
+                structure_text = structure_text[start:end]
+        
+        structure_data = json.loads(structure_text)
+        print("   ✅ Structure extracted")
+        
+        print("   📝 Pass 2: Extracting detailed content...")
+        
+        # Pass 2 - Detailed extraction
+        detail_prompt = f"""You are processing a LONG Board of Trustees meeting minutes PDF.
+
+This is PASS 2 of 2. Extract the COMPLETE detailed data following the guide EXACTLY:
+
+CRITICAL - WORD-FOR-WORD REQUIREMENTS:
+- ALL public comment_text must be verbatim from source
+- ALL trustee discussion statements must be verbatim
+- ALL votes with individual trustee breakdowns
+
+Include ALL sections as specified in the extraction guide:
+- votes (every single vote with full details)
+- public_comments (every comment with verbatim text)
+- mayor_announcements
+- liaison_reports  
+- other_business
+- action_items_summary
+- dollar_amounts_summary
+- named_individuals
+- locations_referenced
+- dates_and_deadlines
+
+The filename is: {pdf_path.stem}.json
+
+EXTRACTION GUIDE:
+{extraction_guide[:50000]}
+
+Return ONLY valid JSON with ALL detailed sections."""
+
+        message2 = client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=64000,
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "document",
+                            "source": {
+                                "type": "base64",
+                                "media_type": "application/pdf",
+                                "data": pdf_base64
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": detail_prompt
+                        }
+                    ]
+                }
+            ]
+        )
+        
+        detail_text = message2.content[0].text
+        if detail_text.strip().startswith("```"):
+            start = detail_text.find('{')
+            end = detail_text.rfind('}') + 1
+            if start != -1 and end != 0:
+                detail_text = detail_text[start:end]
+        
+        detail_data = json.loads(detail_text)
+        print("   ✅ Details extracted")
+        
+        # Merge the two passes
+        final_data = {
+            "filename": f"{pdf_path.stem}.json",
+            **structure_data,
+            **detail_data
+        }
+        
+        print("   ✅ Chunked extraction successful")
+        return final_data
+        
+    except json.JSONDecodeError as e:
+        print(f"   ❌ Error: Invalid JSON response in chunked processing - {e}")
+        return None
+    except Exception as e:
+        print(f"   ❌ Error during chunked extraction: {e}")
         return None
 
 def save_json(data, pdf_path):

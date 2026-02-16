@@ -3,8 +3,30 @@ import React, { useState, useMemo, useRef, useEffect } from 'react';
 import { MOCK_DOCUMENTS } from './constants';
 import { DocCategory, VillageDocument, DocType } from './types';
 import type { MeetingMinutes } from './types/meeting';
+import { getMeetingDisplayDate } from './types/meeting';
 import { ChatPanel } from './components/ChatPanel';
 import { MeetingDetail } from './components/MeetingDetail';
+import { highlightSearchPhrase } from './utils/highlight';
+
+/** Format ISO date (YYYY-MM-DD) as local calendar date; avoids UTC-midnight showing previous day in western timezones. */
+function formatMeetingDate(iso: string): string {
+  if (!iso || !iso.trim()) return '';
+  const s = iso.trim();
+  const match = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (match) {
+    const [, y, m, d] = match;
+    const date = new Date(Number(y), Number(m) - 1, Number(d));
+    if (!Number.isNaN(date.getTime())) {
+      return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+  }
+  try {
+    const d = new Date(s);
+    return Number.isNaN(d.getTime()) ? s : d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  } catch {
+    return s;
+  }
+}
 
 /** Parse CSV line and return pdf_url (last URL in line). */
 function parseCsvLineForPdfUrl(line: string): string | null {
@@ -372,7 +394,8 @@ const MeetingMultiSelect: React.FC<{
               </label>
               <div className="dropdown-divider" />
               {meetingList.map((m) => {
-                const dateStr = m.meeting_metadata?.date ?? m.filename;
+                const displayDate = getMeetingDisplayDate(m);
+                const dateStr = displayDate ? formatMeetingDate(displayDate) : m.filename;
                 const subtype = m.meeting_metadata?.meeting_type;
                 return (
                   <label key={m.filename} className="dropdown-option dropdown-option--meeting-date">
@@ -538,6 +561,11 @@ const App: React.FC = () => {
         Object.keys(v.vote_breakdown || {}).forEach((name) => add(officialsByNorm, name));
         (v.discussion || []).forEach((d) => { if (d.speaker) add(boardByNorm, d.speaker); });
       });
+      const announcements = (m as { mayor_announcements?: { speaker?: string }[] }).mayor_announcements ?? [];
+      announcements.forEach((a) => { if (a.speaker) add(boardByNorm, a.speaker); });
+      (m.public_comments ?? []).forEach((pc: { board_response?: { responder?: string } }) => {
+        if (pc.board_response?.responder) add(boardByNorm, pc.board_response.responder);
+      });
       (m.public_comments || []).forEach((c) => { if (c.speaker?.name) add(publicByNorm, c.speaker.name); });
     });
     return {
@@ -547,19 +575,31 @@ const App: React.FC = () => {
     };
   }, [meetingListByType]);
 
-  /** Attributes hierarchy: Resolutions (Title, Context), Members (officials), Votes (Result), Board comments (names), Public comments (names). */
+  /** Unique vote result values from data (e.g. ALL AYES, MOTION PASSED, NO ACTION TAKEN), uppercase, sorted. */
+  const meetingVoteResultOptions = useMemo(() => {
+    const set = new Set<string>();
+    meetingListByType.forEach((m) => {
+      (m.votes || []).forEach((v) => {
+        const r = (v.vote_result ?? '').trim().toUpperCase();
+        if (r) set.add(r);
+      });
+    });
+    return Array.from(set).sort();
+  }, [meetingListByType]);
+
+  /** Attributes hierarchy: Motions (Title), Members (officials), Votes (specific results only), Board comments (names), Public comments (names). */
   const meetingAttributesHierarchy = useMemo<CategoryTypeGroup[]>(() => {
     const resolutionChildren: { label: string; value: string }[] = [
       { label: 'Title', value: 'resolutions|title' },
-      { label: 'Context', value: 'resolutions|context' },
     ];
     const membersChildren: { label: string; value: string }[] = meetingAttributeNames.officials.map((name) => ({
       label: name,
       value: `resolutions|votes-member|${name}`,
     }));
-    const votesChildren: { label: string; value: string }[] = [
-      { label: 'Result', value: 'resolutions|votes-type' },
-    ];
+    const votesChildren: { label: string; value: string }[] = meetingVoteResultOptions.map((result) => ({
+      label: result,
+      value: `resolutions|votes-type|${result}`,
+    }));
     const boardCommentsChildren: { label: string; value: string }[] = meetingAttributeNames.boardSpeakers.map(
       (name) => ({ label: name, value: `comments|board|${name}` })
     );
@@ -567,13 +607,13 @@ const App: React.FC = () => {
       (name) => ({ label: name, value: `comments|public|${name}` })
     );
     return [
-      { groupLabel: 'Resolutions', groupValue: 'resolutions', children: resolutionChildren },
+      { groupLabel: 'Motions', groupValue: 'resolutions', children: resolutionChildren },
       { groupLabel: 'Members', groupValue: 'resolutions|votes-member', children: membersChildren },
       { groupLabel: 'Votes', groupValue: 'resolutions|votes-type', children: votesChildren },
       { groupLabel: 'Board comments', groupValue: 'comments|board', children: boardCommentsChildren },
       { groupLabel: 'Public comments', groupValue: 'comments|public', children: publicCommentsChildren },
     ];
-  }, [meetingAttributeNames]);
+  }, [meetingAttributeNames, meetingVoteResultOptions]);
 
   /** Flat list of all meeting attribute values (for "All" + deselect-one behavior). */
   const meetingAttributeAllValues = useMemo(
@@ -707,6 +747,7 @@ const App: React.FC = () => {
           <div className="app-header-inner">
             <div className="app-header-brand">
               <div className="app-header-title-row">
+                <SparkleIcon className="app-header-title-icon" strokeWidth={2.5} />
                 <h1 className="app-header-title">VILLAGE OF BSPA CIVIC ARCHIVE</h1>
               </div>
               <p className="app-header-subtitle">*Resident created, not official village tool</p>
@@ -771,7 +812,7 @@ const App: React.FC = () => {
                 </div>
                 <div className="documents-search-wrap">
                   <label className="dropdown-label" htmlFor="documents-search-input">Search</label>
-                  <div className="input-search-wrap documents-search-input-wrap">
+                  <div className="input-search-wrap documents-search-input-wrap input-search-wrap--with-clear">
                     <svg className="input-search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                     </svg>
@@ -784,6 +825,16 @@ const App: React.FC = () => {
                       className="input-search"
                       aria-label="Search documents"
                     />
+                    {searchQuery.trim() && (
+                      <button
+                        type="button"
+                        onClick={() => setSearchQuery('')}
+                        className="search-clear-btn"
+                        aria-label="Clear search"
+                      >
+                        Clear
+                      </button>
+                    )}
                   </div>
                 </div>
               </div>
@@ -817,7 +868,7 @@ const App: React.FC = () => {
                     />
                     <div className="meeting-search-wrap">
                       <label className="dropdown-label" htmlFor="meeting-search-input">Search</label>
-                      <div className="input-search-wrap meeting-search-input-wrap">
+                      <div className="input-search-wrap meeting-search-input-wrap input-search-wrap--with-clear">
                         <svg className="input-search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                         </svg>
@@ -830,6 +881,16 @@ const App: React.FC = () => {
                           className="input-search"
                           aria-label="Search meeting content"
                         />
+                        {meetingSearchQuery.trim() && (
+                          <button
+                            type="button"
+                            onClick={() => setMeetingSearchQuery('')}
+                            className="search-clear-btn"
+                            aria-label="Clear search"
+                          >
+                            Clear
+                          </button>
+                        )}
                       </div>
                     </div>
                   </div>
@@ -887,6 +948,7 @@ const App: React.FC = () => {
                           meeting={meeting}
                           fileUrl={meeting.filename ? (meetingPdfUrlMap[meeting.filename] ?? meetingPdfUrlMap[meeting.filename.replace(/\.pdf$/i, '_0.pdf')]) : undefined}
                           visibleAttributes={selectedMeetingAttributes}
+                          searchHighlight={meetingSearchQuery.trim() || undefined}
                         />
                       ))}
                     </div>
@@ -920,7 +982,7 @@ const App: React.FC = () => {
                                   {new Date(doc.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
                                 </span>
                                 <a href={doc.url} target="_blank" rel="noopener noreferrer" className="document-link">
-                                  {doc.title}
+                                  {searchQuery.trim() ? highlightSearchPhrase(doc.title, searchQuery) : doc.title}
                                   <ExternalLinkIcon className="document-link-icon" />
                                 </a>
                                 <span className="document-type-badge">{doc.type}</span>
@@ -928,7 +990,11 @@ const App: React.FC = () => {
                                   <span className="document-type-badge">{doc.category}</span>
                                 )}
                               </div>
-                              {doc.summary && <p className="document-summary">{doc.summary}</p>}
+                              {doc.summary && (
+                                <p className="document-summary">
+                                  {searchQuery.trim() ? highlightSearchPhrase(doc.summary, searchQuery) : doc.summary}
+                                </p>
+                              )}
                             </div>
                           </div>
                         ))}

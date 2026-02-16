@@ -11,9 +11,10 @@ Extract all data from Board of Trustees meeting minutes PDFs into a comprehensiv
 ## Core Principles
 
 ### 1. Verbatim Accuracy
-- All quotes, comments, and statements must be word-for-word from the source
-- `comment_text` fields contain exact original text with no paraphrasing
-- `summary` fields can interpret/condense, but original text is always preserved
+- **All** quotes, comments, and statements must be **word-for-word** from the source. Do not paraphrase, summarize, or correct.
+- **Board and mayor comments are critical:** Every statement by the mayor, trustees, or attorney—in vote `discussion`, in `mayor_announcements`, in public comment `board_response.response`, and in liaison/trustee responses—must be captured **verbatim**. The application displays these in the Board comments section; any paraphrase or omission is a failure.
+- `comment_text` and `board_response.response` and vote `discussion[].statement` and `mayor_announcements[].announcement` must be exact original text.
+- `summary` fields can interpret/condense, but original text is always preserved in the fields above.
 
 ### 2. Trustee/Mayor Attribution
 - Every vote includes individual breakdown by trustee name
@@ -137,7 +138,7 @@ Extract all data from Board of Trustees meeting minutes PDFs into a comprehensiv
 {
   "section": "7h",
   "motion_number": 14,
-  "motion_description": "Brief description of what was voted on",
+  "motion_description": "Exact wording of the motion as stated in the minutes (verbatim—do not paraphrase or shorten)",
   "motion_type": "approval|purchase approval|hiring|bid acceptance|event approval|contract approval|personnel action|declaration|procedural|resolution",
   "mover": "Trustee [Name]",
   "seconder": "Trustee [Name]",
@@ -157,6 +158,9 @@ Extract all data from Board of Trustees meeting minutes PDFs into a comprehensiv
   "notes": "Additional context, conditions, or important details"
 }
 ```
+
+### motion_description – CRITICAL
+- **MUST be the exact wording of the motion as it appears in the document.** Copy the motion text verbatim; do not paraphrase, abbreviate, or “clean up” the language. The title shown in the app is this field, and it must match what is in the minutes.
 
 ### Motion Type Classification
 - **approval**: Approving minutes, reports, general items
@@ -192,14 +196,11 @@ Pattern: "Trustee VanDeinse-Perez- No Trustee Price-Bush- Yes..."
 - Set all to "UNKNOWN"
 - Add note: "Vote result not explicitly stated"
 
-### Discussion Extraction
-- Capture any statements made before/during vote
-- Include speaker name and exact or close paraphrase
-- Look for patterns:
-  - "Mayor [Name] notes/mentions/states..."
-  - "Trustee [Name] said/asked/responded..."
-  - "Attorney [Name] explains..."
-- Include in discussion array even if brief
+### Discussion Extraction – CRITICAL (verbatim)
+- Capture **every** statement made before/during a vote. **Word-for-word.** No paraphrasing.
+- Include speaker name (e.g. "Mayor Rossi", "Trustee DuBuque", "Attorney Buettner") and the **exact** statement text.
+- Look for patterns: "Mayor [Name] notes/mentions/states...", "Trustee [Name] said/asked/responded...", "Attorney [Name] explains..."
+- Include in discussion array even if brief. **All** board member and mayor comments in the minutes must appear here or in mayor_announcements / board_response.
 
 ### Dollar Amounts
 - Extract all dollar figures mentioned in motion
@@ -254,7 +255,7 @@ ALL AYES"
   "summary": "1-2 sentence high-level summary of comment",
   "board_response": {
     "responder": "Mayor [Name]|Trustee [Name]|Village Administrator|etc",
-    "response": "verbatim or close paraphrase of response"
+    "response": "EXACT WORD-FOR-WORD response from the minutes – do not paraphrase"
   } or null
 }
 ```
@@ -302,10 +303,11 @@ ALL AYES"
 - Question words (who, what, when, where, why, how, can, will, should, could)
 - Rhetorical questions count as true
 
-### Board Response
-- Include if board member or official responds to comment
-- Capture during discussion or in "Board Response to Public Comment" section
-- null if no response provided
+### Board Response – CRITICAL (verbatim)
+- Include **every** time a board member, mayor, or official responds to a public comment.
+- **response** must be the **exact word-for-word** text from the minutes. Do not paraphrase.
+- Capture during discussion or in "Board Response to Public Comment" section.
+- null only if no response was given.
 
 ---
 
@@ -332,7 +334,7 @@ ALL AYES"
 ### Extraction Rules
 - Found in "Mayor's Announcements" section
 - Create separate object for each distinct topic
-- Capture full announcement text
+- **announcement** must be the **full, word-for-word** text of what the mayor said. Do not paraphrase or shorten.
 - Extract action items (things to be done)
 - Note any trustee responses or discussion
 - Include dollar amounts if mentioned
@@ -612,18 +614,24 @@ ALL AYES"
 
 #### Votes
 - [ ] Every motion has section number
+- [ ] **motion_description is verbatim from the document** (exact wording, no paraphrase)
+- [ ] **Vote discussion: every board/mayor/attorney statement is captured word-for-word** (no paraphrasing)
 - [ ] Motion numbers sequential (1, 2, 3...)
 - [ ] Vote breakdown includes all present trustees/mayor
 - [ ] All consent agenda items separated
 - [ ] Dollar amounts extracted and stored as numbers
-- [ ] Discussion quotes are accurate
 
 #### Public Comments
 - [ ] comment_text is WORD-FOR-WORD from source
 - [ ] Every speaker has name
 - [ ] Addresses included when available
-- [ ] Board responses captured
+- [ ] **board_response.response is WORD-FOR-WORD** when present (every mayor/board response to public comment)
 - [ ] Ditto/agreement chains properly linked
+
+#### Mayor & Board Comments (verbatim)
+- [ ] mayor_announcements[].announcement is full verbatim text
+- [ ] votes[].discussion[].statement is verbatim for every mayor, trustee, and attorney statement
+- [ ] No board member or mayor comment in the minutes is omitted or paraphrased
 
 #### Cross-References
 - [ ] All trustee/mayor names standardized
