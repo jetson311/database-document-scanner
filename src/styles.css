@@ -326,14 +326,13 @@ body {
   z-index: 70;
   padding: 1rem;
   border-radius: var(--radius-full);
-  transition: transform 0.2s;
-  border: 1px solid var(--color-slate-800);
+  transition: transform 0.2s, background 0.2s, border-color 0.2s;
+  border: 1px solid var(--color-indigo-700);
   box-shadow: var(--shadow-lg);
-  background: var(--color-slate-800);
+  background: var(--color-indigo-700);
   color: white;
   cursor: pointer;
 }
-
 
 .ai-fab svg {
   width: 1.5rem;
@@ -346,6 +345,8 @@ body {
 }
 
 .ai-fab:hover {
+  background: var(--color-indigo-600);
+  border-color: var(--color-indigo-600);
   transform: translateY(-2px);
 }
 
@@ -1568,6 +1569,11 @@ td.meeting-col-vote-result {
   box-sizing: border-box;
 }
 
+.chat-modal-overlay--hidden {
+  visibility: hidden;
+  pointer-events: none;
+}
+
 .chat-modal-content {
   position: relative;
   width: 100%;
@@ -1693,7 +1699,19 @@ td.meeting-col-vote-result {
 .chat-message-content {
   white-space: pre-wrap;
   font-weight: 400;
-  letter-spacing: -0.025em;
+  letter-spacing: 0.01em;
+  line-height: 1.6;
+  max-width: 65ch;
+}
+
+.chat-message--assistant .chat-message-content {
+  line-height: 1.65;
+  word-spacing: 0.05em;
+}
+
+.chat-message--assistant .chat-message-content strong {
+  font-weight: 700;
+  color: var(--color-slate-900);
 }
 
 .chat-sources {

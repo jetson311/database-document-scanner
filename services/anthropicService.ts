@@ -1,6 +1,44 @@
 import { VillageDocument, BoardAnalysis } from "../types";
+import type { MeetingMinutes } from "../types/meeting";
 
 const API_BASE = "/api/anthropic/v1";
+
+const DYSLEXIA_FRIENDLY_INSTRUCTIONS = `
+Format your answer in a dyslexia-friendly way:
+- Use short sentences (one idea per sentence when possible).
+- Use short paragraphs (2–3 sentences max).
+- Use bullet points for lists.
+- Use clear headings for sections (e.g. "Date range", "Summary", "What we found").
+- Put the main number or result near the top.
+- Avoid long blocks of text; break things into small chunks.
+- Bold important text by wrapping it in double asterisks: **like this**. Bold key numbers, names, dates, and the main conclusion so they stand out.
+`;
+
+/** Build a compact text summary of meeting minutes for AI context (dates + vote breakdowns). */
+function buildMeetingContext(meetings: MeetingMinutes[]): string {
+  if (!meetings.length) return "";
+  const lines: string[] = [];
+  for (const m of meetings) {
+    const date = m.meeting_metadata?.date ?? "unknown";
+    const type = m.meeting_metadata?.meeting_type ?? "";
+    lines.push(`\n## Meeting: ${date}${type ? ` (${type})` : ""}`);
+    if (m.meeting_summary) lines.push(`Summary: ${m.meeting_summary}`);
+    if (m.votes?.length) {
+      for (const v of m.votes) {
+        const motion = v.motion_description ?? "";
+        const breakdown = v.vote_breakdown
+          ? Object.entries(v.vote_breakdown)
+              .map(([name, vote]) => `${name}: ${vote}`)
+              .join(", ")
+          : "";
+        lines.push(`  Motion: ${motion}`);
+        if (breakdown) lines.push(`  Votes: ${breakdown}`);
+        if (v.vote_result) lines.push(`  Result: ${v.vote_result}`);
+      }
+    }
+  }
+  return lines.join("\n");
+}
 
 async function createMessage(body: {
   model: string;
@@ -47,6 +85,76 @@ export const askDocumentQuestion = async (
   return {
     text: text || "I couldn't find an answer to that.",
     sources: [] as { title: string; url: string }[],
+  };
+};
+
+export interface ChatContext {
+  documents?: VillageDocument[];
+  meetings?: MeetingMinutes[];
+}
+
+/**
+ * Ask a question with optional document list and full meeting minutes (vote data).
+ * Use this for the chatbot when meetings are loaded so it can answer questions
+ * like "How many times did X vote against Y?" with date range and context.
+ * Answers are formatted in a dyslexia-friendly way.
+ */
+export const askChatQuestion = async (
+  question: string,
+  context: ChatContext
+): Promise<{ text: string; sources: { title: string; url: string }[] }> => {
+  const parts: string[] = [];
+  const sources: { title: string; url: string }[] = [];
+
+  if (context.documents?.length) {
+    const docList = context.documents
+      .map((d) => `- ${d.title} (${d.url})`)
+      .join("\n");
+    parts.push("Available documents (metadata only):\n" + docList);
+  }
+
+  if (context.meetings?.length) {
+    const meetingContext = buildMeetingContext(context.meetings);
+    const dateRange =
+      context.meetings.length === 1
+        ? context.meetings[0].meeting_metadata?.date ?? "unknown"
+        : [
+            context.meetings[0].meeting_metadata?.date,
+            context.meetings[context.meetings.length - 1].meeting_metadata?.date,
+          ].join(" to ");
+    parts.push(
+      `\nBoard of Trustees meeting vote data (${context.meetings.length} meetings, from ${dateRange}):\n` +
+        meetingContext
+    );
+  }
+
+  const contextBlock = parts.length
+    ? "Context:\n" + parts.join("\n")
+    : "No document or meeting context provided.";
+
+  const systemPrompt =
+    "You are an AI assistant for the Village of Ballston Spa. " +
+    "Answer questions using only the context below (documents list and/or meeting vote data). " +
+    "For meeting questions: state the date range of the data, give counts when asked (e.g. how many times X voted against Y), and briefly say what each vote was about. " +
+    "Match people by name even if the context uses different forms (e.g. 'Mary Price Bush', 'Trustee Price-Bush', 'Price-Bush' are the same person; 'Mayor Rossi' and 'Rossi' the same). " +
+    "If you cannot find the answer in the context, say so clearly. " +
+    DYSLEXIA_FRIENDLY_INSTRUCTIONS;
+
+  const text = await createMessage({
+    model: "claude-sonnet-4-20250514",
+    max_tokens: 2048,
+    system: systemPrompt,
+    messages: [
+      {
+        role: "user",
+        content: `${contextBlock}\n\nQuestion: ${question}`,
+      },
+    ],
+  });
+
+  return {
+    text: text || "I couldn't find an answer to that.",
+    sources,
   };
 };
 

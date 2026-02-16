@@ -477,13 +477,25 @@ const App: React.FC = () => {
           return null;
         }
         setMeetingManifest(list);
-        return Promise.all(list.map((filename) => fetch(`/meeting_minutes/json/${filename}`).then((r) => (r.ok ? r.json() : null))));
+        return Promise.allSettled(
+          list.map((filename) =>
+            fetch(`/meeting_minutes/json/${filename}`).then((r) => (r.ok ? r.json() : null))
+          )
+        );
       })
-      .then((results) => {
-        if (!results || !Array.isArray(results)) return;
-        const loaded = results.filter((m): m is MeetingMinutes => m != null && typeof m.filename === 'string');
-        setMeetingList(loaded);
-        if (loaded.length > 0) setSelectedMeetings((prev) => (prev.length === 0 ? ['All'] : prev));
+      .then((settled) => {
+        if (!settled || !Array.isArray(settled)) return;
+        const loaded = settled
+          .filter((s): s is PromiseFulfilledResult<MeetingMinutes | null> => s.status === 'fulfilled')
+          .map((s) => s.value)
+          .filter((m): m is MeetingMinutes => m != null && typeof m.filename === 'string');
+        const byDate = [...loaded].sort((a, b) => {
+          const dA = a.meeting_metadata?.date ?? '';
+          const dB = b.meeting_metadata?.date ?? '';
+          return dB.localeCompare(dA);
+        });
+        setMeetingList(byDate);
+        if (byDate.length > 0) setSelectedMeetings((prev) => (prev.length === 0 ? ['All'] : prev));
       })
       .catch(() => {})
       .finally(() => setMeetingsLoading(false));
@@ -946,19 +958,18 @@ const App: React.FC = () => {
         </main>
       </div>
 
-      {isChatExpanded && (
-        <div
-          className="chat-modal-overlay"
-          onClick={() => setIsChatExpanded(false)}
-          role="dialog"
-          aria-modal="true"
-          aria-label="AI assistant"
-        >
-          <div className="chat-modal-content" onClick={(e) => e.stopPropagation()}>
-            <ChatPanel documents={documents} externalTriggerMessage={externalAiMessage} onMessageProcessed={() => setExternalAiMessage(null)} />
-          </div>
+      <div
+        className={`chat-modal-overlay${!isChatExpanded ? ' chat-modal-overlay--hidden' : ''}`}
+        onClick={() => isChatExpanded && setIsChatExpanded(false)}
+        role="dialog"
+        aria-modal="true"
+        aria-hidden={!isChatExpanded}
+        aria-label="AI assistant"
+      >
+        <div className="chat-modal-content" onClick={(e) => e.stopPropagation()}>
+          <ChatPanel documents={documents} meetingMinutes={meetingList} externalTriggerMessage={externalAiMessage} onMessageProcessed={() => setExternalAiMessage(null)} />
         </div>
-      )}
+      </div>
 
     </div>
   );

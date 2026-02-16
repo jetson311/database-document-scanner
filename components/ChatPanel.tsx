@@ -1,7 +1,7 @@
-
 import React, { useState, useRef, useEffect } from 'react';
-import { askDocumentQuestion } from '../services/anthropicService';
+import { askChatQuestion } from '../services/anthropicService';
 import { VillageDocument } from '../types';
+import type { MeetingMinutes } from '../types/meeting';
 
 interface Message {
   role: 'user' | 'assistant';
@@ -11,8 +11,18 @@ interface Message {
 
 interface ChatPanelProps {
   documents: VillageDocument[];
+  meetingMinutes?: MeetingMinutes[];
   externalTriggerMessage?: string | null;
   onMessageProcessed?: () => void;
+}
+
+/** Renders text with **bold** segments as <strong> (for assistant messages). */
+function renderContentWithBold(content: string): React.ReactNode {
+  const parts = content.split('**');
+  if (parts.length === 1) return content;
+  return parts.map((part, i) =>
+    i % 2 === 1 ? <strong key={i}>{part}</strong> : part
+  );
 }
 
 const SparkleIcon = ({ className = 'w-4 h-4', strokeWidth = 1.5 }: { className?: string; strokeWidth?: number }) => (
@@ -21,9 +31,9 @@ const SparkleIcon = ({ className = 'w-4 h-4', strokeWidth = 1.5 }: { className?:
   </svg>
 );
 
-export const ChatPanel: React.FC<ChatPanelProps> = ({ documents, externalTriggerMessage, onMessageProcessed }) => {
+export const ChatPanel: React.FC<ChatPanelProps> = ({ documents, meetingMinutes = [], externalTriggerMessage, onMessageProcessed }) => {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'assistant', content: "I can answer questions about documents, meetings, and this page. What would you like to know?" }
+    { role: 'assistant', content: "I can answer questions about village documents and Board of Trustees meeting votes (e.g. who voted how, how many times). What would you like to know?" }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -64,7 +74,7 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ documents, externalTrigger
     setIsLoading(true);
 
     try {
-      const result = await askDocumentQuestion(msgContent, documents);
+      const result = await askChatQuestion(msgContent, { documents, meetings: meetingMinutes });
       setMessages(prev => [...prev, { 
         role: 'assistant', 
         content: result.text || "No specific records matching your query were identified.",
@@ -97,7 +107,9 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ documents, externalTrigger
               {m.role === 'user' ? 'User' : 'System'}
             </span>
             <div className={m.role === 'user' ? 'chat-message-bubble chat-message-bubble--user' : 'chat-message-bubble chat-message-bubble--assistant'}>
-              <div className="chat-message-content">{m.content}</div>
+              <div className="chat-message-content">
+                {m.role === 'assistant' ? renderContentWithBold(m.content) : m.content}
+              </div>
               {m.sources && m.sources.length > 0 && (
                 <div className="chat-sources">
                   <p className="chat-sources-title">SOURCES</p>
