@@ -1,0 +1,772 @@
+{
+  "document_metadata": {
+    "title": "Village of Ballston Spa Comprehensive Plan",
+    "date": "December 2022",
+    "location": "Ballston Spa, New York",
+    "document_type": "Municipal Comprehensive Plan"
+  },
+  "vision_statement": {
+    "full": "Ballston Spa will continue to enhance and preserve the charm, historic character, and natural resources of the community for future generations, while encouraging opportunities for the economic growth of small businesses and improving the quality of life for residents.",
+    "tagline": "A Village of Friends",
+    "key_attributes": [
+      "Unique sense of community, safety, and quaint character",
+      "Proximity to larger cities and I-87",
+      "Walkable downtown and neighborhoods",
+      "Historic community assets",
+      "Diverse and affordable housing stock"
+    ]
+  },
+  "historical_phases": [
+    {
+      "period": "1780s to 1830s",
+      "description": "Mineral Springs and Putting the 'Spa' in Ballston Spa",
+      "key_developments": [
+        "Sans Souci Hotel opened in 1804 with 150 rooms",
+        "Village established in 1807",
+        "Became county seat in 1819"
+      ]
+    },
+    {
+      "period": "1830s to 1900s",
+      "description": "Factories and putting the 'Mill' into the Mill Town (Milton)",
+      "key_developments": [
+        "Waterpower from Kayaderosseras Creek enabled mills",
+        "Cotton mills, scythe factories, paper mills",
+        "Ballston Spa Bank established in 1838",
+        "Bull's Head Tannery arrived in 1881"
+      ]
+    },
+    {
+      "period": "1890s to 1950s",
+      "description": "Farm living is the life for me... Center of an Agricultural Community",
+      "key_developments": [
+        "Cold storage facility built in 1898",
+        "Center of prosperous farming community",
+        "Chocolate factory (Bischoff)",
+        "Small farms in surrounding towns"
+      ]
+    },
+    {
+      "period": "1940s to 1980s",
+      "description": "Bedroom Community in the Post-War Era",
+      "key_developments": [
+        "Workers from GE and American Locomotive Company",
+        "Forest Park development (91 homes in 1956)",
+        "Downtown businesses struggled with mall competition"
+      ]
+    },
+    {
+      "period": "1980s to Current",
+      "description": "Re-recognition of the Charm of Village Life in a Vibrant Regional Economy",
+      "key_developments": [
+        "Specialty shops and restaurants",
+        "CJ Outfitters attracted college students",
+        "BSBPA (Business and Professional Association) formed",
+        "Unique retail and dining destination"
+      ]
+    }
+  ],
+  "priority_issues": [
+    {
+      "issue": "Community Character",
+      "description": "Definition of existing community character to guide infill development and preserve village charm",
+      "key_elements": [
+        "Tree-lined residential streets",
+        "Historic buildings and architectural variety",
+        "Walkable business district",
+        "Green canopy and urban forest"
+      ]
+    },
+    {
+      "issue": "Historic Preservation",
+      "description": "The Ballston Spa Historic District was established in 1984",
+      "recommendations": [
+        "Develop additional guidance and standards",
+        "Create village-specific design guidelines",
+        "Train code enforcement officials"
+      ]
+    },
+    {
+      "issue": "Downtown Ballston Spa",
+      "description": "Advance the goal of a vibrant, walkable downtown area",
+      "key_recommendations": [
+        "Update zoning codes to reflect modern economy",
+        "Allow home occupations with different levels",
+        "Move toward form-based code approach",
+        "Improve pedestrian connections",
+        "Enhance code enforcement",
+        "Expand community events"
+      ]
+    },
+    {
+      "issue": "Smart Growth & Sustainability",
+      "description": "Establish opportunities for economic and smart growth while preserving character",
+      "key_recommendations": [
+        "Minimize restrictions on solar energy adoption",
+        "Encourage contemporary stormwater mitigation",
+        "Promote native landscaping",
+        "Maintain compact, mixed-use commercial center"
+      ]
+    }
+  ],
+  "land_use_vision": {
+    "character_areas": [
+      {
+        "name": "Downtown Central Business District",
+        "description": "Commercial core with densest development, pedestrian-oriented retail and mixed-use",
+        "characteristics": [
+          "Up to 100% lot coverage",
+          "Up to 4 stories in height",
+          "Ground floor commercial uses",
+          "Upper floors commercial or residential",
+          "High transparency and fenestration",
+          "Form-based code recommended"
+        ]
+      },
+      {
+        "name": "Downtown Transition",
+        "description": "Transition between CBD and residential neighborhoods",
+        "characteristics": [
+          "Up to 3 stories",
+          "Mix of residential and commercial",
+          "Smaller scale than CBD",
+          "Sensitive to existing built environment",
+          "Home occupations and small-scale retail"
+        ]
+      },
+      {
+        "name": "Highway Commercial",
+        "description": "Route 50 corridor for automobile-oriented commercial uses",
+        "characteristics": [
+          "Auto-centric commercial uses",
+          "Design guidelines needed",
+          "Corridor design treatments recommended",
+          "Street trees, lighting, landscaped medians"
+        ]
+      },
+      {
+        "name": "Residential Transition",
+        "description": "Areas where residential neighborhoods slowly transition to small-scale commercial",
+        "characteristics": [
+          "Conversion of single-family to professional offices",
+          "Maintain residential character",
+          "Limited parking",
+          "Strict design standards"
+        ]
+      },
+      {
+        "name": "Industrial",
+        "description": "Manufacturing, technology, or light industry",
+        "characteristics": [
+          "Appropriate buffers and performance standards",
+          "Flexibility for building conversions",
+          "Special permits for varied uses"
+        ]
+      },
+      {
+        "name": "Single Family Residential",
+        "description": "Largest area of village, varied neighborhood types",
+        "characteristics": [
+          "Context-based approach recommended",
+          "Consider surrounding existing houses",
+          "Allow accessory dwelling units",
+          "Protect existing neighborhood character"
+        ]
+      },
+      {
+        "name": "Multi-Family Residential",
+        "description": "Areas suitable for multi-family living including duplexes and senior living",
+        "characteristics": [
+          "Smaller-scale individual multi-unit construction",
+          "Cottage courts preferred over large apartment boxes",
+          "Design standards needed"
+        ]
+      },
+      {
+        "name": "Compact Residential",
+        "description": "Primarily for Maplewood Manor redevelopment",
+        "characteristics": [
+          "Small lot detached homes, townhomes, cottage homes",
+          "Organized around useable open space",
+          "Density equal to or exceeding historic patterns",
+          "Special conceptual design study recommended"
+        ]
+      },
+      {
+        "name": "Parks And Open Space",
+        "description": "Active and passive public parks and conservation areas",
+        "characteristics": [
+          "Trails along creeks",
+          "Connections through village",
+          "Kelly Park, Victory Circle, Iron Spring, Wiswall Park"
+        ]
+      }
+    ],
+    "gateways": [
+      {
+        "location": "Northern entrance (Route 50)",
+        "description": "Welcome to Ballston Spa signage and landscaping"
+      },
+      {
+        "location": "Southern entrance (Route 50)",
+        "description": "Welcome to Ballston Spa signage and landscaping"
+      }
+    ]
+  },
+  "community_goals": {
+    "built_environment_and_land_use": [
+      {
+        "goal": "Include flexibility in zoning",
+        "priority": "Priority Project #1",
+        "term": "Short",
+        "steps": [
+          "Create small ad-hoc committee to oversee zoning update",
+          "Hire consultant to draft recommended changes",
+          "Conduct public outreach",
+          "Revise and adopt zoning law"
+        ],
+        "funding_sources": [
+          "CDTC Community Planning/Linkages Program",
+          "Various NYS agencies (NYSDEC, NYSDOS)"
+        ]
+      },
+      {
+        "goal": "Develop design guidelines",
+        "term": "Short",
+        "steps": [
+          "Create committee to oversee process",
+          "Hire consultant",
+          "Research existing conditions",
+          "Conduct outreach",
+          "Publish guidelines"
+        ],
+        "funding_sources": [
+          "CDTC Community Planning/Linkages Program",
+          "NYS Council on the Arts",
+          "Preservation League of NYS"
+        ]
+      },
+      {
+        "goal": "Strengthen property maintenance code/enforcement",
+        "term": "Short",
+        "steps": [
+          "Clarify responsibility for maintenance",
+          "Establish periodic inspections of rental units"
+        ]
+      },
+      {
+        "goal": "Encourage compatibility with local character",
+        "term": "Ongoing",
+        "steps": [
+          "Integrate human scale into zoning",
+          "Strengthen guidelines for adaptive reuse",
+          "Plan and design gateways along Route 50"
+        ],
+        "funding_sources": [
+          "CDTC Community Planning/Linkages Program"
+        ]
+      },
+      {
+        "goal": "Enhance delivery of building/code enforcement services",
+        "term": "Ongoing",
+        "steps": [
+          "Set up training sessions for inspectors",
+          "Redo training when laws/codes updated"
+        ]
+      }
+    ],
+    "open_space_and_recreation": [
+      {
+        "goal": "Encourage street trees and landscaped areas",
+        "term": "Short",
+        "steps": [
+          "Implement Urban Forest Management Plan",
+          "Plant new street trees",
+          "Create green inventory",
+          "Assess and create landscape guidelines"
+        ],
+        "funding_sources": [
+          "NYS DEC Urban and Community Forestry Grants"
+        ]
+      },
+      {
+        "goal": "Expand recreation resources for village parks",
+        "term": "Long",
+        "steps": [
+          "Complete detailed parks inventory",
+          "Create village-wide parks and recreation master plan",
+          "Implement plan when funding allows"
+        ],
+        "funding_sources": [
+          "Environmental Protection Fund Grant Program for Parks"
+        ]
+      },
+      {
+        "goal": "Creek-side Greenway Trail additions",
+        "term": "Long",
+        "steps": [
+          "Complete assessment and plan for village-wide trails",
+          "Prepare feasibility studies",
+          "Secure funding for design and construction",
+          "Implement in phases"
+        ],
+        "funding_sources": [
+          "U.S. DOT FHWA Recreational Trails Program",
+          "CDTC Community Planning/Linkages Program"
+        ]
+      }
+    ],
+    "housing": [
+      {
+        "goal": "Accommodate affordable housing opportunities",
+        "term": "Short",
+        "steps": [
+          "Allow accessory dwelling units in zoning code",
+          "Identify priority neighborhoods for rehabilitation",
+          "Secure grant funding for property owners"
+        ],
+        "funding_sources": [
+          "NYS Homes and Community Renewal",
+          "Community Development Block Grant"
+        ]
+      },
+      {
+        "goal": "Manage short-term rentals to ensure compatibility",
+        "term": "Short",
+        "steps": [
+          "Consider registry system for property owners",
+          "Review parking requirements",
+          "Address noise ordinance enforcement",
+          "Assess fine/fee schedule"
+        ]
+      },
+      {
+        "goal": "Strengthen community connectedness",
+        "term": "Medium",
+        "steps": [
+          "Seek incentives to promote owner-residents",
+          "Create registry of apartment managers",
+          "Involve developers in community",
+          "Support work-at-home with high-speed internet"
+        ],
+        "funding_sources": [
+          "NYS Homes and Community Renewal",
+          "Community Development Block Grant"
+        ]
+      }
+    ],
+    "social_considerations": [
+      {
+        "goal": "Modernize/enhance administration of village services",
+        "term": "Short",
+        "description": "Stay current with IT systems and training for online and electronic tools"
+      },
+      {
+        "goal": "Expand youth/community interaction",
+        "term": "Short",
+        "steps": [
+          "Create ad-hoc committee for outreach",
+          "Engage with partners (BARC, village, etc.)",
+          "Conduct outreach to increase government participation",
+          "Connect non-profits to youth and new residents"
+        ]
+      },
+      {
+        "goal": "Promote village messaging and continued strategic planning",
+        "term": "Ongoing",
+        "steps": [
+          "Create advisory group for periodic review",
+          "Set up schedule to reconvene"
+        ]
+      }
+    ],
+    "information_technology_and_climate": [
+      {
+        "goal": "Embrace smart technology across village",
+        "term": "Long",
+        "steps": [
+          "Conduct audit of technology needs",
+          "Support work-at-home with co-working space",
+          "Create plan and budget for smart technology"
+        ],
+        "funding_sources": [
+          "NYSERDA Clean Energy Communities Grants",
+          "NYS EFC Green Innovation Grant",
+          "NY Power Authority Smart Street Lighting Grant"
+        ]
+      },
+      {
+        "goal": "Encourage alternative energy compatible with local character",
+        "term": "Ongoing",
+        "steps": [
+          "Plan for alternative energy during zoning update",
+          "Ensure laws don't restrict renewable energy"
+        ]
+      }
+    ],
+    "economic_considerations": [
+      {
+        "goal": "Create action plan to promote Ballston Spa locally",
+        "term": "Short",
+        "steps": [
+          "Create committee or work with BSBPA",
+          "Reach out to village institutions and local users"
+        ],
+        "funding_sources": [
+          "Market New York Tourism Grant Program",
+          "Empire State Development"
+        ]
+      },
+      {
+        "goal": "Upgrade downtown visitor infrastructure",
+        "term": "Short",
+        "description": "Add restrooms, public parking, wayfinding, trail connections, streetscape improvements",
+        "steps": [
+          "Create committee to oversee program",
+          "Hire consultant for inventory and outreach",
+          "Design signage",
+          "Prioritize improvements"
+        ],
+        "funding_sources": [
+          "NYS DOS Downtown Revitalization Initiative (DRI)",
+          "NYS DOT TAP-CMAQ Program",
+          "NYSERDA Clean Energy Communities Grants"
+        ]
+      },
+      {
+        "goal": "Build public bathrooms downtown",
+        "term": "Medium",
+        "steps": [
+          "Identify sites",
+          "Hire consultant to design",
+          "Install when funding available"
+        ],
+        "funding_sources": [
+          "NYS DOS Downtown Revitalization Initiative (DRI)"
+        ]
+      },
+      {
+        "goal": "Utilize Brownfield Opportunity Area for redevelopment",
+        "priority": "Priority Project #2",
+        "term": "Long",
+        "description": "$153,000 grant awarded December 2021 for BOA Nomination Plan",
+        "steps": [
+          "Create committee and hire consultant",
+          "Prioritize areas for redevelopment",
+          "Prepare BOA Nomination Study",
+          "Request BOA designation from Secretary of State"
+        ]
+      },
+      {
+        "goal": "Implement strategic marketing program",
+        "term": "Ongoing",
+        "steps": [
+          "Create Strategic Planning Committee",
+          "Implement marketing strategy from Economic Development Plan"
+        ],
+        "funding_sources": [
+          "NYS Department of Economic Development grants",
+          "NYS Empire State Development Grant Funds"
+        ]
+      },
+      {
+        "goal": "Encourage compatibility with local character",
+        "term": "Ongoing",
+        "steps": [
+          "Integrate clear policies in goals #1 and #2"
+        ]
+      },
+      {
+        "goal": "Encourage expansion of commerce in Central Business District",
+        "term": "Ongoing",
+        "steps": [
+          "Discuss expansion with Downtown Revitalization Committee",
+          "Update zoning to allow retail use extension",
+          "Gauge interest in Business Improvement District"
+        ],
+        "funding_sources": [
+          "New York Main Street Program",
+          "NYS Downtown Revitalization Initiative (DRI)"
+        ]
+      }
+    ],
+    "transportation_infrastructure_properties_staffing": [
+      {
+        "goal": "Update water system/management program",
+        "term": "Medium",
+        "steps": [
+          "Hire consultant to create digitized map",
+          "Install system to digitize water distribution"
+        ],
+        "funding_sources": [
+          "NYS Environmental Facilities Corporation"
+        ]
+      },
+      {
+        "goal": "Update sewer system/management program",
+        "term": "Medium",
+        "steps": [
+          "Hire consultant to create digitized map",
+          "Create plan to eliminate crossover with stormwater"
+        ],
+        "funding_sources": [
+          "NYS Department of Environmental Conservation",
+          "NYS Environmental Facilities Corporation (EFC)"
+        ]
+      },
+      {
+        "goal": "Consider separate enterprise funding for water and sewer",
+        "term": "Ongoing",
+        "steps": [
+          "Rework village budget to separate water and sewer",
+          "Fund repairs and improvements"
+        ],
+        "funding_sources": [
+          "NYS Community Development Block Grant Program",
+          "NYS Environmental Facilities Corporation"
+        ]
+      },
+      {
+        "goal": "Create unified capital improvement program for all infrastructure",
+        "term": "Ongoing",
+        "steps": [
+          "Create committee to set aside capital funds",
+          "Meet twice yearly to assess progress",
+          "Secure funding for development of program"
+        ],
+        "funding_sources": [
+          "NYS Department of Environmental Conservation",
+          "NYS Environmental Facilities Corporation"
+        ]
+      },
+      {
+        "goal": "Create village facilities capital improvement program",
+        "term": "Ongoing",
+        "steps": [
+          "Form committee with DPW and facilities managers",
+          "Create multi-year maintenance plan",
+          "Meet twice yearly to assess progress"
+        ],
+        "funding_sources": [
+          "NYS Community Development Block Grant Program"
+        ]
+      },
+      {
+        "goal": "Add specialized staff",
+        "term": "Ongoing",
+        "steps": [
+          "Assess which departments would benefit from specialized staff",
+          "Create plan to identify funding sources",
+          "Attract and retain new staff"
+        ]
+      },
+      {
+        "goal": "Prepare village-wide stormwater management/enhancement plan",
+        "term": "Ongoing",
+        "steps": [
+          "Complete digital mapping of stormwater system",
+          "Begin process of repairing faulty basins",
+          "Identify streets needing drainage",
+          "Educate public about keeping debris out",
+          "Ready for DEC audit",
+          "Map natural springs"
+        ],
+        "funding_sources": [
+          "NYS DEC Non-Agricultural Nonpoint Source Planning Grant",
+          "NYS AGM Community Resiliency Training Programs",
+          "NYS EFC Green Innovation Grant Program"
+        ]
+      }
+    ]
+  },
+  "demographics": {
+    "population_estimate": "Approximately 5,500 residents (village proper)",
+    "housing_units": "Approximately 2,480 units",
+    "owner_occupied": "57%",
+    "rented": "37%",
+    "housing_growth_since_2000": "3% (approximately 82 units)",
+    "family_income": {
+      "note": "Over 25% of village families make $100,000-$149,999",
+      "low_income": "Nearly half of non-family households live on $35,000 or less"
+    },
+    "largest_employment_group": "Service industry (education, health, etc.)",
+    "work_from_home_pre_pandemic": "Approximately 4%",
+    "commute_pattern": "Most employed residents travel within 30-mile radius"
+  },
+  "key_infrastructure": {
+    "water_system": {
+      "challenges": [
+        "Aging infrastructure",
+        "Water lines needing repair",
+        "Some lines above frost line"
+      ]
+    },
+    "sewer_system": {
+      "challenges": [
+        "Combined sewer overflows during large storms",
+        "Need to eliminate crossover with stormwater system",
+        "MS4 compliance requirements"
+      ]
+    },
+    "stormwater": {
+      "challenges": [
+        "Age and extent of system needs full assessment",
+        "Sanitary sewer cross-connections",
+        "Failing catch basins"
+      ],
+      "assets": [
+        "Large flood plain east of village absorbs stormwater",
+        "Generally avoided serious flooding"
+      ]
+    },
+    "transportation": {
+      "roads": {
+        "volume": "Route 50 carries approximately 15,000 cars per day",
+        "character": "Most roads are low-volume local roads"
+      },
+      "pedestrian": {
+        "challenges": [
+          "Gaps in sidewalks",
+          "91 missing street signs",
+          "Sidewalk heaves from tree roots"
+        ]
+      },
+      "parking": {
+        "findings": "Not a lack of spots, but insufficient enforcement and awareness of public lots"
+      }
+    }
+  },
+  "key_assets": {
+    "parks_and_recreation": [
+      "Kelley Park",
+      "Victory Circle",
+      "Iron Spring Park",
+      "Wiswall Park",
+      "Swimming Pool",
+      "Kayaderosseras Creek corridor",
+      "Gordon Creek corridor",
+      "Village Cemetery"
+    ],
+    "historic_resources": [
+      "Ballston Spa Historic District (established 1984)",
+      "70% of village built before 1950",
+      "Variety of architectural styles from past two centuries",
+      "Downtown buildings with historic character"
+    ],
+    "natural_resources": [
+      "Kayaderosseras Creek",
+      "Gordon Creek",
+      "Mineral springs",
+      "Urban forest/tree canopy",
+      "Green spaces throughout village"
+    ],
+    "cultural_institutions": [
+      "Ballston Spa Central School District",
+      "Village Library",
+      "Two museums (Brookside Museum, National Bottle Museum)",
+      "Ballston Spa Business and Professional Association (BSBPA)"
+    ]
+  },
+  "community_survey_highlights": {
+    "total_responses": 808,
+    "respondent_types": {
+      "village_residents": "74%",
+      "nearby_residents": "13%",
+      "homeowners": "Nearly 75%",
+      "work_outside_village": "72%",
+      "under_18": "18%"
+    },
+    "top_draws_to_ballston_spa": [
+      "Restaurants and businesses",
+      "Walkable business district and neighborhoods",
+      "Schools",
+      "Sense of community",
+      "Charm of older buildings"
+    ],
+    "key_findings": {
+      "infrastructure_improvements": {
+        "highly_rated": [
+          "Drinking water (4.32/5)",
+          "Sewers (3.94/5)",
+          "Roads (3.92/5)",
+          "Sidewalks (3.90/5)",
+          "Storm drains (3.76/5)"
+        ]
+      },
+      "support_percentages": {
+        "annual_budget_for_public_buildings": "89% strongly agree or agree",
+        "climate_change_action": "82% very or moderately important",
+        "design_standards_for_compatibility": "77% strongly agree or agree",
+        "walkability_improvements": "80% strongly agree or agree",
+        "home_based_businesses": "60% strongly agree or agree",
+        "alternative_energy_promotion": "78% very or moderately important",
+        "broadband_internet": "83% very or moderately important"
+      },
+      "housing_preferences": {
+        "single_family_homes": "73%",
+        "small_affordable_starter_homes": "57%",
+        "multi_family": "27% or less for any type"
+      },
+      "development_pace": {
+        "village_should_encourage_rapid_redevelopment": "56%",
+        "village_should_wait_for_private_proposals": "44%",
+        "note": "Many respondents wanted a third balanced option"
+      }
+    }
+  },
+  "visioning_workshop": {
+    "date": "August 30, 2022",
+    "location": "Saratoga County Office Building",
+    "attendance": {
+      "in_person": "Over 50",
+      "virtual": "Approximately 30"
+    },
+    "key_themes": [
+      "Keep things relatively the way they are",
+      "Guidelines in code will help maintain character",
+      "Don't try to be like other communities",
+      "Hold on to and enhance unique community character",
+      "Need for robust discussion during zoning ordinance update"
+    ]
+  },
+  "implementation": {
+    "priority_projects": [
+      {
+        "number": 1,
+        "title": "Zoning Code Update and Design Guidelines",
+        "description": "Create and adopt fully updated zoning ordinance with illustrated development design guidelines"
+      },
+      {
+        "number": 2,
+        "title": "Brownfield Opportunity Area Nomination Study",
+        "description": "Complete BOA study (NYS grant funded) to focus redevelopment opportunities"
+      }
+    ],
+    "other_key_projects": [
+      "Develop unified capital improvement program for infrastructure",
+      "Support planning and development of village-wide trail system",
+      "Address diverse housing needs through rehabilitation grants and accessory housing provisions"
+    ],
+    "organization": {
+      "management": "Implementation managed by village board with task assignments",
+      "recommendation": "Establish formal planning and community development function, potentially part-time consulting arrangement initially",
+      "review_schedule": "Goals reviewed yearly by Village Board",
+      "plan_expiration": "10 years"
+    }
+  },
+  "funding_sources": {
+    "frequently_mentioned": [
+      "Capital District Transportation Committee (CDTC) Community Planning/Linkages Program",
+      "NYS Downtown Revitalization Initiative (DRI)",
+      "NYS Environmental Facilities Corporation",
+      "NYS Department of Environmental Conservation",
+      "NYSERDA Clean Energy Communities Grants",
+      "NYS Community Development Block Grant Program",
+      "NYS Homes and Community Renewal",
+      "Environmental Protection Fund Grant Program for Parks",
+      "U.S. DOT Federal Highway Administration (FHWA) Recreational Trails Program",
+      "Market New York Tourism Grant Program",
+      "Empire State Development"
+    ]
+  }
+}

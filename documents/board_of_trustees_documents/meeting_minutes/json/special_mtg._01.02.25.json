@@ -1,0 +1,586 @@
+{
+  "filename": "special_mtg__01_02_25.pdf",
+  "meeting_metadata": {
+    "date": "2025-01-02",
+    "meeting_type": "Special",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "7:04pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true,
+          "notes": "Exited meeting after recess was called"
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true,
+          "notes": "Exited meeting after recess was called"
+        }
+      ],
+      "others": [
+        {
+          "name": "Teri O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Jennifer Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Finocchio",
+          "title": "Village Attorney",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Village Attorney",
+          "present": false
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Special meeting to announce executive liaisons and conduct annual appointments. Meeting became contentious when Trustees Raymond and Baskin attempted to table all appointment votes until organizational meeting on January 6. After heated exchange during which Trustee Raymond raised his voice, Mayor called recess and both Raymond and Baskin exited. Remaining board members proceeded to approve all clerk appointments, staff appointments, and board/committee/commission appointments. Rules of Procedure amended and 2025 organizational meeting location changed.",
+  "topics_discussed": [
+    "executive liaison appointments",
+    "deputy village clerk",
+    "deputy village treasurer",
+    "registrar of vital statistics",
+    "associate village justice",
+    "part-time police officers",
+    "crossing guards",
+    "building inspector",
+    "fire code enforcement",
+    "planning board appointments",
+    "zoning board appointments",
+    "committee appointments",
+    "organizational meeting scheduling",
+    "meeting procedures",
+    "rules of procedure"
+  ],
+  "votes": [
+    {
+      "section": "4",
+      "motion_number": 1,
+      "motion_description": "Table consent agenda items 5, 6, 7 and motions 8a and 8b until official Organizational meeting on January 6, 2025",
+      "motion_type": "procedural",
+      "mover": "Trustee Raymond",
+      "seconder": "Trustee Baskin",
+      "vote_result": "Motion Failed",
+      "vote_breakdown": {
+        "Mayor Rossi": "NO",
+        "Trustee Price-Bush": "NO",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "NO",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["organizational meeting", "appointments"],
+      "notes": "Motion failed 2-3; Trustees Raymond and Baskin wanted to delay appointments until organizational meeting"
+    },
+    {
+      "section": "5a",
+      "motion_number": 2,
+      "motion_description": "Rebecca Little be re-appointed Deputy Village Clerk for one year ending December 31, 2025",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee Baskin": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Raymond": "UNKNOWN"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee Raymond",
+          "statement": "raised his voice when asked by Mayor Rossi for a point of information"
+        },
+        {
+          "speaker": "Village Clerk O'Connor",
+          "statement": "asked Trustee Raymond to please lower his voice"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": ["clerk appointments"],
+      "notes": "Discussion interrupted by recess due to Trustee Raymond raising voice; vote not completed before recess"
+    },
+    {
+      "section": "5a",
+      "motion_number": 3,
+      "motion_description": "Take a recess at 6:46pm",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "DID NOT VOTE",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "DID NOT VOTE"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["meeting procedures"],
+      "notes": "Trustee Raymond continued to raise voice and did not vote; Trustee Baskin also did not vote"
+    },
+    {
+      "section": "5a",
+      "motion_number": 4,
+      "motion_description": "Resume the meeting",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [
+        {
+          "speaker": "Mayor Rossi",
+          "statement": "noted that Trustees Raymond and Baskin are absent at this point"
+        },
+        {
+          "speaker": "Attorney Finocchio",
+          "statement": "clarified that Chief Bush is not on the motion regarding the part-time Police Officers"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": ["meeting procedures"],
+      "notes": "Trustees Raymond and Baskin had exited meeting"
+    },
+    {
+      "section": "5",
+      "motion_number": 5,
+      "motion_description": "Resume consent agendas as written in numbers 5, 6, 7",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["consent agenda"],
+      "notes": ""
+    },
+    {
+      "section": "5",
+      "motion_number": 6,
+      "motion_description": "Reestablish consent agendas as written in numbers 5, 6, 7",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["consent agenda"],
+      "notes": ""
+    },
+    {
+      "section": "5",
+      "motion_number": 7,
+      "motion_description": "Approve clerk appointments: Rebecca Little as Deputy Village Treasurer, Teri O'Connor as Registrar of Vital Statistics, Rebecca Little as Deputy Registrar of Vital Statistics, Village Clerk as Records Management Officer",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["clerk appointments"],
+      "notes": "All appointments for one year ending December 31, 2025"
+    },
+    {
+      "section": "6",
+      "motion_number": 8,
+      "motion_description": "Approve staff appointments including Associate Village Justice, 12 part-time police officers, 2 crossing guards, Assistant Building Inspector, Fire Code Enforcement Officer, Inventory Control Officer, and Budget Officer",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["staff appointments", "police", "justice court", "building department", "fire department"],
+      "notes": "All appointments for one year ending December 31, 2025"
+    },
+    {
+      "section": "7",
+      "motion_number": 9,
+      "motion_description": "Approve board/committee/commission appointments including Planning Board, Zoning Board, Sexual Harassment Committee, Park and Tree Board, Police Procedures Committee, Library Board, Committee on the Arts, and Historic District Commission",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["planning board", "zoning board", "committees", "appointments"],
+      "notes": "Notable: Robert Bush Jr. appointed to Planning Board alternate (formerly Nathan Ward's position); Mathew Ercoline appointed Planning Board alternate filling vacancy; Karen Avenarius appointed Zoning Board alternate filling vacancy; Janelle Coffey promoted to full Park and Tree Board member; Kristopher Dubuque promoted to full Park and Tree Board member; Gregory Mankes appointed Historic District Commission (formerly Gary Stephenson's position)"
+    },
+    {
+      "section": "8a",
+      "motion_number": 10,
+      "motion_description": "Approve changes to Rules of Procedure regarding meeting schedule and organizational meeting timing",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["rules of procedure", "organizational meeting"],
+      "notes": "Organizational meeting scheduled for first Monday in January, or first Tuesday if January 1st falls on Monday"
+    },
+    {
+      "section": "8b",
+      "motion_number": 11,
+      "motion_description": "Change location of 2025 Annual Organizational Meeting from 21 Milton Avenue to 66 Front Street and simultaneously at 150 West 56th Street, New York via Zoom on January 6, 2025 at 7pm",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["organizational meeting", "meeting location"],
+      "notes": "Clerk authorized to advertise meeting and change of location immediately"
+    },
+    {
+      "section": "8",
+      "motion_number": 12,
+      "motion_description": "Adjourn meeting at 7:04pm",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "ABSENT",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "ABSENT"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["adjournment"],
+      "notes": ""
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "4",
+      "comment_number": 1,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "read a statement. (attached)",
+      "comment_type": "Information",
+      "topics": ["agenda items"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Read a statement (full text attached to minutes but not included in transcript)",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 2,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Keith Lewis",
+        "address": "38 East High Street",
+        "affiliation": null
+      },
+      "comment_text": "expressed his confusion over the name of this meeting and accused Trustee Price-Bush of being inappropriate regarding voting on the Part-time Police Officer appointments due to her being married to the Chief of Police.",
+      "comment_type": "Concern",
+      "topics": ["meeting naming", "conflict of interest", "police appointments"],
+      "referenced_items": ["Part-time Police Officer appointments"],
+      "agrees_with": null,
+      "opposes": ["Trustee Price-Bush voting on police appointments"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Questions meeting name and raises conflict of interest concern about Trustee Price-Bush voting on police appointments (married to Police Chief)",
+      "board_response": {
+        "responder": "Attorney Finocchio",
+        "response": "clarified that Chief Bush is not on the motion regarding the part-time Police Officers"
+      }
+    },
+    {
+      "section": "4",
+      "comment_number": 3,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Clare Superak",
+        "address": "1 Hyde Blvd.",
+        "affiliation": "Nathan Ward's wife"
+      },
+      "comment_text": "is disappointed her husband Nathan Ward was not notified he would not be reappointed as an alternate to the Planning Board.",
+      "comment_type": "Concern",
+      "topics": ["planning board appointments", "notification"],
+      "referenced_items": ["Planning Board alternate appointment"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["notifying appointees of non-reappointment"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Disappointed husband Nathan Ward not notified about non-reappointment to Planning Board",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 4,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Nathan Ward",
+        "address": "1 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "expressed his disappointment with the matter as well and said he wasn't aware he had to reapply and is upset that no one reached out to him.",
+      "comment_type": "Concern",
+      "topics": ["planning board appointments", "reapplication process", "communication"],
+      "referenced_items": ["Planning Board alternate appointment"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["notification and communication with appointees"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Disappointed about non-reappointment; unaware of need to reapply; upset no one reached out",
+      "board_response": null
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Executive Liaison Appointments",
+      "speaker": "Mayor Rossi",
+      "announcement": "Announced executive liaison assignments for 2025",
+      "related_topics": ["liaisons"],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": [
+        {
+          "trustee": "Trustee Raymond",
+          "response": "commented that Liaison appointments have traditionally been done at the Organizational meeting"
+        }
+      ]
+    },
+    {
+      "topic": "DPW Liaison Discussion",
+      "speaker": "Mayor Rossi",
+      "announcement": "Addressing Trustee Raymond, who had previously stated he would not be in attendance tonight, Mayor Rossi noted that they will discuss the DPW offline.",
+      "related_topics": ["DPW liaison"],
+      "action_items": ["Discuss DPW liaison assignment offline with Trustee Raymond"],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    },
+    {
+      "topic": "History of Appointments and Meetings",
+      "speaker": "Mayor Rossi",
+      "announcement": "gave an overview of the history of appointments and meetings",
+      "related_topics": ["appointments", "organizational meetings"],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": ["Fire Department", "Insurance", "Human Resources", "BSBPA"],
+      "report": "Deputy Mayor and Liaison to the Fire Dept., Insurance and Human Resources and the BSBPA",
+      "events": [],
+      "announcements": [],
+      "related_topics": ["liaison assignments"]
+    },
+    {
+      "trustee": "Mayor Rossi",
+      "committees": ["Police Department"],
+      "report": "Liaison to the Police Dept.",
+      "events": [],
+      "announcements": [],
+      "related_topics": ["liaison assignments"]
+    },
+    {
+      "trustee": "Trustee Baskin",
+      "committees": ["Park and Tree Board", "Not-For-Profit Organizations"],
+      "report": "Liaison to the Park and Tree Board, Not-For-Profit Organizations",
+      "events": [],
+      "announcements": [],
+      "related_topics": ["liaison assignments"]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": ["Library", "Youth and Social Services", "Senior Social Services", "Social Welfare"],
+      "report": "Liaison to the Library, Youth and Social Services, Senior Social Services and Social Welfare",
+      "events": [],
+      "announcements": [],
+      "related_topics": ["liaison assignments"]
+    }
+  ],
+  "other_business": [],
+  "action_items_summary": [
+    "Discuss DPW liaison assignment offline with Trustee Raymond",
+    "Clerk to advertise organizational meeting location change immediately"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 0,
+    "equipment_purchases": 0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 0,
+    "items": []
+  },
+  "named_individuals": {
+    "appointees": [
+      {"name": "Rebecca Little", "position": "Deputy Village Clerk, Deputy Village Treasurer, Deputy Registrar of Vital Statistics", "status": "Re-appointed for 2025"},
+      {"name": "Teri O'Connor", "position": "Registrar of Vital Statistics, Records Management Officer", "status": "Re-appointed/Designated for 2025"},
+      {"name": "Brandi Burns", "position": "Associate Village Justice", "status": "Re-appointed for 2025"},
+      {"name": "Eric Muller", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Michael DeMartino", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Charles Fischer", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Scott Ostrander", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Jason Quinones", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Michael Welch", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Robert Kennedy", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Stanley DeLong", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Hector Monge", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Ariel Santiago", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Kurt Nolan", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "James Redden", "position": "Part-time Police Officer", "status": "Appointed/Re-appointed for 2025"},
+      {"name": "Carmen Isabella", "position": "Crossing Guard", "status": "Re-appointed for 2025"},
+      {"name": "Doug Fuller", "position": "Crossing Guard", "status": "Re-appointed for 2025"},
+      {"name": "William Lewis", "position": "Assistant Building Inspector", "status": "Re-appointed for 2025"},
+      {"name": "Bob Cavanaugh", "position": "Fire Code Enforcement Officer, Inventory Control Officer", "status": "Re-appointed for 2025"},
+      {"name": "Frank S. Rossi, II", "position": "Budget Officer", "status": "Re-appointed for 2025"},
+      {"name": "Rory O'Connor", "position": "Planning Board Chair", "status": "Re-appointed for 2025"},
+      {"name": "Michael McNamara", "position": "Planning Board Member", "status": "Re-appointed for 5 years ending 2029"},
+      {"name": "Robert Bush, Jr.", "position": "Planning Board Alternate", "status": "Appointed for 2025 (formerly Nathan Ward's position)"},
+      {"name": "Paul Dunklebarger", "position": "Planning Board Alternate", "status": "Re-appointed for 2025"},
+      {"name": "Mathew Ercoline", "position": "Planning Board Alternate", "status": "Appointed for 2025 (filling vacancy)"},
+      {"name": "Anna Stanko", "position": "Zoning Board Member, Zoning Board Chair, Sexual Harassment Committee Member and Chair", "status": "Re-appointed for various terms"},
+      {"name": "Paul Laskey", "position": "Zoning Board Alternate", "status": "Re-appointed for 2025"},
+      {"name": "Donna Martin", "position": "Zoning Board Alternate", "status": "Re-appointed for 2025"},
+      {"name": "Karen Avenarius", "position": "Zoning Board Alternate", "status": "Appointed for 2025 (filling vacancy)"},
+      {"name": "Bernadette VanDeinse-Perez", "position": "Sexual Harassment Committee Member", "status": "Re-appointed for 2025"},
+      {"name": "Eve Kenyon", "position": "Park and Tree Board Member", "status": "Re-appointed for 3 years ending 2027"},
+      {"name": "Janelle Coffey", "position": "Park and Tree Board Full Member", "status": "Appointed for 3 years ending 2027 (promoted from alternate, formerly Liz Snell's seat)"},
+      {"name": "Kristopher Dubuque", "position": "Park and Tree Board Full Member", "status": "Appointed for 1 year ending 2025 (promoted from alternate, formerly Ed Hersh's seat)"},
+      {"name": "Caitlin Parwana", "position": "Park and Tree Board Chair", "status": "Re-appointed for 2025"},
+      {"name": "Kelly Gregory", "position": "Police Procedures Committee Member", "status": "Re-appointed for 2025"},
+      {"name": "Ray Otten", "position": "Police Procedures Committee Member and Chair", "status": "Re-appointed for 2025"},
+      {"name": "Lorri Riggs", "position": "Police Procedures Committee Member", "status": "Re-appointed for 2025"},
+      {"name": "Homer Nathan", "position": "Police Procedures Committee Member", "status": "Re-appointed for 2025"},
+      {"name": "Andy Manion", "position": "Library Board Member", "status": "Re-appointed for 5 years ending 2029"},
+      {"name": "Pat Burnham", "position": "Committee on the Arts Member", "status": "Re-appointed for 3 years ending 2027"},
+      {"name": "Gregory Mankes", "position": "Historic District Commission Member", "status": "Appointed for 3 years ending 2027 (formerly Gary Stephenson's position)"}
+    ],
+    "resignations": [],
+    "staff_mentioned": [
+      {"name": "Teri O'Connor", "position": "Village Clerk"},
+      {"name": "Jennifer Moskowitz", "position": "Village Administrator"},
+      {"name": "Attorney Finocchio", "position": "Village Attorney"},
+      {"name": "Attorney Buettner", "position": "Village Attorney (absent)"}
+    ],
+    "vendors_contractors": [],
+    "public_commenters": [
+      {"name": "Liz Kormos", "address": "89 Hyde Blvd."},
+      {"name": "Keith Lewis", "address": "38 East High Street"},
+      {"name": "Clare Superak", "address": "1 Hyde Blvd."},
+      {"name": "Nathan Ward", "address": "1 Hyde Blvd."}
+    ],
+    "other_mentioned": [
+      {"name": "Nathan Ward", "context": "Former Planning Board alternate not reappointed; Robert Bush Jr. appointed to his former position"},
+      {"name": "Liz Snell", "context": "Former Park and Tree Board member; Janelle Coffey filling seat"},
+      {"name": "Ed Hersh", "context": "Former Park and Tree Board member; Kristopher Dubuque filling seat"},
+      {"name": "Gary Stephenson", "context": "Former Historic District Commission member; Gregory Mankes filling position"},
+      {"name": "Chief Bush", "context": "Police Chief, husband of Trustee Price-Bush; Attorney clarified he is not on police appointment motion"}
+    ]
+  },
+  "locations_referenced": [
+    {"name": "66 Front Street", "type": "address", "street": "66 Front Street", "context": "Proposed location for organizational meeting and location where tabling motion proposed meeting be held"},
+    {"name": "21 Milton Avenue", "type": "address", "street": "21 Milton Avenue", "context": "Ballston Spa Library, original organizational meeting location"},
+    {"name": "150 West 56th Street, Conference Room (Floor C-2), New York, New York", "type": "address", "street": "150 West 56th Street", "context": "Simultaneous Zoom location for organizational meeting"}
+  ],
+  "dates_and_deadlines": [
+    {"date": "2025-01-06", "event": "2025 Annual Organizational Meeting", "time": "7:00pm", "note": "Location changed to 66 Front Street and simultaneously via Zoom in New York"},
+    {"date": "2025-12-31", "event": "End date for all annual appointments", "time": null, "note": "All clerk, staff, and annual board appointments end no earlier than this date"}
+  ]
+}

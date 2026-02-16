@@ -1,0 +1,339 @@
+{
+  "filename": "organizational_bd__mtg__01_06_25.pdf",
+  "meeting_metadata": {
+    "date": "2025-01-06",
+    "meeting_type": "Organizational",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "7:39pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true,
+        "notes": "entered via Zoom at 7:29pm"
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Baskin",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Raymond",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Teri O'Connor",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Jennifer Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Village Attorney",
+          "present": true
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Organizational meeting focused on procedural matters including adopting Rules of Procedure with amended special meeting notice requirements, approving 2025 meeting schedule, authorizing training attendance, setting mileage reimbursement rates, and designating official depositories and newspaper. Significant tension between Trustees Baskin/Raymond and Mayor/Attorney regarding legality of January 2 meeting, with Attorney Buettner firmly stating meeting was legal while Trustees Baskin and Raymond continued to assert it was illegal.",
+  "topics_discussed": [
+    "rules of procedure",
+    "special meeting notice requirements",
+    "organizational meeting timing",
+    "2025 meeting schedule",
+    "training authorization",
+    "mileage reimbursement",
+    "official depositories",
+    "official newspaper",
+    "village historian",
+    "legality of january 2 meeting",
+    "organizational meeting requirements"
+  ],
+  "votes": [
+    {
+      "section": "3A",
+      "motion_number": 1,
+      "motion_description": "Adopt Rules of Procedure as amended at January 2, 2025 Special Meeting and amended further to take into consideration 2026 Organizational Meeting and appointments",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee Baskin": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Raymond": "UNKNOWN"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee Raymond",
+          "statement": "continued his disagreement from the last meeting regarding when Organizational Meetings are held"
+        },
+        {
+          "speaker": "Trustee Baskin",
+          "statement": "feels there should be at least 48 or 72 hours' notice for special meetings"
+        },
+        {
+          "speaker": "Trustee Baskin",
+          "statement": "wants clarification in the Rules of Procedure regarding meeting notices"
+        },
+        {
+          "speaker": "Attorney Buettner",
+          "statement": "noted that 24 hours' notice, as we do now, is not uncommon"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": ["rules of procedure", "organizational meetings"],
+      "notes": "Motion amended before vote"
+    },
+    {
+      "section": "3A",
+      "motion_number": 2,
+      "motion_description": "Amend Rules of Procedure: Special meetings called by Mayor or any two Board members; Clerk notifies official newspaper at least 72 hours in advance if meeting scheduled a week or more in advance, at least 24 hours if less than a week in advance",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "Motion Passed",
+      "vote_breakdown": {
+        "Mayor Rossi": "NOT VOTING",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "NO"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["rules of procedure", "special meeting notice"],
+      "notes": "Amended motion; Mayor had not yet entered meeting via Zoom"
+    },
+    {
+      "section": "3B",
+      "motion_number": 3,
+      "motion_description": "Approve attached schedule of regular Board of Trustees meetings for calendar year 2025",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["meeting schedule"],
+      "notes": ""
+    },
+    {
+      "section": "4A",
+      "motion_number": 4,
+      "motion_description": "Authorize Village officials and employees to attend training conferences and schools including NY Conference of Mayors Annual Meeting and Training School, Fall Training School for Finance Officers and Municipal Clerks, and Schools for DPW Working Supervisors",
+      "motion_type": "resolution",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Baskin",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["training", "conferences"],
+      "notes": "Authorizes Board of Trustees, Village Clerk, Village Treasurer, Deputy Village Treasurer, Accounting Assistant, DPW Working Supervisor and other employees as determined by Mayor"
+    },
+    {
+      "section": "5",
+      "motion_number": 5,
+      "motion_description": "Approve mileage reimbursement for officers and employees at current IRS reimbursement rate",
+      "motion_type": "resolution",
+      "mover": "Trustee Baskin",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["mileage reimbursement"],
+      "notes": ""
+    },
+    {
+      "section": "6",
+      "motion_number": 6,
+      "motion_description": "Designate official depositories (Adirondack Trust Co., Generations Bank, NYCLASS), designate Daily Gazette as official newspaper, authorize Village Clerk to send meeting schedule to news media, and appoint Field Horne as Village Historian for one year ending December 31, 2025",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["official depositories", "official newspaper", "village historian"],
+      "notes": ""
+    },
+    {
+      "section": "7",
+      "motion_number": 7,
+      "motion_description": "Adjourn Organizational Meeting at 7:39pm",
+      "motion_type": "procedural",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee Raymond",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee Baskin": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Raymond": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["adjournment"],
+      "notes": ""
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "6",
+      "comment_number": 1,
+      "comment_period": "After Consent Agenda Vote",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd.",
+        "affiliation": null
+      },
+      "comment_text": "asked for clarification on organizational meetings and also said she is disappointed that the two people who were not reappointed were not told.",
+      "comment_type": "Question",
+      "topics": ["organizational meetings", "appointment notifications"],
+      "referenced_items": ["organizational meeting requirements", "reappointments"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["notifying people not reappointed"],
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Requests clarification on organizational meetings; disappointed two people not reappointed were not notified",
+      "board_response": {
+        "responder": "Attorney Buettner",
+        "response": "explained that there is nothing in State law that requires, defines, or sets an agenda for an organizational meeting. Attorney Buettner stressed that there is nothing violative by any law about the last meeting or this meeting, as she has told the Board multiple times"
+      }
+    }
+  ],
+  "mayor_announcements": [],
+  "liaison_reports": [],
+  "other_business": [
+    {
+      "topic": "Legality of January 2, 2025 meeting",
+      "speaker": "Multiple",
+      "update": "Extended heated discussion about legality of January 2 meeting. Trustee Baskin said in his opinion the January 2 meeting was illegal. Attorney Buettner asked for specifics. Trustee Baskin thinks it was the Organizational meeting and improperly scheduled. Attorney Buettner stated it is her legal opinion that there was nothing illegal about that meeting. Trustee Raymond countered that another attorney could have a different opinion. Trustee VanDeinse-Perez stated that as a Trustee it is irresponsible to continue to assert the Village has violated the law; our counsel has said over and over we have not violated the law. Trustees Raymond and Baskin continued to disagree. Trustee Baskin accused Mayor Rossi of doing this to accommodate his own schedule. Mayor Rossi stated it is infuriating for it to be insinuated that he schedules to accommodate his personal schedule and that he doesn't do his job. The Mayor noted that the Village always comes first and chastised Trustee Baskin for impugning the Village and for taking it to Facebook and the press. Mayor Rossi stated it is an ethical violation for the Trustees to say the meeting was illegal and noted he would appreciate a retraction and an apology.",
+      "action_items": ["Mayor requests retraction and apology from Trustees regarding illegal meeting claims"],
+      "related_topics": ["january 2 meeting", "organizational meeting legality", "ethics"]
+    }
+  ],
+  "action_items_summary": [
+    "Village Clerk to send single letter to news media with schedule of regular meetings",
+    "Village Clerk to post public notice of meeting schedule",
+    "Mayor requests retraction and apology from Trustees Baskin and Raymond regarding illegal meeting claims"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 0,
+    "equipment_purchases": 0,
+    "personnel_costs": 0,
+    "construction_contracts": 0,
+    "professional_services": 0,
+    "items": []
+  },
+  "named_individuals": {
+    "appointees": [
+      {
+        "name": "Field Horne",
+        "position": "Village Historian",
+        "status": "Appointed for one year ending December 31, 2025"
+      }
+    ],
+    "resignations": [],
+    "staff_mentioned": [
+      {
+        "name": "Teri O'Connor",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Jennifer Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney"
+      }
+    ],
+    "vendors_contractors": [],
+    "public_commenters": [
+      {
+        "name": "Liz Kormos",
+        "address": "89 Hyde Blvd."
+      }
+    ],
+    "other_mentioned": [
+      {
+        "name": "two people who were not reappointed",
+        "context": "Liz Kormos mentioned they were not told about non-reappointment; likely refers to Nathan Ward and Gary Stephenson based on January 2 meeting"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Facebook",
+      "type": "social media",
+      "street": null,
+      "context": "Mayor chastised Trustee Baskin for taking meeting legality issues to Facebook and the press"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2025-12-31",
+      "event": "Village Historian appointment end date",
+      "time": null,
+      "note": "Field Horne appointed for one year with end date not to be before this date"
+    },
+    {
+      "date": "2026-01-01",
+      "event": "2026 Organizational Meeting",
+      "time": null,
+      "note": "Rules of Procedure amended to take this into consideration"
+    }
+  ]
+}

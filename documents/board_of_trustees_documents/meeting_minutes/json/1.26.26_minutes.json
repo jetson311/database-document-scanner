@@ -1,0 +1,2163 @@
+{
+  "filename": "1_26_26_minutes.pdf",
+  "meeting_metadata": {
+    "date": "2026-01-26",
+    "meeting_type": "Regular",
+    "location": "Village of Ballston Spa, NY",
+    "start_time": null,
+    "end_time": "10:11pm",
+    "attendees": {
+      "mayor": {
+        "name": "Mayor Rossi",
+        "title": "Mayor",
+        "present": true
+      },
+      "trustees": [
+        {
+          "name": "Trustee Price-Bush",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee DuBuque",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee VanDeinse-Perez",
+          "title": "Trustee",
+          "present": true
+        },
+        {
+          "name": "Trustee Dunkelbarger",
+          "title": "Trustee",
+          "present": true
+        }
+      ],
+      "others": [
+        {
+          "name": "Rebecca Little",
+          "title": "Village Clerk",
+          "present": true
+        },
+        {
+          "name": "Jennifer Moskowitz",
+          "title": "Village Administrator",
+          "present": true
+        },
+        {
+          "name": "Attorney Buettner",
+          "title": "Village Attorney",
+          "present": true,
+          "notes": "via ZOOM"
+        }
+      ]
+    }
+  },
+  "meeting_summary": "Regular meeting dominated by extensive public hearing on proposed residency requirements for appointed officials, with 31 public speakers overwhelmingly opposing the measure. Board tabled the proposal and two Planning Board alternate appointments after hearing public input. Multiple agreements with Town of Milton approved including library operations, events, capital projects, and pool operations.",
+  "topics_discussed": [
+    "residency requirements for appointed officials",
+    "planning board appointments",
+    "zoning board appointments",
+    "public hearing",
+    "board transparency",
+    "recruitment process",
+    "library operations",
+    "milton water district",
+    "fire department staffing",
+    "dpw equipment",
+    "town of milton agreements",
+    "volunteer recruitment",
+    "community communication",
+    "budget season",
+    "fire department statistics",
+    "community events"
+  ],
+  "votes": [
+    {
+      "section": "3a",
+      "motion_number": 1,
+      "motion_description": "Approve minutes of 1/12/26 meeting",
+      "motion_type": "approval",
+      "mover": null,
+      "seconder": null,
+      "vote_result": "TABLED",
+      "vote_breakdown": {
+        "Mayor Rossi": "TABLED",
+        "Trustee Price-Bush": "TABLED",
+        "Trustee DuBuque": "TABLED",
+        "Trustee VanDeinse-Perez": "TABLED",
+        "Trustee Dunkelbarger": "TABLED"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["meeting minutes"],
+      "notes": "Tabled until next meeting"
+    },
+    {
+      "section": "4",
+      "motion_number": 2,
+      "motion_description": "Close Public Hearing on Proposed Local Law No. 1 of 2026 (Residency Requirements)",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Trustee VanDeinse-Perez",
+          "statement": "addresses the public request for board members view on the proposal- she doesn't support the proposal it's current form, but if it were to come back with revisions she may"
+        },
+        {
+          "speaker": "Trustee DuBuque",
+          "statement": "at first she did support the law, but after hearing from the public and since the residents are directly affected by this change, feels they do deserve to be heard. In it's present form she doesn't support it, amendments (45-5), some language changes could save those who have given so much and to be fair to the community not to lose those people. This board does exist to serve the resident tax payers. Feels the 5 board members can come together and create something that is worthy"
+        },
+        {
+          "speaker": "Trustee Price-Bush",
+          "statement": "Thanks everyone for speaking up, this is what public hearings are for, this was very successful"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": ["public hearing", "residency requirements"],
+      "notes": "Closed at 8:45pm after extensive public comment with 31 speakers"
+    },
+    {
+      "section": "7a-i",
+      "motion_number": 3,
+      "motion_description": "Approve Wendy Richards be hired to paint the EML firehouse interior ($2,625.00)",
+      "motion_type": "hiring",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee DuBuque": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Dunkelbarger": "UNKNOWN"
+      },
+      "discussion": [],
+      "dollar_amounts": [2625.00],
+      "related_topics": ["fire department", "hiring", "facilities"],
+      "notes": "Consent agenda item; vote result not explicitly stated"
+    },
+    {
+      "section": "7a-ii",
+      "motion_number": 4,
+      "motion_description": "Approve Ballston Spa Public Library to set up account with Ingram Book Company (replacing Baker & Taylor going out of business)",
+      "motion_type": "approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee DuBuque": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Dunkelbarger": "UNKNOWN"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["library", "vendor accounts"],
+      "notes": "Consent agenda item; Baker & Taylor going out of business; vote result not explicitly stated"
+    },
+    {
+      "section": "7a-iii",
+      "motion_number": 5,
+      "motion_description": "Approve purchase of 200 tons of Morton's road salt by DPW ($12,514.00)",
+      "motion_type": "purchase approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee DuBuque": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Dunkelbarger": "UNKNOWN"
+      },
+      "discussion": [],
+      "dollar_amounts": [12514.00],
+      "related_topics": ["DPW", "winter maintenance", "road salt"],
+      "notes": "Consent agenda item; vote result not explicitly stated"
+    },
+    {
+      "section": "8a",
+      "motion_number": 6,
+      "motion_description": "Approve final payout of Retired Police Officer Edward Braim's accrued time (Vacation: 128 Hours; Sick: 206 Hours; Personal: 40 Hours; Comp: 38 Hours, Total $13,782.04)",
+      "motion_type": "personnel action",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [13782.04],
+      "related_topics": ["police department", "retirement", "personnel"],
+      "notes": "In accordance with PBA contract"
+    },
+    {
+      "section": "8b",
+      "motion_number": 7,
+      "motion_description": "Approve resolution granting authority to State of New York to adjust Village water valves on NY-50 (PIN 1811.50 pavement resurfacing and set aside SFY26B Project)",
+      "motion_type": "resolution",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["water infrastructure", "state projects", "NY-50"],
+      "notes": ""
+    },
+    {
+      "section": "8c",
+      "motion_number": 8,
+      "motion_description": "Approve retention agreement with Bartlett, Pontiff, Stewart, & Rhodes, P.C. for bond counsel services",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["legal services", "bond counsel"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "8d",
+      "motion_number": 9,
+      "motion_description": "Approve SEQRA Type 2 action related to Milton Water District #3 Pump House",
+      "motion_type": "resolution",
+      "mover": "Trustee Dunkelbarger",
+      "seconder": "Trustee VanDeinse-Perez",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Attorney Buettner",
+          "statement": "explained that the type 2 action is necessary to move forward with the bonding authority for resolution e"
+        }
+      ],
+      "dollar_amounts": [],
+      "related_topics": ["SEQRA", "Milton Water District #3", "environmental review"],
+      "notes": "Roll call vote; necessary for bonding authority"
+    },
+    {
+      "section": "8e",
+      "motion_number": 10,
+      "motion_description": "Approve borrowing authority of $600,000.00 related to Milton Water District #3",
+      "motion_type": "resolution",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [
+        {
+          "speaker": "Attorney Buettner",
+          "statement": "explained the rules of this authority"
+        }
+      ],
+      "dollar_amounts": [600000.00],
+      "related_topics": ["Milton Water District #3", "bonding", "financing"],
+      "notes": "Roll call vote"
+    },
+    {
+      "section": "8f",
+      "motion_number": 11,
+      "motion_description": "Approve Supplemental Agreement for engineering services by LaBella Associates, D.P.C. for Milton Water District #3 Improvements",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["Milton Water District #3", "engineering services"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "8g",
+      "motion_number": 12,
+      "motion_description": "Proposed Local Law No. 1 of 2026 (Residency Requirements for Appointed Officials, Planning Board Members, and Zoning Board Members)",
+      "motion_type": "procedural",
+      "mover": null,
+      "seconder": null,
+      "vote_result": "No Action Taken",
+      "vote_breakdown": {
+        "Mayor Rossi": "NO ACTION",
+        "Trustee Price-Bush": "NO ACTION",
+        "Trustee DuBuque": "NO ACTION",
+        "Trustee VanDeinse-Perez": "NO ACTION",
+        "Trustee Dunkelbarger": "NO ACTION"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["residency requirements", "local law"],
+      "notes": "Placeholder motion; no vote occurred at this meeting"
+    },
+    {
+      "section": "8h",
+      "motion_number": 13,
+      "motion_description": "Table Elizabeth Kormos appointment consideration as alternate to Planning Board",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "TABLED",
+      "vote_breakdown": {
+        "Mayor Rossi": "ABSTAIN",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["planning board", "appointments"],
+      "notes": "Roll call vote; Mayor abstained; tabled to allow for additional applicants"
+    },
+    {
+      "section": "8i",
+      "motion_number": 14,
+      "motion_description": "Table Benjamin Baskin appointment consideration as alternate to Planning Board",
+      "motion_type": "procedural",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "TABLED",
+      "vote_breakdown": {
+        "Mayor Rossi": "ABSTAIN",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["planning board", "appointments"],
+      "notes": "Roll call vote; Mayor abstained; tabled to allow for additional applicants; meeting recessed after outburst from resident; back in session at 9:41pm"
+    },
+    {
+      "section": "8j",
+      "motion_number": 15,
+      "motion_description": "Approve agreement between Village of Ballston Spa and Town of Milton related to Village Library's operations",
+      "motion_type": "contract approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["library", "Town of Milton", "intermunicipal agreements"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "8k",
+      "motion_number": 16,
+      "motion_description": "Approve agreement between Village of Ballston Spa and Town of Milton related to Village events",
+      "motion_type": "contract approval",
+      "mover": "Trustee Dunkelbarger",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["events", "Town of Milton", "intermunicipal agreements"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "8l",
+      "motion_number": 17,
+      "motion_description": "Approve agreement between Village of Ballston Spa and Town of Milton related to Village Library's capital project",
+      "motion_type": "contract approval",
+      "mover": "Trustee Price-Bush",
+      "seconder": "Trustee DuBuque",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["library", "capital projects", "Town of Milton", "intermunicipal agreements"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "8m",
+      "motion_number": 18,
+      "motion_description": "Approve agreement between Village of Ballston Spa and Town of Milton related to Village Swimming Pool operations",
+      "motion_type": "contract approval",
+      "mover": "Trustee VanDeinse-Perez",
+      "seconder": "Trustee Dunkelbarger",
+      "vote_result": "ALL AYES",
+      "vote_breakdown": {
+        "Mayor Rossi": "YES",
+        "Trustee Price-Bush": "YES",
+        "Trustee DuBuque": "YES",
+        "Trustee VanDeinse-Perez": "YES",
+        "Trustee Dunkelbarger": "YES"
+      },
+      "discussion": [],
+      "dollar_amounts": [],
+      "related_topics": ["swimming pool", "Town of Milton", "intermunicipal agreements"],
+      "notes": "Mayor authorized to execute agreement"
+    },
+    {
+      "section": "17",
+      "motion_number": 19,
+      "motion_description": "Approve voucher audit and adjourn meeting at 10:11pm",
+      "motion_type": "procedural",
+      "mover": "Trustee DuBuque",
+      "seconder": "Trustee Price-Bush",
+      "vote_result": "Not Recorded",
+      "vote_breakdown": {
+        "Mayor Rossi": "UNKNOWN",
+        "Trustee Price-Bush": "UNKNOWN",
+        "Trustee DuBuque": "UNKNOWN",
+        "Trustee VanDeinse-Perez": "UNKNOWN",
+        "Trustee Dunkelbarger": "UNKNOWN"
+      },
+      "discussion": [],
+      "dollar_amounts": [174687.07, 2183.68, 1601.80, 178472.55],
+      "related_topics": ["vouchers", "adjournment"],
+      "notes": "Total vouchers: $178,472.55 (General Fund: $174,687.07, Capital Projects: $2,183.68, Library Fund: $1,601.80)"
+    }
+  ],
+  "public_comments": [
+    {
+      "section": "4",
+      "comment_number": 1,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Marilyn Stephenson",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal, people appointed must be village residents.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "appointed officials"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": ["village resident requirement"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes residency requirement proposal, believes people appointed must be village residents",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 2,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Nathan Ward",
+        "address": null,
+        "affiliation": "via Zoom"
+      },
+      "comment_text": "made a statement against this proposal and his history on being a planning board alternate.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "planning board", "personal experience"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal based on personal history as planning board alternate",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 3,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "John Cromie",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal, village boards are excellent training positions, concerned if this passes it could hinder our municipality existence.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "board training", "municipal operations"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal, concerned it could hinder municipality; notes boards are excellent training positions",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 4,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Lisa Spidel",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal, questions why it was proposed? Residents should be on the boards.",
+      "comment_type": "Question",
+      "topics": ["residency requirements", "board composition"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": ["village residents on boards"],
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questions why proposal was made; believes residents should be on boards",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 5,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Keith Lewis",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal, at least 22 democrats and republicans have pledged up to $500 each to support challengers against any trustee that votes for this law.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "political consequences"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [500.00],
+      "summary": "Opposes proposal, notes bipartisan group of 22 people pledged up to $500 each to support challengers against trustees who vote for the law",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 6,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Paul Farnan",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement about state wording in these cases but doesn't agree with the proposal.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "state law"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Discussed state law wording but opposes proposal",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 7,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Mike Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement, encouraged the Board of Trustees to hear the residents speaking up about this and consider it, requests the trustees explain why they vote on this law and why you will vote the way you do.",
+      "comment_type": "Suggestion",
+      "topics": ["board transparency", "public input", "voting explanation"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["listening to residents", "board transparency"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Encourages board to listen to residents and requests trustees explain their votes",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 8,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Carrie Curvin",
+        "address": null,
+        "affiliation": "former Ethics committee member"
+      },
+      "comment_text": "made a statement about importance on village residents having voices and support the prior speakers comments. Encouraged more publicity in order to broaden the pool of participants.",
+      "comment_type": "Support",
+      "topics": ["resident voices", "recruitment", "publicity"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": null,
+      "supports": ["village resident voices", "broader recruitment"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports prior speakers; emphasizes importance of resident voices and encourages more publicity to broaden applicant pool",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 9,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Kristina Maas",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "agrees with prior speakers, made a statement asking where it was posted for openings and against changing the law at this time.",
+      "comment_type": "Question",
+      "topics": ["posting requirements", "recruitment", "timing"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": ["changing law at this time"],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Agrees with prior speakers, questions where openings were posted, opposes changing law now",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 10,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Richard Bashant",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement about those who do have experience possibly staying on as advisors as support to newer members, he agrees with everyone else, decision makers should live in the village.",
+      "comment_type": "Suggestion",
+      "topics": ["mentorship", "advisory roles", "residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["everyone else"],
+      "opposes": null,
+      "supports": ["decision makers living in village", "advisory role for experienced non-residents"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Suggests experienced non-residents could serve as advisors to newer members; believes decision makers should live in village",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 11,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement, listing specific wording be used if the law is to be changed to avoid confusion. Land use ideas should be made by the people who live here.",
+      "comment_type": "Suggestion",
+      "topics": ["legal wording", "land use", "clarity"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["residents making land use decisions", "clear wording"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Suggests specific wording to avoid confusion if law changes; believes land use decisions should be made by residents",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 12,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Ben Baskin",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal. Agrees with prior speakers. Urges the Chair and the majority of these boards be from the village.",
+      "comment_type": "Concern",
+      "topics": ["board composition", "residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": ["chair and majority from village"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal; urges that chair and majority of boards be village residents",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 13,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Jared Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal. Agrees with prior speakers.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal; agrees with prior speakers",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 14,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Shawn Raymond",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 15,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Kamran Parwana",
+        "address": null,
+        "affiliation": "current member of ZBA, via zoom"
+      },
+      "comment_text": "against this proposal- directed 4 questions to the Mayor.",
+      "comment_type": "Question",
+      "topics": ["residency requirements", "ZBA"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "ZBA member opposes proposal; directed 4 questions to Mayor",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 16,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Courtney Ellis",
+        "address": null,
+        "affiliation": "via Zoom"
+      },
+      "comment_text": "agrees with prior speakers, made a statement against this proposal. Also asked about qualifications for candidates and requests for volunteers made clear.",
+      "comment_type": "Question",
+      "topics": ["residency requirements", "candidate qualifications", "volunteer recruitment"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Agrees with prior speakers in opposition; questions candidate qualifications and clarity of volunteer requests",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 17,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Alex Funicello",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement about communication issues and treatment of those who do volunteer.",
+      "comment_type": "Concern",
+      "topics": ["communication", "volunteer treatment"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Raises concerns about communication issues and how volunteers are treated",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 18,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Mike McNamera",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement in favor of the proposal, and asked that the qualifications for candidates be considered for these positions.",
+      "comment_type": "Support",
+      "topics": ["residency requirements", "candidate qualifications"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["Proposed Local Law No. 1 of 2026", "considering candidate qualifications"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports proposal; asks that candidate qualifications be considered",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 19,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Christin Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against this proposal, feels these decisions should be made by village residents.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "local control"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": ["village residents making decisions"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes proposal; believes decisions should be made by village residents",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 20,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Jean Relyea",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Agrees with prior speakers, doesn't support this proposal. Asked the mayor about why information is not made more public about these open positions?",
+      "comment_type": "Question",
+      "topics": ["residency requirements", "publicity", "recruitment"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["prior speakers"],
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Agrees with prior speakers in opposition; questions why open positions aren't publicized more",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 21,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Erin McCredy",
+        "address": null,
+        "affiliation": "Prior planning board member"
+      },
+      "comment_text": "Agrees with other speakers- doesn't support this proposal. Needs more community communication for these position openings.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "community communication", "recruitment"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["other speakers"],
+      "opposes": ["Proposed Local Law No. 1 of 2026"],
+      "supports": ["more community communication"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Former planning board member opposes proposal; emphasizes need for better community communication about openings",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 22,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Rory O'Connor",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "agrees with a great deal of prior speakers, agrees there should be more notice on these openings, made a statement on what is involved when becoming a planning board member.",
+      "comment_type": "Support",
+      "topics": ["residency requirements", "recruitment notice", "planning board requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": ["a great deal of prior speakers"],
+      "opposes": null,
+      "supports": ["more notice for openings"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Agrees with many prior speakers; supports more notice for openings; explained planning board member requirements",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 23,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Cathy Gibson",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement in addition to her email feels having people on the planning board that are not Village residents dilutes the power of residents.",
+      "comment_type": "Concern",
+      "topics": ["resident power", "planning board composition"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["non-village residents on planning board"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Believes non-village residents on planning board dilutes resident power; submitted email",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 24,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Mackenzie Gray",
+        "address": null,
+        "affiliation": "new resident"
+      },
+      "comment_text": "gave her opinion as a new resident, opposed to allowing outside folks on the boards.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "board composition"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["allowing outside folks on boards"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "New resident opposes allowing non-residents on boards",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 25,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Kyrstle Nowhitney",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "skeptical of the proposed measure and doesn't support having outside residents on the planning and zoning boards. Looks forward to being more involved.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "planning board", "zoning board", "civic engagement"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["outside residents on planning and zoning boards"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Skeptical of proposal; opposes non-residents on planning/zoning boards; interested in future involvement",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 26,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Gina Marozzi",
+        "address": null,
+        "affiliation": "not a village resident but business owner"
+      },
+      "comment_text": "stresses that business owners that may not reside in the village but still pay taxes and still care about what happens in the village.",
+      "comment_type": "Support",
+      "topics": ["business owners", "taxpayer rights", "non-resident stakeholders"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["non-resident business owners having voice"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Non-resident business owner emphasizes that business owners pay taxes and care about village despite not living there",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 27,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Melissa Taylor",
+        "address": null,
+        "affiliation": "resident of Milton"
+      },
+      "comment_text": "gives her time to the village. Recalls a time that she was interrupted for being outside the village but now are proposing that people outside the village now can have a voice and vote.",
+      "comment_type": "Concern",
+      "topics": ["non-resident volunteers", "consistency", "voting rights"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Milton resident volunteers time to village; notes inconsistency of previously being interrupted for being non-resident but now proposal would allow non-residents voice and vote",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 28,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Ellie Dillon",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement supporting businesses but wants the residents to make the decisions long-term.",
+      "comment_type": "Support",
+      "topics": ["business support", "resident decision-making"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["businesses", "residents making long-term decisions"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports businesses but believes residents should make long-term decisions",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 29,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Josh Ness",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Optics are bad, blown away this is even on the table.",
+      "comment_type": "Concern",
+      "topics": ["public perception", "residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Shocked proposal is being considered; believes optics are bad",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 30,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Mathew Ercoline",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement and supports this amendment",
+      "comment_type": "Support",
+      "topics": ["residency requirements"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["Proposed Local Law No. 1 of 2026"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports the amendment",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 31,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Karen Avenarius",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement that people who own property in the village do have a vested interest in the village.",
+      "comment_type": "Support",
+      "topics": ["property owners", "vested interest"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["property owners having vested interest"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Notes that property owners have vested interest in village even if non-residents",
+      "board_response": null
+    },
+    {
+      "section": "4",
+      "comment_number": 32,
+      "comment_period": "Public Hearing - Proposed Local Law No. 1 of 2026",
+      "speaker": {
+        "name": "Mila Woodfield",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement against allowing cases for outside individuals, is opposed to this.",
+      "comment_type": "Concern",
+      "topics": ["residency requirements", "outside individuals"],
+      "referenced_items": ["Proposed Local Law No. 1 of 2026"],
+      "agrees_with": null,
+      "opposes": ["allowing outside individuals"],
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes allowing non-residents (outside individuals) on boards",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 33,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Liz Kormos",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "item h- made a statement about selection process leading to few applications and her background regarding her consideration for appointment as an alternate.",
+      "comment_type": "Information",
+      "topics": ["selection process", "planning board appointments", "personal background"],
+      "referenced_items": ["item h"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Discusses selection process issues and her background related to Planning Board alternate consideration",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 34,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Nathan Ward",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement supporting motion h and i. feels Matt should be removed and replaced by one of these 2 candidates.",
+      "comment_type": "Support",
+      "topics": ["planning board appointments"],
+      "referenced_items": ["motion h", "motion i"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["motion h", "motion i", "replacing Matt with new candidates"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Supports motions h and i; suggests Matt should be removed and replaced by one of the two candidates",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 35,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Andy Manion",
+        "address": null,
+        "affiliation": "Member of Library Board"
+      },
+      "comment_text": "made a statement thanking all who have supported the Library over the last year. Town of Milton also supports the Library and had a meeting and wanted to thank everyone for their support and looks forward to working with them.",
+      "comment_type": "Information",
+      "topics": ["library support", "Town of Milton", "gratitude"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Library Board member thanks supporters; notes Town of Milton support and looks forward to continued collaboration",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 36,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Gina Marozzi",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Feels h and I should be tabled due to all the interest that has been brought up tonight. Made a statement regarding Liz Kormos's prior experience. Made a comment regarding Ben Baskins prior experience. Is against these appointments.",
+      "comment_type": "Concern",
+      "topics": ["planning board appointments", "candidate experience"],
+      "referenced_items": ["h", "i"],
+      "agrees_with": null,
+      "opposes": ["h and i appointments"],
+      "supports": ["tabling h and i"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Opposes appointments h and i; suggests tabling due to public interest; commented on both candidates' experience",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 37,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Martha Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement as to why people will not apply for the positions if their names are going to be brought up like this in front of the public.",
+      "comment_type": "Concern",
+      "topics": ["recruitment", "public discussion", "volunteer deterrence"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Concerned that public discussion of candidates will deter people from applying for positions",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 38,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Jared Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "feels the comment from Gina was inappropriate, we are supposed to encourage residents to apply, hopes the board can recognize that and supports both candidates.",
+      "comment_type": "Support",
+      "topics": ["resident encouragement", "candidate support"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": ["Gina's comment"],
+      "supports": ["both candidates", "encouraging residents to apply"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Believes Gina's comment was inappropriate; emphasizes need to encourage residents; supports both candidates",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 39,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Keith Lewis",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Encourages people to go back and review older meetings by Mayor Fitzpatrick. Thinks it was wonderful that people came out and expressed concern.",
+      "comment_type": "Information",
+      "topics": ["past meetings", "civic engagement"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["public participation"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Encourages reviewing past meetings from Mayor Fitzpatrick era; appreciates public turnout and engagement",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 40,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Krystle Nowhitney",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "this is reason why people do not step up for positions in village politics. Urged the Board and Mayor to consider the tenor of these meetings for why people do not participate.",
+      "comment_type": "Concern",
+      "topics": ["civic participation", "meeting tone", "volunteer deterrence"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Believes meeting tenor discourages civic participation; urges board and mayor to consider how meeting atmosphere affects volunteer recruitment",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 41,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Lisa Spidel",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement about every motion on the agenda she would like the boards opinions on each vote so they get to know the board members.",
+      "comment_type": "Suggestion",
+      "topics": ["board transparency", "voting explanations"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["board members explaining votes"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Requests board members explain their votes on every motion to help community know trustees better",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 42,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Ben Baskin",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Agrees with Lisa Spidel. On motion h supports Liz's candidacy. He applied in case there was no one else, he is happy to let others who would like to have the chance to participate in this government. If they don't then he is happy to contribute.",
+      "comment_type": "Support",
+      "topics": ["board transparency", "planning board appointments", "civic service"],
+      "referenced_items": ["motion h"],
+      "agrees_with": ["Lisa Spidel"],
+      "opposes": null,
+      "supports": ["Liz's candidacy", "board transparency", "other applicants"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Agrees with transparency request; supports Liz Kormos for Planning Board; willing to step aside for other applicants but happy to serve if needed",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 43,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Alex Funicello",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "made a statement about Liz Kormos' nomination, doesn't make sense to change to a new law if there are people who want to apply, agrees it makes sense to table these 2 nominations to make room for new people but otherwise these two people should be considered based on qualifications.",
+      "comment_type": "Mixed",
+      "topics": ["planning board appointments", "qualifications", "tabling motions"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["tabling to allow new applicants", "considering candidates based on qualifications"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Questions changing law when people want to apply; supports tabling nominations to allow new applicants but believes candidates should be judged on qualifications",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 44,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Shawn Hinkley",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "commented thanking the board and prior members of the board, made a statement about community interest forms, seems like same people keep making it to the boards, looking for change and improvements try to find them.",
+      "comment_type": "Suggestion",
+      "topics": ["board diversity", "recruitment", "community interest forms"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["board diversity", "new applicants"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Thanks board; notes same people repeatedly appointed; seeks change and improvements in board recruitment",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 45,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Bob Bush",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "h and I given all the interest tonight, we should consider tabling these two to open it up to other people. Need to reach out to public.",
+      "comment_type": "Suggestion",
+      "topics": ["planning board appointments", "public outreach"],
+      "referenced_items": ["h", "i"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["tabling h and i", "public outreach"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Suggests tabling h and i due to public interest; advocates for reaching out to public for more applicants",
+      "board_response": null
+    },
+    {
+      "section": "6",
+      "comment_number": 46,
+      "comment_period": "Public Comment on Agenda Items Only",
+      "speaker": {
+        "name": "Christen Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "since g is going to be tabled, she supports moving forward with h and I since they are appointments as alternates. Village residents should be on these boards, need a diversity of opinions.",
+      "comment_type": "Support",
+      "topics": ["planning board appointments", "board diversity", "resident appointments"],
+      "referenced_items": ["g", "h", "i"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["moving forward with h and i", "village residents on boards", "diversity of opinions"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Since proposal g tabled, supports proceeding with alternate appointments h and i; emphasizes need for village residents and diversity of opinions",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 47,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Sean Hinkley",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "h & I, made a statement regarding putting off the Alternate candidates. Would prefer other people, but if no one else applies is it worth putting them off 2 more weeks.",
+      "comment_type": "Question",
+      "topics": ["planning board appointments", "timing"],
+      "referenced_items": ["h", "i"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questions value of delaying alternate appointments if no other applicants emerge in two weeks",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 48,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Liz Biddle",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "BSBPA event-networking breakfast at Golden Hour Salon at Feb 3rd 8am -930 am",
+      "comment_type": "Information",
+      "topics": ["BSBPA", "networking event"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Announces BSBPA networking breakfast at Golden Hour Salon on Feb 3rd, 8am-9:30am",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 49,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Alex Funicello",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Wanted to welcome the new trustees, supports the idea of having the board give their feedback on why they decide or vote the way they did and like that Trustee VanDeinse-Perez listened to that feedback and voted to table.",
+      "comment_type": "Support",
+      "topics": ["new trustees", "board transparency", "voting explanations"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": ["board explaining votes", "Trustee VanDeinse-Perez listening to feedback"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Welcomes new trustees; supports board transparency in explaining votes; appreciates Trustee VanDeinse-Perez listening to feedback",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 50,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Mike Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Votes and extensions- wanted clarification on the trustees or mayor abstaining from votes.",
+      "comment_type": "Question",
+      "topics": ["voting procedures", "abstentions"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Seeks clarification on rules regarding trustee and mayor abstentions",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 51,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Ben Baskin",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Recruiting process could be strengthened, Process of getting back to both applicants including those who do not get a callback. Also supports what prior speaker mentioned about Mayor abstaining from voting.",
+      "comment_type": "Suggestion",
+      "topics": ["recruitment process", "applicant communication", "mayor voting"],
+      "referenced_items": [],
+      "agrees_with": ["prior speaker"],
+      "opposes": null,
+      "supports": ["improved recruitment process", "communicating with all applicants"],
+      "contains_question": false,
+      "dollar_amounts": [],
+      "summary": "Suggests improving recruitment process including better communication with all applicants; supports prior speaker's point about mayor abstaining",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 52,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Keith Lewis",
+        "address": null,
+        "affiliation": "via Zoom"
+      },
+      "comment_text": "Confused and wants Board to address what it plans to do to mitigate the appointment of the planning board members from the January 1st meeting.",
+      "comment_type": "Question",
+      "topics": ["planning board appointments", "January 1st meeting"],
+      "referenced_items": ["January 1st meeting"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questions board's plan to address planning board appointments from January 1st meeting",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "replied no, Attorney advice session discussion cannot be shared"
+      }
+    },
+    {
+      "section": "14",
+      "comment_number": 53,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Christen Iacolucci",
+        "address": null,
+        "affiliation": null
+      },
+      "comment_text": "Asks the Board about last meeting of 2025 about the resolution brought to the board about immigration enforcement.",
+      "comment_type": "Question",
+      "topics": ["immigration enforcement", "past resolutions"],
+      "referenced_items": ["last meeting of 2025"],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Questions board about immigration enforcement resolution from last 2025 meeting",
+      "board_response": null
+    },
+    {
+      "section": "14",
+      "comment_number": 54,
+      "comment_period": "Public Comment on Any Issue",
+      "speaker": {
+        "name": "Michele Juda",
+        "address": null,
+        "affiliation": "town of Milton resident"
+      },
+      "comment_text": "recently requested Mayor clarify the property tool he created, claims she had been blocked by the mayor on his page.",
+      "comment_type": "Question",
+      "topics": ["property tool", "social media", "access"],
+      "referenced_items": [],
+      "agrees_with": null,
+      "opposes": null,
+      "supports": null,
+      "contains_question": true,
+      "dollar_amounts": [],
+      "summary": "Milton resident requests clarification on mayor's property tool; claims being blocked from mayor's social media page",
+      "board_response": {
+        "responder": "Mayor Rossi",
+        "response": "responded that the page was unpublished and there would be more information when he speaks later"
+      }
+    }
+  ],
+  "mayor_announcements": [
+    {
+      "topic": "Mayor taking time off",
+      "speaker": "Mayor Rossi",
+      "announcement": "Mayor will be taking some time off over the next few to take care of himself, not goodbye, just needs a breather. He made a statement regarding this announcement.",
+      "related_topics": ["mayor health", "time off"],
+      "action_items": [],
+      "dollar_amounts": [],
+      "trustee_responses": []
+    }
+  ],
+  "liaison_reports": [
+    {
+      "trustee": "Trustee VanDeinse-Perez",
+      "committees": ["BSBPA", "Revitalize Ballston Spa (BOA)"],
+      "report": "Chocolate Fest Feb 6th at 5pm, Revitalize Ballston Spa will presenting at the Feb 8th BOT meeting, Fire Dept 2025 had 540 fire calls, represents 5,480 service hours. 2,354 hrs of training/ drills. 1,153 hrs of various specialized training.",
+      "events": [
+        {
+          "event": "Chocolate Fest",
+          "location": null,
+          "date": "February 6, 2026",
+          "time": "5pm"
+        },
+        {
+          "event": "Revitalize Ballston Spa presentation",
+          "location": "BOT meeting",
+          "date": "February 8, 2026",
+          "time": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Fire Department 2025 statistics",
+          "detail": "540 fire calls (5,480 service hours), 2,354 hours training/drills, 1,153 hours specialized training"
+        }
+      ],
+      "related_topics": ["chocolate fest", "BOA", "fire department statistics"]
+    },
+    {
+      "trustee": "Trustee Price-Bush",
+      "committees": ["Friends of the Library"],
+      "report": "Sledding down Bath St scheduled for March 7th 11-2pm, New President elected to the Friends of the Library and they also had a 3 month social media blitz campaign raised $24,000.",
+      "events": [
+        {
+          "event": "Sledding down Bath St",
+          "location": "Bath St",
+          "date": "March 7, 2026",
+          "time": "11am-2pm"
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "Friends of the Library new president",
+          "detail": "New president elected"
+        },
+        {
+          "topic": "Library fundraising",
+          "detail": "3 month social media blitz campaign raised $24,000"
+        }
+      ],
+      "related_topics": ["sledding event", "library", "fundraising"]
+    },
+    {
+      "trustee": "Trustee DuBuque",
+      "committees": ["Historic District Commission", "Committee on the Arts", "Park and Tree Board"],
+      "report": "Historic District Commission holds its next meeting Feb 10th, COA touch of Woodwinds at Brookside Museum Feb 14th at 3pm. Program Music rescheduled to Feb 21st at 3 pm at Brookside Museum. Registration is strongly encouraged. Preparing for National Poetry month in April additional details will be shared as they develop. The Next meeting will be at Brookside Feb 11th, there is a vacancy for this committee- please apply if interested. (not subject to residency limits). Park and tree looking ahead to budget season, exploring improvements to Wiswall, Kelley park and Old Iron Spring. Consistent watering is set for the parks. Reach out if you are looking to plant a tree and feel free to reach out to them for any assistance needed.",
+      "events": [
+        {
+          "event": "Historic District Commission meeting",
+          "location": null,
+          "date": "February 10, 2026",
+          "time": null
+        },
+        {
+          "event": "COA touch of Woodwinds",
+          "location": "Brookside Museum",
+          "date": "February 14, 2026",
+          "time": "3pm"
+        },
+        {
+          "event": "Program Music (rescheduled)",
+          "location": "Brookside Museum",
+          "date": "February 21, 2026",
+          "time": "3pm"
+        },
+        {
+          "event": "COA meeting",
+          "location": "Brookside",
+          "date": "February 11, 2026",
+          "time": null
+        }
+      ],
+      "announcements": [
+        {
+          "topic": "National Poetry Month preparation",
+          "detail": "Preparing for April, details forthcoming"
+        },
+        {
+          "topic": "COA vacancy",
+          "detail": "Vacancy exists, not subject to residency limits"
+        },
+        {
+          "topic": "Park improvements",
+          "detail": "Exploring improvements to Wiswall, Kelley park and Old Iron Spring; consistent watering planned"
+        }
+      ],
+      "related_topics": ["historic district", "arts", "poetry", "parks", "tree planting"]
+    },
+    {
+      "trustee": "Trustee Dunkelbarger",
+      "committees": ["DPW"],
+      "report": "DPW completed commercial water meter readings, started estimated readings. Received completed water leak detection survey. Continues to clean up water Dept on Lowe St., starting flooding the ice rink, installed School banners as part of the Front St beautification. Is preparing equipment and materials for this upcoming snowstorm to ensure safe and efficient operation. If you have a fire hydrant in your yard please make sure you shovel the snow from around it through the storm to help your community.",
+      "dpw_activities": [
+        "Completed commercial water meter readings",
+        "Started estimated readings",
+        "Received completed water leak detection survey",
+        "Continuing water department cleanup on Lowe St",
+        "Starting flooding the ice rink",
+        "Installed school banners for Front St beautification",
+        "Preparing equipment for upcoming snowstorm"
+      ],
+      "action_items": [
+        "Residents should shovel snow from fire hydrants"
+      ],
+      "related_topics": ["DPW operations", "water meters", "leak detection", "ice rink", "beautification", "winter preparation"]
+    }
+  ],
+  "other_business": [
+    {
+      "topic": "Board response to outburst",
+      "speaker": "Trustee Dunkelbarger",
+      "update": "Responds to the outburst from a resident calling the Board members 'Cowards' for tabling the nominations. He clearly heard Mr. Baskin and Ms. Kormos withdraw their nominations if there were other people interested; they both said it which is why he supported the tabling of h and i.",
+      "action_items": [],
+      "related_topics": ["planning board appointments", "public decorum"]
+    },
+    {
+      "topic": "Board response to tabling",
+      "speaker": "Trustee DuBuque",
+      "update": "Agrees with Trustee Dunkelbarger, they are doing their best, could have voted no, instead we tabled it which means not now. Let's get proper information to make sure we are making the best decision.",
+      "action_items": [],
+      "related_topics": ["planning board appointments", "decision making"]
+    },
+    {
+      "topic": "Applicant follow-up",
+      "speaker": "Trustee VanDeinse-Perez",
+      "update": "Getting back to people, would be a good practice to start adopting.",
+      "action_items": ["Improve communication with all applicants"],
+      "related_topics": ["recruitment process", "applicant communication"]
+    }
+  ],
+  "action_items_summary": [
+    "Improve communication with board applicants including those not selected",
+    "Residents should shovel snow from fire hydrants during storms",
+    "Provide more publicity for board position openings",
+    "Schedule budget appointments with Mayor through Jennifer",
+    "Continue exploring park improvements for Wiswall, Kelley Park, and Old Iron Spring",
+    "Complete registration for COA events"
+  ],
+  "dollar_amounts_summary": {
+    "total_vouchers_approved": 178472.55,
+    "equipment_purchases": 2625.00,
+    "personnel_costs": 13782.04,
+    "construction_contracts": 0,
+    "professional_services": 0,
+    "bonding_authority": 600000.00,
+    "items": [
+      {
+        "amount": 2625.00,
+        "description": "Wendy Richards to paint EML firehouse interior"
+      },
+      {
+        "amount": 12514.00,
+        "description": "200 tons Morton's road salt for DPW"
+      },
+      {
+        "amount": 13782.04,
+        "description": "Retired Police Officer Edward Braim final payout (Vacation: 128 hrs, Sick: 206 hrs, Personal: 40 hrs, Comp: 38 hrs)"
+      },
+      {
+        "amount": 600000.00,
+        "description": "Borrowing authority for Milton Water District #3"
+      },
+      {
+        "amount": 500.00,
+        "description": "Pledged per person (22 people) to support challengers if trustees vote for residency law"
+      },
+      {
+        "amount": 24000.00,
+        "description": "Friends of the Library 3-month social media campaign fundraising total"
+      },
+      {
+        "amount": 174687.07,
+        "description": "General Fund vouchers"
+      },
+      {
+        "amount": 2183.68,
+        "description": "Capital Projects vouchers"
+      },
+      {
+        "amount": 1601.80,
+        "description": "Library Fund vouchers"
+      },
+      {
+        "amount": 178472.55,
+        "description": "Total vouchers all funds"
+      }
+    ]
+  },
+  "named_individuals": {
+    "appointees": [],
+    "resignations": [
+      {
+        "name": "Edward Braim",
+        "position": "Police Officer",
+        "status": "Retired; final payout approved"
+      }
+    ],
+    "staff_mentioned": [
+      {
+        "name": "Rebecca Little",
+        "position": "Village Clerk"
+      },
+      {
+        "name": "Jennifer Moskowitz",
+        "position": "Village Administrator"
+      },
+      {
+        "name": "Attorney Buettner",
+        "position": "Village Attorney (via ZOOM)"
+      },
+      {
+        "name": "Wendy Richards",
+        "position": "Contractor for firehouse painting"
+      }
+    ],
+    "vendors_contractors": [
+      {
+        "name": "Ingram Book Company",
+        "service": "Library book supplier (replacing Baker & Taylor)"
+      },
+      {
+        "name": "Baker & Taylor",
+        "service": "Former library book supplier (going out of business)"
+      },
+      {
+        "name": "Morton's",
+        "service": "Road salt supplier"
+      },
+      {
+        "name": "Bartlett, Pontiff, Stewart, & Rhodes, P.C.",
+        "service": "Bond counsel services"
+      },
+      {
+        "name": "LaBella Associates, D.P.C.",
+        "service": "Engineering services for Milton Water District #3"
+      },
+      {
+        "name": "WEX",
+        "service": "HRA card services for employees"
+      }
+    ],
+    "public_commenters": [
+      {
+        "name": "Marilyn Stephenson",
+        "address": null
+      },
+      {
+        "name": "Nathan Ward",
+        "address": null
+      },
+      {
+        "name": "John Cromie",
+        "address": null
+      },
+      {
+        "name": "Lisa Spidel",
+        "address": null
+      },
+      {
+        "name": "Keith Lewis",
+        "address": null
+      },
+      {
+        "name": "Paul Farnan",
+        "address": null
+      },
+      {
+        "name": "Mike Iacolucci",
+        "address": null
+      },
+      {
+        "name": "Carrie Curvin",
+        "address": null
+      },
+      {
+        "name": "Kristina Maas",
+        "address": null
+      },
+      {
+        "name": "Richard Bashant",
+        "address": null
+      },
+      {
+        "name": "Liz Kormos",
+        "address": null
+      },
+      {
+        "name": "Ben Baskin",
+        "address": null
+      },
+      {
+        "name": "Jared Iacolucci",
+        "address": null
+      },
+      {
+        "name": "Shawn Raymond",
+        "address": null
+      },
+      {
+        "name": "Kamran Parwana",
+        "address": null
+      },
+      {
+        "name": "Courtney Ellis",
+        "address": null
+      },
+      {
+        "name": "Alex Funicello",
+        "address": null
+      },
+      {
+        "name": "Mike McNamera",
+        "address": null
+      },
+      {
+        "name": "Christin Iacolucci",
+        "address": null
+      },
+      {
+        "name": "Jean Relyea",
+        "address": null
+      },
+      {
+        "name": "Erin McCredy",
+        "address": null
+      },
+      {
+        "name": "Rory O'Connor",
+        "address": null
+      },
+      {
+        "name": "Cathy Gibson",
+        "address": null
+      },
+      {
+        "name": "Mackenzie Gray",
+        "address": null
+      },
+      {
+        "name": "Kyrstle Nowhitney",
+        "address": null
+      },
+      {
+        "name": "Gina Marozzi",
+        "address": null
+      },
+      {
+        "name": "Melissa Taylor",
+        "address": null
+      },
+      {
+        "name": "Ellie Dillon",
+        "address": null
+      },
+      {
+        "name": "Josh Ness",
+        "address": null
+      },
+      {
+        "name": "Mathew Ercoline",
+        "address": null
+      },
+      {
+        "name": "Karen Avenarius",
+        "address": null
+      },
+      {
+        "name": "Mila Woodfield",
+        "address": null
+      },
+      {
+        "name": "Andy Manion",
+        "address": null
+      },
+      {
+        "name": "Martha Iacolucci",
+        "address": null
+      },
+      {
+        "name": "Shawn Hinkley",
+        "address": null
+      },
+      {
+        "name": "Bob Bush",
+        "address": null
+      },
+      {
+        "name": "Sean Hinkley",
+        "address": null
+      },
+      {
+        "name": "Liz Biddle",
+        "address": null
+      },
+      {
+        "name": "Michele Juda",
+        "address": null
+      }
+    ],
+    "other_mentioned": [
+      {
+        "name": "Matt",
+        "context": "Current planning board member, suggested for removal by Nathan Ward"
+      },
+      {
+        "name": "Mayor Fitzpatrick",
+        "context": "Former mayor, meetings referenced by Keith Lewis"
+      }
+    ]
+  },
+  "locations_referenced": [
+    {
+      "name": "Brookside Museum",
+      "type": "venue",
+      "street": null,
+      "context": "Location for COA events"
+    },
+    {
+      "name": "Golden Hour Salon",
+      "type": "business",
+      "street": null,
+      "context": "BSBPA networking breakfast venue"
+    },
+    {
+      "name": "Bath St",
+      "type": "street",
+      "street": "Bath St",
+      "context": "Sledding event location"
+    },
+    {
+      "name": "Wiswall Park",
+      "type": "park",
+      "street": null,
+      "context": "Park improvements being explored"
+    },
+    {
+      "name": "Kelley Park",
+      "type": "park",
+      "street": null,
+      "context": "Park improvements being explored"
+    },
+    {
+      "name": "Old Iron Spring",
+      "type": "park",
+      "street": null,
+      "context": "Park improvements being explored"
+    },
+    {
+      "name": "Lowe St",
+      "type": "street",
+      "street": "Lowe St",
+      "context": "Water department cleanup location"
+    },
+    {
+      "name": "Front St",
+      "type": "street",
+      "street": "Front St",
+      "context": "Beautification project with school banners"
+    },
+    {
+      "name": "NY-50",
+      "type": "highway",
+      "street": null,
+      "context": "State pavement resurfacing project"
+    }
+  ],
+  "dates_and_deadlines": [
+    {
+      "date": "2026-02-03",
+      "event": "BSBPA networking breakfast at Golden Hour Salon",
+      "time": "8am-9:30am"
+    },
+    {
+      "date": "2026-02-06",
+      "event": "Chocolate Fest",
+      "time": "5pm"
+    },
+    {
+      "date": "2026-02-08",
+      "event": "Revitalize Ballston Spa presentation at BOT meeting",
+      "time": null
+    },
+    {
+      "date": "2026-02-10",
+      "event": "Historic District Commission meeting",
+      "time": null
+    },
+    {
+      "date": "2026-02-11",
+      "event": "COA meeting at Brookside",
+      "time": null
+    },
+    {
+      "date": "2026-02-14",
+      "event": "COA touch of Woodwinds at Brookside Museum",
+      "time": "3pm"
+    },
+    {
+      "date": "2026-02-21",
+      "event": "Program Music at Brookside Museum (rescheduled)",
+      "time": "3pm"
+    },
+    {
+      "date": "end of February 2026",
+      "event": "Budget submissions due",
+      "time": null,
+      "note": "Contact Jennifer to schedule appointments with Mayor"
+    },
+    {
+      "date": "2026-03-07",
+      "event": "Sledding down Bath St",
+      "time": "11am-2pm"
+    },
+    {
+      "date": "April 2026",
+      "event": "National Poetry Month",
+      "time": null,
+      "note": "Details forthcoming"
+    }
+  ]
+}

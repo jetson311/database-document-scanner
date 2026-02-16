@@ -1,0 +1,13 @@
+---
+description: When the user asks for styling/UI/CSS changes only, do not change application logic, prompts, or data flow.
+alwaysApply: true
+---
+
+# Styling-Only Requests: Do Not Change Logic
+
+When the user requests **styling**, **UI**, **CSS**, or **visual/layout** changes only (e.g. spacing, dividers, colors, fonts, pill buttons, header appearance):
+
+- **DO** change only: stylesheets (`*.css`), JSX/TSX layout and className usage, and presentational markup.
+- **DO NOT** change: application logic, API calls, prompts, system instructions, schema, data fetching, chatbot answer content or comprehensiveness, service layer (`anthropicService`, etc.), or any logic that affects what answers or data the user sees.
+
+If the user says "only", "just", "styling", "CSS", "spacing", "visual", "UI", or similar, treat the request as styling-only unless they explicitly ask for logic or behavior changes. Reverting or refactoring should not remove or alter logic that affects answer quality or comprehensiveness.
